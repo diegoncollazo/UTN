@@ -1,0 +1,14 @@
+C:\Users\alumno\Desktop\Clase16\PruebaClase\bin\Debug\PruebaClase.exe.config
+C:\Users\alumno\Desktop\Clase16\PruebaClase\bin\Debug\PruebaClase.exe
+C:\Users\alumno\Desktop\Clase16\PruebaClase\bin\Debug\PruebaClase.pdb
+C:\Users\alumno\Desktop\Clase16\PruebaClase\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Clase16\PruebaClase\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Clase16\PruebaClase\obj\Debug\PruebaClase.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase16\PruebaClase\obj\Debug\PruebaClase.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Clase16\PruebaClase\obj\Debug\PruebaClase.csproj.CopyComplete
+C:\Users\alumno\Desktop\Clase16\PruebaClase\obj\Debug\PruebaClase.exe
+C:\Users\alumno\Desktop\Clase16\PruebaClase\obj\Debug\PruebaClase.pdb
+C:\Users\alumno\Desktop\Clase16\PruebaClase\bin\Debug\EntidadesDos.dll
+C:\Users\alumno\Desktop\Clase16\PruebaClase\bin\Debug\EntidadesDos.pdb
+C:\Users\alumno\Desktop\Clase16\PruebaClase\bin\Debug\ClaseGenerica.dll
+C:\Users\alumno\Desktop\Clase16\PruebaClase\bin\Debug\ClaseGenerica.pdb

@@ -1,0 +1,10 @@
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.PP.Vehículos\Vehiculos\bin\Debug\Vehiculos.exe.config
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.PP.Vehículos\Vehiculos\bin\Debug\Vehiculos.exe
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.PP.Vehículos\Vehiculos\bin\Debug\Vehiculos.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.PP.Vehículos\Vehiculos\bin\Debug\Entidades.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.PP.Vehículos\Vehiculos\bin\Debug\Entidades.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.PP.Vehículos\Vehiculos\obj\Debug\Vehiculos.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.PP.Vehículos\Vehiculos\obj\Debug\Vehiculos.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.PP.Vehículos\Vehiculos\obj\Debug\Vehiculos.csproj.CopyComplete
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.PP.Vehículos\Vehiculos\obj\Debug\Vehiculos.exe
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.PP.Vehículos\Vehiculos\obj\Debug\Vehiculos.pdb

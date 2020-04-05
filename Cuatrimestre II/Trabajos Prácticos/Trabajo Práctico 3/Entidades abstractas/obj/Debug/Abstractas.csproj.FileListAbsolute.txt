@@ -1,0 +1,21 @@
+D:\dcollazo\Downloads\Diego\C Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades abstractas\bin\Debug\Abstractas.dll
+D:\dcollazo\Downloads\Diego\C Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades abstractas\bin\Debug\Abstractas.pdb
+D:\dcollazo\Downloads\Diego\C Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades abstractas\obj\Debug\Abstractas.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\Diego\C Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades abstractas\obj\Debug\Abstractas.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\Diego\C Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades abstractas\obj\Debug\Abstractas.dll
+D:\dcollazo\Downloads\Diego\C Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades abstractas\obj\Debug\Abstractas.pdb
+C:\Users\Romeo\GitHub\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades abstractas\bin\Debug\Abstractas.dll
+C:\Users\Romeo\GitHub\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades abstractas\bin\Debug\Abstractas.pdb
+C:\Users\Romeo\GitHub\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades abstractas\obj\Debug\Abstractas.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades abstractas\obj\Debug\Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades abstractas\obj\Debug\Abstractas.dll
+C:\Users\Romeo\GitHub\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades abstractas\obj\Debug\Abstractas.pdb
+D:\dcollazo\Downloads\Diego\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades abstractas\bin\Debug\Abstractas.dll
+D:\dcollazo\Downloads\Diego\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades abstractas\bin\Debug\Abstractas.pdb
+D:\dcollazo\Downloads\Diego\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades abstractas\obj\Debug\Abstractas.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\Diego\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades abstractas\obj\Debug\Abstractas.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\Diego\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades abstractas\obj\Debug\Abstractas.dll
+D:\dcollazo\Downloads\Diego\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades abstractas\obj\Debug\Abstractas.pdb
+D:\dcollazo\Downloads\Diego\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades abstractas\bin\Debug\Excepciones.dll
+D:\dcollazo\Downloads\Diego\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades abstractas\bin\Debug\Excepciones.pdb
+D:\dcollazo\Downloads\Diego\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades abstractas\obj\Debug\Abstractas.csproj.CopyComplete

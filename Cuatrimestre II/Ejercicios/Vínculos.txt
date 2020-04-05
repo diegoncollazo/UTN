@@ -1,0 +1,17 @@
+https://docs.microsoft.com/es-es/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code?view=vs-2015
+
+https://docs.microsoft.com/es-es/dotnet/csharp/programming-guide/generics/generic-classes
+
+https://docs.microsoft.com/es-es/dotnet/csharp/programming-guide/generics/constraints-on-type-parameters
+
+https://docs.microsoft.com/es-es/dotnet/standard/events/how-to-raise-and-consume-events
+
+https://docs.microsoft.com/es-es/dotnet/csharp/programming-guide/classes-and-structs/instance-constructors
+
+https://docs.microsoft.com/es-es/dotnet/csharp/language-reference/keywords/static
+
+https://docs.microsoft.com/es-es/dotnet/api/system.text.regularexpressions.regex?view=netframework-4.8#regex_vs_string
+
+https://docs.microsoft.com/es-es/dotnet/standard/events/index
+
+https://docs.microsoft.com/es-es/dotnet/api/system.convert.todouble?view=netframework-4.7.2#System_Convert_ToDouble_System_String_

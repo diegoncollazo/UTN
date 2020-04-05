@@ -1,0 +1,24 @@
+F:\C Sharp\Parciales\PP.Comiqueria.2019\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+F:\C Sharp\Parciales\PP.Comiqueria.2019\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+F:\C Sharp\Parciales\PP.Comiqueria.2019\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csprojAssemblyReference.cache
+F:\C Sharp\Parciales\PP.Comiqueria.2019\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+F:\C Sharp\Parciales\PP.Comiqueria.2019\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+F:\C Sharp\Parciales\PP.Comiqueria.2019\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2019.PP.Comiqueria\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2019.PP.Comiqueria\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2019.PP.Comiqueria\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2019.PP.Comiqueria\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2019.PP.Comiqueria\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2019.PP.Comiqueria\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2019.PP.Comiqueria.Finalizar\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2019.PP.Comiqueria.Finalizar\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2019.PP.Comiqueria.Finalizar\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2019.PP.Comiqueria.Finalizar\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2019.PP.Comiqueria.Finalizar\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2019.PP.Comiqueria.Finalizar\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2019.PP.Comiqueria.Finalizar\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2019.PP.Comiqueria.Finalizar\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2019.PP.Comiqueria.Finalizar\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2019.PP.Comiqueria.Finalizar\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2019.PP.Comiqueria.Finalizar\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2019.PP.Comiqueria.Finalizar\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb

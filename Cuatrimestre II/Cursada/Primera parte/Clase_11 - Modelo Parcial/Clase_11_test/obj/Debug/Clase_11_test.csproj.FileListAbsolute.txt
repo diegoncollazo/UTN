@@ -1,0 +1,20 @@
+E:\Segundo cuatrimestre - C#\Clase_11 - Modelo Parcial\Clase_11_test\bin\Debug\Clase_11_test.exe.config
+E:\Segundo cuatrimestre - C#\Clase_11 - Modelo Parcial\Clase_11_test\bin\Debug\Clase_11_test.exe
+E:\Segundo cuatrimestre - C#\Clase_11 - Modelo Parcial\Clase_11_test\bin\Debug\Clase_11_test.pdb
+E:\Segundo cuatrimestre - C#\Clase_11 - Modelo Parcial\Clase_11_test\bin\Debug\Clase_11.dll
+E:\Segundo cuatrimestre - C#\Clase_11 - Modelo Parcial\Clase_11_test\bin\Debug\Clase_11.pdb
+E:\Segundo cuatrimestre - C#\Clase_11 - Modelo Parcial\Clase_11_test\obj\Debug\Clase_11_test.csprojAssemblyReference.cache
+E:\Segundo cuatrimestre - C#\Clase_11 - Modelo Parcial\Clase_11_test\obj\Debug\Clase_11_test.csproj.CoreCompileInputs.cache
+E:\Segundo cuatrimestre - C#\Clase_11 - Modelo Parcial\Clase_11_test\obj\Debug\Clase_11_test.csproj.CopyComplete
+E:\Segundo cuatrimestre - C#\Clase_11 - Modelo Parcial\Clase_11_test\obj\Debug\Clase_11_test.exe
+E:\Segundo cuatrimestre - C#\Clase_11 - Modelo Parcial\Clase_11_test\obj\Debug\Clase_11_test.pdb
+D:\dcollazo\Downloads\C Sharp\Clase_11 - Modelo Parcial\Clase_11_test\bin\Debug\Clase_11_test.exe.config
+D:\dcollazo\Downloads\C Sharp\Clase_11 - Modelo Parcial\Clase_11_test\bin\Debug\Clase_11_test.exe
+D:\dcollazo\Downloads\C Sharp\Clase_11 - Modelo Parcial\Clase_11_test\bin\Debug\Clase_11_test.pdb
+D:\dcollazo\Downloads\C Sharp\Clase_11 - Modelo Parcial\Clase_11_test\bin\Debug\Clase_11.dll
+D:\dcollazo\Downloads\C Sharp\Clase_11 - Modelo Parcial\Clase_11_test\bin\Debug\Clase_11.pdb
+D:\dcollazo\Downloads\C Sharp\Clase_11 - Modelo Parcial\Clase_11_test\obj\Debug\Clase_11_test.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\C Sharp\Clase_11 - Modelo Parcial\Clase_11_test\obj\Debug\Clase_11_test.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\C Sharp\Clase_11 - Modelo Parcial\Clase_11_test\obj\Debug\Clase_11_test.csproj.CopyComplete
+D:\dcollazo\Downloads\C Sharp\Clase_11 - Modelo Parcial\Clase_11_test\obj\Debug\Clase_11_test.exe
+D:\dcollazo\Downloads\C Sharp\Clase_11 - Modelo Parcial\Clase_11_test\obj\Debug\Clase_11_test.pdb

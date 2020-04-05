@@ -1,0 +1,20 @@
+F:\Segundo cuatrimestre - C#\Clase_14_Excepciones\Clase_14_test\bin\Debug\Clase_14_test.exe.config
+F:\Segundo cuatrimestre - C#\Clase_14_Excepciones\Clase_14_test\bin\Debug\Clase_14_test.exe
+F:\Segundo cuatrimestre - C#\Clase_14_Excepciones\Clase_14_test\bin\Debug\Clase_14_test.pdb
+F:\Segundo cuatrimestre - C#\Clase_14_Excepciones\Clase_14_test\bin\Debug\Clase_14.dll
+F:\Segundo cuatrimestre - C#\Clase_14_Excepciones\Clase_14_test\bin\Debug\Clase_14.pdb
+F:\Segundo cuatrimestre - C#\Clase_14_Excepciones\Clase_14_test\obj\Debug\Clase_14_test.csprojAssemblyReference.cache
+F:\Segundo cuatrimestre - C#\Clase_14_Excepciones\Clase_14_test\obj\Debug\Clase_14_test.csproj.CoreCompileInputs.cache
+F:\Segundo cuatrimestre - C#\Clase_14_Excepciones\Clase_14_test\obj\Debug\Clase_14_test.csproj.CopyComplete
+F:\Segundo cuatrimestre - C#\Clase_14_Excepciones\Clase_14_test\obj\Debug\Clase_14_test.exe
+F:\Segundo cuatrimestre - C#\Clase_14_Excepciones\Clase_14_test\obj\Debug\Clase_14_test.pdb
+D:\dcollazo\Downloads\Diego\C Sharp\Cursada\Segunda parte\Clase_14 - Excepciones\Clase_14_test\obj\Debug\Clase_14_test.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\Diego\C Sharp\Cursada\Segunda parte\Clase_14 - Excepciones\Clase_14_test\obj\Debug\Clase_14_test.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\Diego\C Sharp\Cursada\Segunda parte\Clase_14 - Excepciones\Clase_14_test\obj\Debug\Clase_14_test.pdb
+D:\dcollazo\Downloads\Diego\C Sharp\Cursada\Segunda parte\Clase_14 - Excepciones\Clase_14_test\bin\Debug\Clase_14_test.exe.config
+D:\dcollazo\Downloads\Diego\C Sharp\Cursada\Segunda parte\Clase_14 - Excepciones\Clase_14_test\bin\Debug\Clase_14_test.exe
+D:\dcollazo\Downloads\Diego\C Sharp\Cursada\Segunda parte\Clase_14 - Excepciones\Clase_14_test\bin\Debug\Clase_14_test.pdb
+D:\dcollazo\Downloads\Diego\C Sharp\Cursada\Segunda parte\Clase_14 - Excepciones\Clase_14_test\bin\Debug\Clase_14.dll
+D:\dcollazo\Downloads\Diego\C Sharp\Cursada\Segunda parte\Clase_14 - Excepciones\Clase_14_test\bin\Debug\Clase_14.pdb
+D:\dcollazo\Downloads\Diego\C Sharp\Cursada\Segunda parte\Clase_14 - Excepciones\Clase_14_test\obj\Debug\Clase_14_test.csproj.CopyComplete
+D:\dcollazo\Downloads\Diego\C Sharp\Cursada\Segunda parte\Clase_14 - Excepciones\Clase_14_test\obj\Debug\Clase_14_test.exe

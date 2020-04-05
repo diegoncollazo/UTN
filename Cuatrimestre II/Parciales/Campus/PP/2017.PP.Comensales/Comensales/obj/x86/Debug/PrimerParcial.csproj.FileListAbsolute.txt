@@ -1,0 +1,12 @@
+C:\Users\FlorYEze\Downloads\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe
+C:\Users\FlorYEze\Downloads\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.pdb
+C:\Users\FlorYEze\Downloads\PrimerParcial\PrimerParcial\bin\Debug\Apellido.Nombre.dll
+C:\Users\FlorYEze\Downloads\PrimerParcial\PrimerParcial\bin\Debug\Apellido.Nombre.pdb
+C:\Users\FlorYEze\Downloads\PrimerParcial\PrimerParcial\obj\x86\Debug\PrimerParcial.csprojResolveAssemblyReference.cache
+C:\Users\FlorYEze\Downloads\PrimerParcial\PrimerParcial\obj\x86\Debug\PrimerParcial.frmComensal.resources
+C:\Users\FlorYEze\Downloads\PrimerParcial\PrimerParcial\obj\x86\Debug\PrimerParcial.frmMesa.resources
+C:\Users\FlorYEze\Downloads\PrimerParcial\PrimerParcial\obj\x86\Debug\PrimerParcial.frmPrincipal.resources
+C:\Users\FlorYEze\Downloads\PrimerParcial\PrimerParcial\obj\x86\Debug\PrimerParcial.Properties.Resources.resources
+C:\Users\FlorYEze\Downloads\PrimerParcial\PrimerParcial\obj\x86\Debug\PrimerParcial.csproj.GenerateResource.Cache
+C:\Users\FlorYEze\Downloads\PrimerParcial\PrimerParcial\obj\x86\Debug\PrimerParcial.exe
+C:\Users\FlorYEze\Downloads\PrimerParcial\PrimerParcial\obj\x86\Debug\PrimerParcial.pdb

@@ -1,0 +1,12 @@
+D:\Cappato\20190528 - Cappato.Carolina.2D\Entidades\bin\Debug\Entidades.dll
+D:\Cappato\20190528 - Cappato.Carolina.2D\Entidades\bin\Debug\Entidades.pdb
+D:\Cappato\20190528 - Cappato.Carolina.2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Cappato\20190528 - Cappato.Carolina.2D\Entidades\obj\Debug\Entidades.dll
+D:\Cappato\20190528 - Cappato.Carolina.2D\Entidades\obj\Debug\Entidades.pdb
+D:\Cappato\20190528 - Cappato.Carolina.2D\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2019.RPP.Emisores.Cappato\Entidades\bin\Debug\Entidades.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2019.RPP.Emisores.Cappato\Entidades\bin\Debug\Entidades.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2019.RPP.Emisores.Cappato\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2019.RPP.Emisores.Cappato\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2019.RPP.Emisores.Cappato\Entidades\obj\Debug\Entidades.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2019.RPP.Emisores.Cappato\Entidades\obj\Debug\Entidades.pdb

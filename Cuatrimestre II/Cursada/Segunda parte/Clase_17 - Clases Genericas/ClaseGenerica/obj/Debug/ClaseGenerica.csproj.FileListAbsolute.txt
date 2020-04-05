@@ -1,0 +1,11 @@
+C:\Users\alumno\Desktop\Clase16\ClaseGenerica\bin\Debug\ClaseGenerica.dll
+C:\Users\alumno\Desktop\Clase16\ClaseGenerica\bin\Debug\ClaseGenerica.pdb
+C:\Users\alumno\Desktop\Clase16\ClaseGenerica\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Clase16\ClaseGenerica\bin\Debug\EntidadesDos.dll
+C:\Users\alumno\Desktop\Clase16\ClaseGenerica\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Clase16\ClaseGenerica\bin\Debug\EntidadesDos.pdb
+C:\Users\alumno\Desktop\Clase16\ClaseGenerica\obj\Debug\ClaseGenerica.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase16\ClaseGenerica\obj\Debug\ClaseGenerica.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Clase16\ClaseGenerica\obj\Debug\ClaseGenerica.csproj.CopyComplete
+C:\Users\alumno\Desktop\Clase16\ClaseGenerica\obj\Debug\ClaseGenerica.dll
+C:\Users\alumno\Desktop\Clase16\ClaseGenerica\obj\Debug\ClaseGenerica.pdb

@@ -1,0 +1,13 @@
+D:\dcollazo\Downloads\Diego\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Instanciables\obj\Debug\Instanciables.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\Diego\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Instanciables\obj\Debug\Instanciables.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\Diego\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades instanciables\bin\Debug\Instanciables.dll
+D:\dcollazo\Downloads\Diego\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades instanciables\bin\Debug\Instanciables.pdb
+D:\dcollazo\Downloads\Diego\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades instanciables\bin\Debug\Abstractas.dll
+D:\dcollazo\Downloads\Diego\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades instanciables\bin\Debug\Abstractas.pdb
+D:\dcollazo\Downloads\Diego\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades instanciables\obj\Debug\Instanciables.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\Diego\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades instanciables\obj\Debug\Instanciables.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\Diego\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades instanciables\obj\Debug\Instanciables.csproj.CopyComplete
+D:\dcollazo\Downloads\Diego\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades instanciables\obj\Debug\Instanciables.dll
+D:\dcollazo\Downloads\Diego\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades instanciables\obj\Debug\Instanciables.pdb
+D:\dcollazo\Downloads\Diego\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades instanciables\bin\Debug\Excepciones.dll
+D:\dcollazo\Downloads\Diego\C-Sharp\Trabajos Prácticos\Trabajo Práctico 3\Entidades instanciables\bin\Debug\Excepciones.pdb

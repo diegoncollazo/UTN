@@ -1,0 +1,12 @@
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Collazo.Diego.2A.RPP\Entidades\bin\Debug\Entidades.dll
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Collazo.Diego.2A.RPP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Collazo.Diego.2A.RPP\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Collazo.Diego.2A.RPP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Collazo.Diego.2A.RPP\Entidades\obj\Debug\Entidades.dll
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Collazo.Diego.2A.RPP\Entidades\obj\Debug\Entidades.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.RPP.Botonera.Finalizar\Entidades\bin\Debug\Entidades.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.RPP.Botonera.Finalizar\Entidades\bin\Debug\Entidades.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.RPP.Botonera.Finalizar\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.RPP.Botonera.Finalizar\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.RPP.Botonera.Finalizar\Entidades\obj\Debug\Entidades.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.RPP.Botonera.Finalizar\Entidades\obj\Debug\Entidades.pdb

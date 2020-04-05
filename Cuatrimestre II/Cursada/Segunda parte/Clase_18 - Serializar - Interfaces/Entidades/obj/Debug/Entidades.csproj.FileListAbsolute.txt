@@ -1,0 +1,6 @@
+D:\VisualStudio\Collazo.Diego\Entidades\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Collazo.Diego\Entidades\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Collazo.Diego\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\Collazo.Diego\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Collazo.Diego\Entidades\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Collazo.Diego\Entidades\Entidades\obj\Debug\Entidades.pdb

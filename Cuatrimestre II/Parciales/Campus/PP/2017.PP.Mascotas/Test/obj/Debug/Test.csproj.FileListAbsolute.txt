@@ -1,0 +1,10 @@
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2017.PP.Mascotas\Test\bin\Debug\Test.exe.config
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2017.PP.Mascotas\Test\bin\Debug\Test.exe
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2017.PP.Mascotas\Test\bin\Debug\Test.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2017.PP.Mascotas\Test\bin\Debug\Entidades.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2017.PP.Mascotas\Test\bin\Debug\Entidades.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2017.PP.Mascotas\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2017.PP.Mascotas\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2017.PP.Mascotas\Test\obj\Debug\Test.csproj.CopyComplete
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2017.PP.Mascotas\Test\obj\Debug\Test.exe
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2017.PP.Mascotas\Test\obj\Debug\Test.pdb

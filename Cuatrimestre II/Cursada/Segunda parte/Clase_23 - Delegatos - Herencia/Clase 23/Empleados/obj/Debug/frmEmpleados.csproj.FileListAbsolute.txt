@@ -1,0 +1,13 @@
+D:\VisualStudio\Diego\Clase 23\Empleados\obj\Debug\frmEmpleados.csprojAssemblyReference.cache
+D:\VisualStudio\Diego\Clase 23\Empleados\obj\Debug\Empleados.Form1.resources
+D:\VisualStudio\Diego\Clase 23\Empleados\obj\Debug\Empleados.Properties.Resources.resources
+D:\VisualStudio\Diego\Clase 23\Empleados\obj\Debug\frmEmpleados.csproj.GenerateResource.cache
+D:\VisualStudio\Diego\Clase 23\Empleados\obj\Debug\frmEmpleados.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Diego\Clase 23\Empleados\bin\Debug\Empleados.exe.config
+D:\VisualStudio\Diego\Clase 23\Empleados\bin\Debug\Empleados.exe
+D:\VisualStudio\Diego\Clase 23\Empleados\bin\Debug\Empleados.pdb
+D:\VisualStudio\Diego\Clase 23\Empleados\bin\Debug\Entidades.dll
+D:\VisualStudio\Diego\Clase 23\Empleados\bin\Debug\Entidades.pdb
+D:\VisualStudio\Diego\Clase 23\Empleados\obj\Debug\frmEmpleados.csproj.CopyComplete
+D:\VisualStudio\Diego\Clase 23\Empleados\obj\Debug\Empleados.exe
+D:\VisualStudio\Diego\Clase 23\Empleados\obj\Debug\Empleados.pdb

@@ -1,0 +1,20 @@
+E:\Segundo cuatrimestre - C#\Practica PP\PP (Futbol)\VistaConsola\bin\Debug\VistaConsola.exe.config
+E:\Segundo cuatrimestre - C#\Practica PP\PP (Futbol)\VistaConsola\bin\Debug\VistaConsola.exe
+E:\Segundo cuatrimestre - C#\Practica PP\PP (Futbol)\VistaConsola\bin\Debug\VistaConsola.pdb
+E:\Segundo cuatrimestre - C#\Practica PP\PP (Futbol)\VistaConsola\bin\Debug\Entidades.dll
+E:\Segundo cuatrimestre - C#\Practica PP\PP (Futbol)\VistaConsola\bin\Debug\Entidades.pdb
+E:\Segundo cuatrimestre - C#\Practica PP\PP (Futbol)\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+E:\Segundo cuatrimestre - C#\Practica PP\PP (Futbol)\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+E:\Segundo cuatrimestre - C#\Practica PP\PP (Futbol)\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+E:\Segundo cuatrimestre - C#\Practica PP\PP (Futbol)\VistaConsola\obj\Debug\VistaConsola.exe
+E:\Segundo cuatrimestre - C#\Practica PP\PP (Futbol)\VistaConsola\obj\Debug\VistaConsola.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Jugadores\VistaConsola\bin\Debug\VistaConsola.exe.config
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Jugadores\VistaConsola\bin\Debug\VistaConsola.exe
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Jugadores\VistaConsola\bin\Debug\VistaConsola.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Jugadores\VistaConsola\bin\Debug\Entidades.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Jugadores\VistaConsola\bin\Debug\Entidades.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Jugadores\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Jugadores\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Jugadores\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Jugadores\VistaConsola\obj\Debug\VistaConsola.exe
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Jugadores\VistaConsola\obj\Debug\VistaConsola.pdb

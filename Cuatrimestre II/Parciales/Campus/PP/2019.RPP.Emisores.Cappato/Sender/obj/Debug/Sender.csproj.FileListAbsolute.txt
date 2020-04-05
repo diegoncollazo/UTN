@@ -1,0 +1,13 @@
+D:\Cappato\20190528 - Cappato.Carolina.2D\Sender\bin\Debug\Sender.exe.config
+D:\Cappato\20190528 - Cappato.Carolina.2D\Sender\bin\Debug\Sender.exe
+D:\Cappato\20190528 - Cappato.Carolina.2D\Sender\bin\Debug\Sender.pdb
+D:\Cappato\20190528 - Cappato.Carolina.2D\Sender\bin\Debug\Entidades.dll
+D:\Cappato\20190528 - Cappato.Carolina.2D\Sender\bin\Debug\Entidades.pdb
+D:\Cappato\20190528 - Cappato.Carolina.2D\Sender\obj\Debug\Sender.csprojAssemblyReference.cache
+D:\Cappato\20190528 - Cappato.Carolina.2D\Sender\obj\Debug\Sender.FrmSender.resources
+D:\Cappato\20190528 - Cappato.Carolina.2D\Sender\obj\Debug\Sender.Properties.Resources.resources
+D:\Cappato\20190528 - Cappato.Carolina.2D\Sender\obj\Debug\Sender.csproj.GenerateResource.cache
+D:\Cappato\20190528 - Cappato.Carolina.2D\Sender\obj\Debug\Sender.csproj.CoreCompileInputs.cache
+D:\Cappato\20190528 - Cappato.Carolina.2D\Sender\obj\Debug\Sender.csproj.CopyComplete
+D:\Cappato\20190528 - Cappato.Carolina.2D\Sender\obj\Debug\Sender.exe
+D:\Cappato\20190528 - Cappato.Carolina.2D\Sender\obj\Debug\Sender.pdb

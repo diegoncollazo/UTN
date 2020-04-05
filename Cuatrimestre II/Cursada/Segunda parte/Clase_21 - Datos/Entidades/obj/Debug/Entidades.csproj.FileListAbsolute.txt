@@ -1,0 +1,13 @@
+E:\Segundo cuatrimestre - C#\Clase_20 - Datos\Entidades\bin\Debug\Entidades.dll.config
+E:\Segundo cuatrimestre - C#\Clase_20 - Datos\Entidades\bin\Debug\Entidades.dll
+E:\Segundo cuatrimestre - C#\Clase_20 - Datos\Entidades\bin\Debug\Entidades.pdb
+E:\Segundo cuatrimestre - C#\Clase_20 - Datos\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Segundo cuatrimestre - C#\Clase_20 - Datos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Segundo cuatrimestre - C#\Clase_20 - Datos\Entidades\obj\Debug\Entidades.dll
+E:\Segundo cuatrimestre - C#\Clase_20 - Datos\Entidades\obj\Debug\Entidades.pdb
+E:\Segundo cuatrimestre - C#\Clase_21 - Datos\Entidades\bin\Debug\Entidades.dll.config
+E:\Segundo cuatrimestre - C#\Clase_21 - Datos\Entidades\bin\Debug\Entidades.dll
+E:\Segundo cuatrimestre - C#\Clase_21 - Datos\Entidades\bin\Debug\Entidades.pdb
+E:\Segundo cuatrimestre - C#\Clase_21 - Datos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Segundo cuatrimestre - C#\Clase_21 - Datos\Entidades\obj\Debug\Entidades.dll
+E:\Segundo cuatrimestre - C#\Clase_21 - Datos\Entidades\obj\Debug\Entidades.pdb

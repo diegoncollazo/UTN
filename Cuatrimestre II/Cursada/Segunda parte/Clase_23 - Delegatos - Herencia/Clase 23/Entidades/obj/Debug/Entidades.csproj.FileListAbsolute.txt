@@ -1,0 +1,12 @@
+D:\VisualStudio\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Entidades\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Entidades\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Entidades\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Entidades\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Diego\Clase 23\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Diego\Clase 23\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Diego\Clase 23\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\Diego\Clase 23\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Diego\Clase 23\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Diego\Clase 23\Entidades\obj\Debug\Entidades.pdb

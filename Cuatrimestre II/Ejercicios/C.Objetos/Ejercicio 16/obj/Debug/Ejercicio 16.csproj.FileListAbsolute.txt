@@ -1,0 +1,6 @@
+F:\C Sharp\Ejercicios\C.Objetos\Ejercicio 16\bin\Debug\Ejercicio 16.exe.config
+F:\C Sharp\Ejercicios\C.Objetos\Ejercicio 16\bin\Debug\Ejercicio 16.exe
+F:\C Sharp\Ejercicios\C.Objetos\Ejercicio 16\bin\Debug\Ejercicio 16.pdb
+F:\C Sharp\Ejercicios\C.Objetos\Ejercicio 16\obj\Debug\Ejercicio 16.csproj.CoreCompileInputs.cache
+F:\C Sharp\Ejercicios\C.Objetos\Ejercicio 16\obj\Debug\Ejercicio 16.exe
+F:\C Sharp\Ejercicios\C.Objetos\Ejercicio 16\obj\Debug\Ejercicio 16.pdb

@@ -1,0 +1,6 @@
+F:\C Sharp\Ejercicios\Clases\Clase 12\bin\Debug\Clase 12.dll
+F:\C Sharp\Ejercicios\Clases\Clase 12\bin\Debug\Clase 12.pdb
+F:\C Sharp\Ejercicios\Clases\Clase 12\obj\Debug\Clase 12.csprojAssemblyReference.cache
+F:\C Sharp\Ejercicios\Clases\Clase 12\obj\Debug\Clase 12.csproj.CoreCompileInputs.cache
+F:\C Sharp\Ejercicios\Clases\Clase 12\obj\Debug\Clase 12.dll
+F:\C Sharp\Ejercicios\Clases\Clase 12\obj\Debug\Clase 12.pdb

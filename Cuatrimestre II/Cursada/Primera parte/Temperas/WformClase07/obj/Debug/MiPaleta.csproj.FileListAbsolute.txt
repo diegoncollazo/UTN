@@ -1,0 +1,15 @@
+D:\dcollazo\Downloads\Development\github\C-Sharp\Cursada\Primera parte\Temperas\WformClase07\obj\Debug\MiPaleta.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Cursada\Primera parte\Temperas\WformClase07\obj\Debug\WformClase07.frmPaleta.resources
+D:\dcollazo\Downloads\Development\github\C-Sharp\Cursada\Primera parte\Temperas\WformClase07\obj\Debug\WformClase07.frmPrincipal.resources
+D:\dcollazo\Downloads\Development\github\C-Sharp\Cursada\Primera parte\Temperas\WformClase07\obj\Debug\WformClase07.frmTempera.resources
+D:\dcollazo\Downloads\Development\github\C-Sharp\Cursada\Primera parte\Temperas\WformClase07\obj\Debug\MiPaleta.Properties.Resources.resources
+D:\dcollazo\Downloads\Development\github\C-Sharp\Cursada\Primera parte\Temperas\WformClase07\obj\Debug\MiPaleta.csproj.GenerateResource.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Cursada\Primera parte\Temperas\WformClase07\obj\Debug\MiPaleta.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Cursada\Primera parte\Temperas\WformClase07\bin\Debug\MiPaleta.exe.config
+D:\dcollazo\Downloads\Development\github\C-Sharp\Cursada\Primera parte\Temperas\WformClase07\bin\Debug\MiPaleta.exe
+D:\dcollazo\Downloads\Development\github\C-Sharp\Cursada\Primera parte\Temperas\WformClase07\bin\Debug\MiPaleta.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Cursada\Primera parte\Temperas\WformClase07\bin\Debug\Clase06.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Cursada\Primera parte\Temperas\WformClase07\bin\Debug\Clase06.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Cursada\Primera parte\Temperas\WformClase07\obj\Debug\MiPaleta.csproj.CopyComplete
+D:\dcollazo\Downloads\Development\github\C-Sharp\Cursada\Primera parte\Temperas\WformClase07\obj\Debug\MiPaleta.exe
+D:\dcollazo\Downloads\Development\github\C-Sharp\Cursada\Primera parte\Temperas\WformClase07\obj\Debug\MiPaleta.pdb

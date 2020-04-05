@@ -1,0 +1,6 @@
+E:\Segundo cuatrimestre - C#\Clase_11 - Modelo Parcial\Clase_11\bin\Debug\Clase_11.dll
+E:\Segundo cuatrimestre - C#\Clase_11 - Modelo Parcial\Clase_11\bin\Debug\Clase_11.pdb
+E:\Segundo cuatrimestre - C#\Clase_11 - Modelo Parcial\Clase_11\obj\Debug\Clase_11.csprojAssemblyReference.cache
+E:\Segundo cuatrimestre - C#\Clase_11 - Modelo Parcial\Clase_11\obj\Debug\Clase_11.csproj.CoreCompileInputs.cache
+E:\Segundo cuatrimestre - C#\Clase_11 - Modelo Parcial\Clase_11\obj\Debug\Clase_11.dll
+E:\Segundo cuatrimestre - C#\Clase_11 - Modelo Parcial\Clase_11\obj\Debug\Clase_11.pdb

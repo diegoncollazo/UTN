@@ -1,0 +1,17 @@
+E:\Segundo cuatrimestre - C#\Practica PP\PP (Escuela)\Entidades\bin\Debug\Entidades.dll
+E:\Segundo cuatrimestre - C#\Practica PP\PP (Escuela)\Entidades\bin\Debug\Entidades.pdb
+E:\Segundo cuatrimestre - C#\Practica PP\PP (Escuela)\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Segundo cuatrimestre - C#\Practica PP\PP (Escuela)\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Segundo cuatrimestre - C#\Practica PP\PP (Escuela)\Entidades\obj\Debug\Entidades.dll
+E:\Segundo cuatrimestre - C#\Practica PP\PP (Escuela)\Entidades\obj\Debug\Entidades.pdb
+D:\dcollazo\Downloads\C Sharp\Compañeros\Barriento\PP (Escuela)\Entidades\bin\Debug\Entidades.dll
+D:\dcollazo\Downloads\C Sharp\Compañeros\Barriento\PP (Escuela)\Entidades\bin\Debug\Entidades.pdb
+D:\dcollazo\Downloads\C Sharp\Compañeros\Barriento\PP (Escuela)\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\C Sharp\Compañeros\Barriento\PP (Escuela)\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\C Sharp\Compañeros\Barriento\PP (Escuela)\Entidades\obj\Debug\Entidades.dll
+D:\dcollazo\Downloads\C Sharp\Compañeros\Barriento\PP (Escuela)\Entidades\obj\Debug\Entidades.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2018.PP.Escuela\Entidades\bin\Debug\Entidades.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2018.PP.Escuela\Entidades\bin\Debug\Entidades.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2018.PP.Escuela\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2018.PP.Escuela\Entidades\obj\Debug\Entidades.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2018.PP.Escuela\Entidades\obj\Debug\Entidades.pdb

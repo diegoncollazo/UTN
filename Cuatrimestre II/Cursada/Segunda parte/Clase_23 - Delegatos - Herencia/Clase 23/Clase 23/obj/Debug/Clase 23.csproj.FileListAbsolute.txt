@@ -1,0 +1,20 @@
+D:\VisualStudio\Entidades\Clase 23\obj\Debug\Clase 23.csprojAssemblyReference.cache
+D:\VisualStudio\Entidades\Clase 23\obj\Debug\Clase 23.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Entidades\Clase 23\bin\Debug\Clase 23.exe.config
+D:\VisualStudio\Entidades\Clase 23\bin\Debug\Clase 23.exe
+D:\VisualStudio\Entidades\Clase 23\bin\Debug\Clase 23.pdb
+D:\VisualStudio\Entidades\Clase 23\bin\Debug\Entidades.dll
+D:\VisualStudio\Entidades\Clase 23\bin\Debug\Entidades.pdb
+D:\VisualStudio\Entidades\Clase 23\obj\Debug\Clase 23.csproj.CopyComplete
+D:\VisualStudio\Entidades\Clase 23\obj\Debug\Clase 23.exe
+D:\VisualStudio\Entidades\Clase 23\obj\Debug\Clase 23.pdb
+D:\VisualStudio\Diego\Clase 23\Clase 23\bin\Debug\Clase 23.exe.config
+D:\VisualStudio\Diego\Clase 23\Clase 23\bin\Debug\Clase 23.exe
+D:\VisualStudio\Diego\Clase 23\Clase 23\bin\Debug\Clase 23.pdb
+D:\VisualStudio\Diego\Clase 23\Clase 23\bin\Debug\Entidades.dll
+D:\VisualStudio\Diego\Clase 23\Clase 23\bin\Debug\Entidades.pdb
+D:\VisualStudio\Diego\Clase 23\Clase 23\obj\Debug\Clase 23.csprojAssemblyReference.cache
+D:\VisualStudio\Diego\Clase 23\Clase 23\obj\Debug\Clase 23.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Diego\Clase 23\Clase 23\obj\Debug\Clase 23.csproj.CopyComplete
+D:\VisualStudio\Diego\Clase 23\Clase 23\obj\Debug\Clase 23.exe
+D:\VisualStudio\Diego\Clase 23\Clase 23\obj\Debug\Clase 23.pdb

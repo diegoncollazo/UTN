@@ -1,0 +1,14 @@
+E:\Segundo cuatrimestre - C#\Clase_21 - Datos\WindowsForms\bin\Debug\WindowsForms.exe.config
+E:\Segundo cuatrimestre - C#\Clase_21 - Datos\WindowsForms\bin\Debug\WindowsForms.exe
+E:\Segundo cuatrimestre - C#\Clase_21 - Datos\WindowsForms\bin\Debug\WindowsForms.pdb
+E:\Segundo cuatrimestre - C#\Clase_21 - Datos\WindowsForms\bin\Debug\Entidades.dll
+E:\Segundo cuatrimestre - C#\Clase_21 - Datos\WindowsForms\bin\Debug\Entidades.pdb
+E:\Segundo cuatrimestre - C#\Clase_21 - Datos\WindowsForms\bin\Debug\Entidades.dll.config
+E:\Segundo cuatrimestre - C#\Clase_21 - Datos\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+E:\Segundo cuatrimestre - C#\Clase_21 - Datos\WindowsForms\obj\Debug\WindowsForms.FrmListado.resources
+E:\Segundo cuatrimestre - C#\Clase_21 - Datos\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+E:\Segundo cuatrimestre - C#\Clase_21 - Datos\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+E:\Segundo cuatrimestre - C#\Clase_21 - Datos\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+E:\Segundo cuatrimestre - C#\Clase_21 - Datos\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete
+E:\Segundo cuatrimestre - C#\Clase_21 - Datos\WindowsForms\obj\Debug\WindowsForms.exe
+E:\Segundo cuatrimestre - C#\Clase_21 - Datos\WindowsForms\obj\Debug\WindowsForms.pdb

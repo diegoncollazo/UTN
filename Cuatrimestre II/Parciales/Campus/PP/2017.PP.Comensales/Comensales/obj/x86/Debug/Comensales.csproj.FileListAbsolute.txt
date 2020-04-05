@@ -1,0 +1,8 @@
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2017.PP.Comensales\Comensales\obj\x86\Debug\Comensales.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2017.PP.Comensales\Comensales\obj\x86\Debug\PrimerParcial.frmComensal.resources
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2017.PP.Comensales\Comensales\obj\x86\Debug\PrimerParcial.frmMesa.resources
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2017.PP.Comensales\Comensales\obj\x86\Debug\PrimerParcial.frmPrincipal.resources
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2017.PP.Comensales\Comensales\obj\x86\Debug\PrimerParcial.Properties.Resources.resources
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2017.PP.Comensales\Comensales\obj\x86\Debug\Comensales.csproj.GenerateResource.cache
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2017.PP.Comensales\Comensales\obj\x86\Debug\PrimerParcial.exe
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2017.PP.Comensales\Comensales\obj\x86\Debug\PrimerParcial.pdb

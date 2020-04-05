@@ -1,0 +1,18 @@
+C:\Users\Familia\source\repos\PP (Futbol)\Entidades\bin\Debug\Entidades.dll
+C:\Users\Familia\source\repos\PP (Futbol)\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Familia\source\repos\PP (Futbol)\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Familia\source\repos\PP (Futbol)\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Familia\source\repos\PP (Futbol)\Entidades\obj\Debug\Entidades.dll
+C:\Users\Familia\source\repos\PP (Futbol)\Entidades\obj\Debug\Entidades.pdb
+E:\Segundo cuatrimestre - C#\Practica PP\PP (Futbol)\Entidades\bin\Debug\Entidades.dll
+E:\Segundo cuatrimestre - C#\Practica PP\PP (Futbol)\Entidades\bin\Debug\Entidades.pdb
+E:\Segundo cuatrimestre - C#\Practica PP\PP (Futbol)\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Segundo cuatrimestre - C#\Practica PP\PP (Futbol)\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Segundo cuatrimestre - C#\Practica PP\PP (Futbol)\Entidades\obj\Debug\Entidades.dll
+E:\Segundo cuatrimestre - C#\Practica PP\PP (Futbol)\Entidades\obj\Debug\Entidades.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Jugadores\Entidades\bin\Debug\Entidades.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Jugadores\Entidades\bin\Debug\Entidades.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Jugadores\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Jugadores\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Jugadores\Entidades\obj\Debug\Entidades.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Jugadores\Entidades\obj\Debug\Entidades.pdb

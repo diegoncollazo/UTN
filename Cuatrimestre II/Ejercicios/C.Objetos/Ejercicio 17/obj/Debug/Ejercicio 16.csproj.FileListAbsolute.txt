@@ -1,0 +1,12 @@
+D:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 16\bin\Debug\Ejercicio 16.exe.config
+D:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 16\bin\Debug\Ejercicio 16.exe
+D:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 16\bin\Debug\Ejercicio 16.pdb
+D:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 16\bin\Debug\Clase.Boligrafo.dll
+D:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 16\bin\Debug\Clase.Sobrecarga.dll
+D:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 16\bin\Debug\Clase.Boligrafo.pdb
+D:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 16\bin\Debug\Clase.Sobrecarga.pdb
+D:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 16\obj\Debug\Ejercicio 16.csprojAssemblyReference.cache
+D:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 16\obj\Debug\Ejercicio 16.csproj.CoreCompileInputs.cache
+D:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 16\obj\Debug\Ejercicio 16.csproj.CopyComplete
+D:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 16\obj\Debug\Ejercicio 16.exe
+D:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 16\obj\Debug\Ejercicio 16.pdb

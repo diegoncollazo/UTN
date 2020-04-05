@@ -1,0 +1,11 @@
+D:\dcollazo\Downloads\C Sharp\Cursada\Lavadero\Vehiculos\bin\Debug\Vehiculos.dll
+D:\dcollazo\Downloads\C Sharp\Cursada\Lavadero\Vehiculos\bin\Debug\Vehiculos.pdb
+D:\dcollazo\Downloads\C Sharp\Cursada\Lavadero\Vehiculos\obj\Debug\Vehiculos.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\C Sharp\Cursada\Lavadero\Vehiculos\obj\Debug\Vehiculos.dll
+D:\dcollazo\Downloads\C Sharp\Cursada\Lavadero\Vehiculos\obj\Debug\Vehiculos.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Cursada\Primera parte\Lavadero\Vehiculos\bin\Debug\Vehiculos.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Cursada\Primera parte\Lavadero\Vehiculos\bin\Debug\Vehiculos.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Cursada\Primera parte\Lavadero\Vehiculos\obj\Debug\Vehiculos.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Cursada\Primera parte\Lavadero\Vehiculos\obj\Debug\Vehiculos.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Cursada\Primera parte\Lavadero\Vehiculos\obj\Debug\Vehiculos.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Cursada\Primera parte\Lavadero\Vehiculos\obj\Debug\Vehiculos.pdb

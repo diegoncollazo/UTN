@@ -1,0 +1,20 @@
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2017.PP.Financiera\Parcial\bin\Debug\Parcial.exe.config
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2017.PP.Financiera\Parcial\bin\Debug\Parcial.exe
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2017.PP.Financiera\Parcial\bin\Debug\Parcial.pdb
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2017.PP.Financiera\Parcial\obj\Debug\Parcial.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2017.PP.Financiera\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2017.PP.Financiera\Parcial\obj\Debug\Parcial.exe
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2017.PP.Financiera\Parcial\obj\Debug\Parcial.pdb
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2017.PP.Financiera\Parcial\bin\Debug\EntidadFinanciera.dll
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2017.PP.Financiera\Parcial\bin\Debug\EntidadFinanciera.pdb
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2017.PP.Financiera\Parcial\obj\Debug\Parcial.csproj.CopyComplete
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Financiera\Parcial\bin\Debug\Parcial.exe.config
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Financiera\Parcial\bin\Debug\Parcial.exe
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Financiera\Parcial\bin\Debug\Parcial.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Financiera\Parcial\bin\Debug\EntidadFinanciera.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Financiera\Parcial\bin\Debug\EntidadFinanciera.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Financiera\Parcial\obj\Debug\Parcial.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Financiera\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Financiera\Parcial\obj\Debug\Parcial.csproj.CopyComplete
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Financiera\Parcial\obj\Debug\Parcial.exe
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2017.PP.Financiera\Parcial\obj\Debug\Parcial.pdb

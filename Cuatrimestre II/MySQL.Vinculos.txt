@@ -1,0 +1,5 @@
+https://www.mono-project.com/docs/database-access/providers/mysql/
+
+https://dev.mysql.com/downloads/repo/apt/
+
+https://dev.mysql.com/downloads/connector/net/

@@ -1,0 +1,14 @@
+D:\C Sharp\Ejercicios\D.Sobrecarga de operadores\Clase 20\bin\Debug\Clase 20.dll
+D:\C Sharp\Ejercicios\D.Sobrecarga de operadores\Clase 20\bin\Debug\Clase 20.pdb
+D:\C Sharp\Ejercicios\D.Sobrecarga de operadores\Clase 20\obj\Debug\Clase 20.csprojAssemblyReference.cache
+D:\C Sharp\Ejercicios\D.Sobrecarga de operadores\Clase 20\obj\Debug\Clase 20.csproj.CoreCompileInputs.cache
+D:\C Sharp\Ejercicios\D.Sobrecarga de operadores\Clase 20\obj\Debug\Clase 20.dll
+D:\C Sharp\Ejercicios\D.Sobrecarga de operadores\Clase 20\obj\Debug\Clase 20.pdb
+D:\dcollazo\Downloads\Diego\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Clase 20\obj\Debug\Clase 20.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\Diego\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Clase 20\obj\Debug\Clase 20.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\Diego\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Clase 20\obj\Debug\Clase 20.pdb
+C:\Users\Romeo\GitHub\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Clase 20\bin\Debug\Clase 20.dll
+C:\Users\Romeo\GitHub\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Clase 20\bin\Debug\Clase 20.pdb
+C:\Users\Romeo\GitHub\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Clase 20\obj\Debug\Clase 20.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Clase 20\obj\Debug\Clase 20.dll
+C:\Users\Romeo\GitHub\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Clase 20\obj\Debug\Clase 20.pdb

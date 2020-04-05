@@ -1,0 +1,11 @@
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2017.PP.Financiera\EntidadFinanciera\bin\Debug\EntidadFinanciera.dll
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2017.PP.Financiera\EntidadFinanciera\bin\Debug\EntidadFinanciera.pdb
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2017.PP.Financiera\EntidadFinanciera\obj\Debug\EntidadFinanciera.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2017.PP.Financiera\EntidadFinanciera\obj\Debug\EntidadFinanciera.dll
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2017.PP.Financiera\EntidadFinanciera\obj\Debug\EntidadFinanciera.pdb
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2017.PP.Financiera\EntidadFinanciera\bin\Debug\EntidadFinanciera.dll
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2017.PP.Financiera\EntidadFinanciera\bin\Debug\EntidadFinanciera.pdb
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2017.PP.Financiera\EntidadFinanciera\obj\Debug\EntidadFinanciera.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2017.PP.Financiera\EntidadFinanciera\obj\Debug\EntidadFinanciera.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2017.PP.Financiera\EntidadFinanciera\obj\Debug\EntidadFinanciera.dll
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2017.PP.Financiera\EntidadFinanciera\obj\Debug\EntidadFinanciera.pdb

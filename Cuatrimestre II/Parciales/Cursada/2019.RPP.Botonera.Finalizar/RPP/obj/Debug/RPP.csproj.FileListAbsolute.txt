@@ -1,0 +1,39 @@
+F:\C Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\bin\Debug\RPP.exe.config
+F:\C Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\bin\Debug\RPP.exe
+F:\C Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\bin\Debug\RPP.pdb
+F:\C Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\bin\Debug\Bancos.dll
+F:\C Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\bin\Debug\Entidades.dll
+F:\C Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\bin\Debug\Bancos.pdb
+F:\C Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\bin\Debug\Entidades.pdb
+F:\C Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\obj\Debug\RPP.csprojAssemblyReference.cache
+F:\C Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\obj\Debug\RPP.Properties.Resources.resources
+F:\C Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\obj\Debug\RPP.csproj.GenerateResource.cache
+F:\C Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\obj\Debug\RPP.csproj.CoreCompileInputs.cache
+F:\C Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\obj\Debug\RPP.csproj.CopyComplete
+F:\C Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\obj\Debug\RPP.exe
+F:\C Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\obj\Debug\RPP.pdb
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\bin\Debug\RPP.exe.config
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\bin\Debug\RPP.exe
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\bin\Debug\RPP.pdb
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\bin\Debug\Bancos.pdb
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\bin\Debug\Entidades.pdb
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\obj\Debug\RPP.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\obj\Debug\RPP.Properties.Resources.resources
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\obj\Debug\RPP.csproj.GenerateResource.cache
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\obj\Debug\RPP.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\obj\Debug\RPP.csproj.CopyComplete
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\obj\Debug\RPP.exe
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Collazo.Diego.2A.RPP\RPP\obj\Debug\RPP.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.RPP.Botonera.Finalizar\RPP\bin\Debug\RPP.exe.config
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.RPP.Botonera.Finalizar\RPP\bin\Debug\RPP.exe
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.RPP.Botonera.Finalizar\RPP\bin\Debug\RPP.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.RPP.Botonera.Finalizar\RPP\bin\Debug\Entidades.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.RPP.Botonera.Finalizar\RPP\bin\Debug\Bancos.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.RPP.Botonera.Finalizar\RPP\bin\Debug\Entidades.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.RPP.Botonera.Finalizar\RPP\obj\Debug\RPP.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.RPP.Botonera.Finalizar\RPP\obj\Debug\RPP.Properties.Resources.resources
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.RPP.Botonera.Finalizar\RPP\obj\Debug\RPP.csproj.GenerateResource.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.RPP.Botonera.Finalizar\RPP\obj\Debug\RPP.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.RPP.Botonera.Finalizar\RPP\obj\Debug\RPP.csproj.CopyComplete
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.RPP.Botonera.Finalizar\RPP\obj\Debug\RPP.exe
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Cursada\2019.RPP.Botonera.Finalizar\RPP\obj\Debug\RPP.pdb

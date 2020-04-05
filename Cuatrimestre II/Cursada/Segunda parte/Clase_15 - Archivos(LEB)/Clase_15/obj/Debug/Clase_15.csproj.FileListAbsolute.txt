@@ -1,0 +1,19 @@
+E:\Segundo cuatrimestre - C#\Clase_15_WindowsForms\Clase_15\bin\Debug\Clase_15.exe.config
+E:\Segundo cuatrimestre - C#\Clase_15_WindowsForms\Clase_15\bin\Debug\Clase_15.exe
+E:\Segundo cuatrimestre - C#\Clase_15_WindowsForms\Clase_15\bin\Debug\Clase_15.pdb
+E:\Segundo cuatrimestre - C#\Clase_15_WindowsForms\Clase_15\obj\Debug\Clase_15.FrmPrincipal.resources
+E:\Segundo cuatrimestre - C#\Clase_15_WindowsForms\Clase_15\obj\Debug\Clase_15.Properties.Resources.resources
+E:\Segundo cuatrimestre - C#\Clase_15_WindowsForms\Clase_15\obj\Debug\Clase_15.csproj.GenerateResource.cache
+E:\Segundo cuatrimestre - C#\Clase_15_WindowsForms\Clase_15\obj\Debug\Clase_15.csproj.CoreCompileInputs.cache
+E:\Segundo cuatrimestre - C#\Clase_15_WindowsForms\Clase_15\obj\Debug\Clase_15.exe
+E:\Segundo cuatrimestre - C#\Clase_15_WindowsForms\Clase_15\obj\Debug\Clase_15.pdb
+E:\Segundo cuatrimestre - C#\Clase_15 - Archivos(LEB)\Clase_15\obj\Debug\Clase_15.csprojAssemblyReference.cache
+E:\Segundo cuatrimestre - C#\Clase_15 - Archivos(LEB)\Clase_15\obj\Debug\Clase_15.FrmPrincipal.resources
+E:\Segundo cuatrimestre - C#\Clase_15 - Archivos(LEB)\Clase_15\obj\Debug\Clase_15.Properties.Resources.resources
+E:\Segundo cuatrimestre - C#\Clase_15 - Archivos(LEB)\Clase_15\obj\Debug\Clase_15.csproj.GenerateResource.cache
+E:\Segundo cuatrimestre - C#\Clase_15 - Archivos(LEB)\Clase_15\obj\Debug\Clase_15.csproj.CoreCompileInputs.cache
+E:\Segundo cuatrimestre - C#\Clase_15 - Archivos(LEB)\Clase_15\obj\Debug\Clase_15.exe
+E:\Segundo cuatrimestre - C#\Clase_15 - Archivos(LEB)\Clase_15\obj\Debug\Clase_15.pdb
+E:\Segundo cuatrimestre - C#\Clase_15 - Archivos(LEB)\Clase_15\bin\Debug\Clase_15.exe.config
+E:\Segundo cuatrimestre - C#\Clase_15 - Archivos(LEB)\Clase_15\bin\Debug\Clase_15.exe
+E:\Segundo cuatrimestre - C#\Clase_15 - Archivos(LEB)\Clase_15\bin\Debug\Clase_15.pdb

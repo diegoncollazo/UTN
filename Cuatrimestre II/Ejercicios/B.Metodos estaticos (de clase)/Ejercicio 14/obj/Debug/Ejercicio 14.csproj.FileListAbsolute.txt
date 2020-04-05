@@ -1,0 +1,10 @@
+F:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\bin\Debug\Ejercicio 14.exe.config
+F:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\bin\Debug\Ejercicio 14.exe
+F:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\bin\Debug\Ejercicio 14.pdb
+F:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\bin\Debug\Clase 14.dll
+F:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\bin\Debug\Clase 14.pdb
+F:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\obj\Debug\Ejercicio 14.csprojAssemblyReference.cache
+F:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\obj\Debug\Ejercicio 14.csproj.CoreCompileInputs.cache
+F:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\obj\Debug\Ejercicio 14.csproj.CopyComplete
+F:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\obj\Debug\Ejercicio 14.exe
+F:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\obj\Debug\Ejercicio 14.pdb

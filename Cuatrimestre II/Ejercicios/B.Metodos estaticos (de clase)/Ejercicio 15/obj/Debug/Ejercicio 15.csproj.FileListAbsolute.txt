@@ -1,0 +1,7 @@
+F:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 15\bin\Debug\Ejercicio 15.exe.config
+F:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 15\bin\Debug\Ejercicio 15.exe
+F:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 15\bin\Debug\Ejercicio 15.pdb
+F:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 15\obj\Debug\Ejercicio 15.csprojAssemblyReference.cache
+F:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 15\obj\Debug\Ejercicio 15.csproj.CoreCompileInputs.cache
+F:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 15\obj\Debug\Ejercicio 15.exe
+F:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 15\obj\Debug\Ejercicio 15.pdb

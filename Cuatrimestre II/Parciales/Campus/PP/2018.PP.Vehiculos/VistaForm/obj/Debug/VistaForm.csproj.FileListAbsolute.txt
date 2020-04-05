@@ -1,0 +1,13 @@
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2018.PP.Vehiculos.Finalizar\VistaForm\bin\Debug\VistaForm.exe.config
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2018.PP.Vehiculos.Finalizar\VistaForm\bin\Debug\VistaForm.exe
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2018.PP.Vehiculos.Finalizar\VistaForm\bin\Debug\VistaForm.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2018.PP.Vehiculos.Finalizar\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2018.PP.Vehiculos.Finalizar\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2018.PP.Vehiculos.Finalizar\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2018.PP.Vehiculos.Finalizar\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2018.PP.Vehiculos.Finalizar\VistaForm\obj\Debug\VistaForm.exe
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2018.PP.Vehiculos.Finalizar\VistaForm\obj\Debug\VistaForm.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2018.PP.Vehiculos.Finalizar\VistaForm\bin\Debug\Entidades.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2018.PP.Vehiculos.Finalizar\VistaForm\bin\Debug\Entidades.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2018.PP.Vehiculos.Finalizar\VistaForm\obj\Debug\VistaForm.FormPickUp.resources
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\PP\2018.PP.Vehiculos.Finalizar\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete

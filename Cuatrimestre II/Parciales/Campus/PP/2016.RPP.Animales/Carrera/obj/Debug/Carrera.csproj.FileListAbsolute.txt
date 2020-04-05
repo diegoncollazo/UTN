@@ -1,0 +1,39 @@
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.Form1.resources
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.csproj.GenerateResource.cache
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\bin\Debug\Carrera.exe.config
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\bin\Debug\Carrera.exe
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\bin\Debug\Carrera.pdb
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\bin\Debug\Entidades.dll
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\bin\Debug\Entidades.pdb
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.Properties.Resources.resources
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.csproj.CopyComplete
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.exe
+D:\dcollazo\Downloads\C# .NET\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.pdb
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\bin\Debug\Carrera.exe.config
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\bin\Debug\Carrera.exe
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\bin\Debug\Carrera.pdb
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\bin\Debug\Entidades.dll
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\bin\Debug\Entidades.pdb
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.Form1.resources
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.Properties.Resources.resources
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.csproj.GenerateResource.cache
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.csproj.CopyComplete
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.exe
+C:\Users\Romeo\GitHub\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\bin\Debug\Carrera.exe.config
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\bin\Debug\Carrera.exe
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\bin\Debug\Carrera.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\bin\Debug\Entidades.dll
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\bin\Debug\Entidades.pdb
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.Form1.resources
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.Properties.Resources.resources
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.csproj.GenerateResource.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.csproj.CopyComplete
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.exe
+D:\dcollazo\Downloads\Development\github\C-Sharp\Parciales\Campus\2016.RPP.Animales\Carrera\obj\Debug\Carrera.pdb

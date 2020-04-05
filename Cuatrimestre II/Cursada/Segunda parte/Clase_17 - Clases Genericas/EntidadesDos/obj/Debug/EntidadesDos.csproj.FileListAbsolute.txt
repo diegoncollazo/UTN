@@ -1,0 +1,9 @@
+C:\Users\alumno\Desktop\Clase16\EntidadesDos\bin\Debug\EntidadesDos.dll
+C:\Users\alumno\Desktop\Clase16\EntidadesDos\bin\Debug\EntidadesDos.pdb
+C:\Users\alumno\Desktop\Clase16\EntidadesDos\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Clase16\EntidadesDos\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Clase16\EntidadesDos\obj\Debug\EntidadesDos.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase16\EntidadesDos\obj\Debug\EntidadesDos.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Clase16\EntidadesDos\obj\Debug\EntidadesDos.csproj.CopyComplete
+C:\Users\alumno\Desktop\Clase16\EntidadesDos\obj\Debug\EntidadesDos.dll
+C:\Users\alumno\Desktop\Clase16\EntidadesDos\obj\Debug\EntidadesDos.pdb

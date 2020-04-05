@@ -1,0 +1,13 @@
+D:\dcollazo\Downloads\Diego\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\bin\Debug\Ejercicio 20.exe.config
+D:\dcollazo\Downloads\Diego\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\bin\Debug\Ejercicio 20.exe
+D:\dcollazo\Downloads\Diego\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\bin\Debug\Ejercicio 20.pdb
+D:\dcollazo\Downloads\Diego\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\obj\Debug\Ejercicio 20.csprojAssemblyReference.cache
+D:\dcollazo\Downloads\Diego\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\obj\Debug\Ejercicio 20.csproj.CoreCompileInputs.cache
+D:\dcollazo\Downloads\Diego\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\obj\Debug\Ejercicio 20.exe
+D:\dcollazo\Downloads\Diego\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\obj\Debug\Ejercicio 20.pdb
+C:\Users\Romeo\GitHub\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\bin\Debug\Ejercicio 20.exe.config
+C:\Users\Romeo\GitHub\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\bin\Debug\Ejercicio 20.exe
+C:\Users\Romeo\GitHub\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\bin\Debug\Ejercicio 20.pdb
+C:\Users\Romeo\GitHub\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\obj\Debug\Ejercicio 20.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\obj\Debug\Ejercicio 20.exe
+C:\Users\Romeo\GitHub\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\obj\Debug\Ejercicio 20.pdb

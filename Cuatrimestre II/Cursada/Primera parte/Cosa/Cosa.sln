@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase06", "Clase06\Clase06.csproj", "{B4FA0430-AC25-4E3B-B1C1-613B892009B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tempera", "Tempera\Tempera.csproj", "{17FA9F89-A7E2-4923-B778-19DF482F1F53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4FA0430-AC25-4E3B-B1C1-613B892009B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4FA0430-AC25-4E3B-B1C1-613B892009B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4FA0430-AC25-4E3B-B1C1-613B892009B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4FA0430-AC25-4E3B-B1C1-613B892009B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17FA9F89-A7E2-4923-B778-19DF482F1F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17FA9F89-A7E2-4923-B778-19DF482F1F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17FA9F89-A7E2-4923-B778-19DF482F1F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17FA9F89-A7E2-4923-B778-19DF482F1F53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CF70773-8CCA-4F29-AD5C-EC7347EE853A}
+	EndGlobalSection
+EndGlobal
