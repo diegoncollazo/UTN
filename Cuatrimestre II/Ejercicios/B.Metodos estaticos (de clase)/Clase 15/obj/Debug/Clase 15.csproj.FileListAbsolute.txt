@@ -4,3 +4,9 @@ F:\C Sharp\Ejercicios\Clases\Clase 15\obj\Debug\Clase 15.csprojAssemblyReference
 F:\C Sharp\Ejercicios\Clases\Clase 15\obj\Debug\Clase 15.csproj.CoreCompileInputs.cache
 F:\C Sharp\Ejercicios\Clases\Clase 15\obj\Debug\Clase 15.dll
 F:\C Sharp\Ejercicios\Clases\Clase 15\obj\Debug\Clase 15.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\B.Metodos estaticos (de clase)\Clase 15\bin\Debug\Clase 15.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\B.Metodos estaticos (de clase)\Clase 15\bin\Debug\Clase 15.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\B.Metodos estaticos (de clase)\Clase 15\obj\Debug\Clase 15.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\B.Metodos estaticos (de clase)\Clase 15\obj\Debug\Clase 15.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\B.Metodos estaticos (de clase)\Clase 15\obj\Debug\Clase 15.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\B.Metodos estaticos (de clase)\Clase 15\obj\Debug\Clase 15.pdb

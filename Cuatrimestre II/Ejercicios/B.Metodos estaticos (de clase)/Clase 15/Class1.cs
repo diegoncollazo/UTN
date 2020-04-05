@@ -20,7 +20,7 @@ namespace Clase_15
                     resultado = numero1 - numero2;
                     break;
                 case '/':
-                    if (Validar(numero2));
+                    if (Validar(numero2))
                         resultado = numero1 / numero2;
                     break;
                 case '*':
@@ -32,10 +32,7 @@ namespace Clase_15
 
         private static bool Validar(double numero)
         {
-            bool retorno = false;
-            if (numero != 0)
-                retorno = true;
-            return retorno;
+            return (numero != 0);
         }
     }
 }

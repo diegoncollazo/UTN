@@ -10,7 +10,6 @@ namespace Ejercicio_07
     {
         static void Main(string[] args)
         {
-            
             DateTime date1 = new DateTime(2008, 6, 1);
           
             Console.WriteLine(date1.ToString());

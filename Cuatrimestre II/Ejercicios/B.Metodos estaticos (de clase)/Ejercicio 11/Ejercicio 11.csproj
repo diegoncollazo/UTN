@@ -34,7 +34,19 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Clase 11">
-      <HintPath>..\..\Clases\Clase 11\bin\Debug\Clase 11.dll</HintPath>
+      <HintPath>..\Clase 11\bin\Debug\Clase 11.dll</HintPath>
+    </Reference>
+    <Reference Include="Clase 12">
+      <HintPath>..\Clase 12\bin\Debug\Clase 12.dll</HintPath>
+    </Reference>
+    <Reference Include="Clase 13">
+      <HintPath>..\Clase 13\bin\Debug\Clase 13.dll</HintPath>
+    </Reference>
+    <Reference Include="Clase 14">
+      <HintPath>..\Clase 14\bin\Debug\Clase 14.dll</HintPath>
+    </Reference>
+    <Reference Include="Clase 15">
+      <HintPath>..\Clase 15\bin\Debug\Clase 15.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

@@ -10,10 +10,7 @@ namespace Clase_12
     {
         public static bool ValidaS_N(char c)
         {
-            bool retorno = false;
-            if (c == 's' || c == 'S')
-                retorno = true;
-            return retorno;
+            return (c == 's' || c == 'S');
         }
     }
 }

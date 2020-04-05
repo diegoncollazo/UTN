@@ -8,3 +8,13 @@ F:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\obj\Debug\Ejer
 F:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\obj\Debug\Ejercicio 14.csproj.CopyComplete
 F:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\obj\Debug\Ejercicio 14.exe
 F:\C Sharp\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\obj\Debug\Ejercicio 14.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\bin\Debug\Ejercicio 14.exe.config
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\bin\Debug\Ejercicio 14.exe
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\bin\Debug\Ejercicio 14.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\bin\Debug\Clase 14.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\bin\Debug\Clase 14.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\obj\Debug\Ejercicio 14.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\obj\Debug\Ejercicio 14.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\obj\Debug\Ejercicio 14.csproj.CopyComplete
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\obj\Debug\Ejercicio 14.exe
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 14\obj\Debug\Ejercicio 14.pdb
