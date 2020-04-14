@@ -15,3 +15,9 @@ C:\Users\Romeo\GitHub\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Clase 19\bin
 C:\Users\Romeo\GitHub\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Clase 19\obj\Debug\Clase 19.csprojAssemblyReference.cache
 C:\Users\Romeo\GitHub\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Clase 19\obj\Debug\Clase 19.dll
 C:\Users\Romeo\GitHub\C-Sharp\Ejercicios\D.Sobrecarga de operadores\Clase 19\obj\Debug\Clase 19.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\D.Sobrecarga de operadores\Clase 19\bin\Debug\Clase 19.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\D.Sobrecarga de operadores\Clase 19\bin\Debug\Clase 19.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\D.Sobrecarga de operadores\Clase 19\obj\Debug\Clase 19.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\D.Sobrecarga de operadores\Clase 19\obj\Debug\Clase 19.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\D.Sobrecarga de operadores\Clase 19\obj\Debug\Clase 19.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\D.Sobrecarga de operadores\Clase 19\obj\Debug\Clase 19.pdb

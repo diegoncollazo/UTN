@@ -44,8 +44,7 @@ namespace Entidades
         /// <returns>Retorno resultado de la operacion</returns>
         public static double Operar(Numero num1, Numero num2, string operador)
         {
-            double resultado = new double();
-            resultado = 0;
+            double resultado = 0;
             switch (ValidarOperador(operador))
             {
                 case "+"://Suma

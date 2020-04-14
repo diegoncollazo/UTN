@@ -4,3 +4,13 @@ F:\C Sharp\Ejercicios\C.Objetos\Ejercicio 16\bin\Debug\Ejercicio 16.pdb
 F:\C Sharp\Ejercicios\C.Objetos\Ejercicio 16\obj\Debug\Ejercicio 16.csproj.CoreCompileInputs.cache
 F:\C Sharp\Ejercicios\C.Objetos\Ejercicio 16\obj\Debug\Ejercicio 16.exe
 F:\C Sharp\Ejercicios\C.Objetos\Ejercicio 16\obj\Debug\Ejercicio 16.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\C.Objetos\Ejercicio 16\bin\Debug\Ejercicio 16.exe.config
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\C.Objetos\Ejercicio 16\bin\Debug\Ejercicio 16.exe
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\C.Objetos\Ejercicio 16\bin\Debug\Ejercicio 16.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\C.Objetos\Ejercicio 16\obj\Debug\Ejercicio 16.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\C.Objetos\Ejercicio 16\obj\Debug\Ejercicio 16.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\C.Objetos\Ejercicio 16\obj\Debug\Ejercicio 16.exe
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\C.Objetos\Ejercicio 16\obj\Debug\Ejercicio 16.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\C.Objetos\Ejercicio 16\bin\Debug\Clase 16.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\C.Objetos\Ejercicio 16\bin\Debug\Clase 16.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\C.Objetos\Ejercicio 16\obj\Debug\Ejercicio 16.csproj.CopyComplete

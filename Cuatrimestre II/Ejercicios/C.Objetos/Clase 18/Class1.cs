@@ -54,8 +54,8 @@ namespace Geometria
 
         public float Perimetro()
         {
-            Math.Abs();
-            this.vertice1.GetX;
+            //Math.Abs();
+            //this.vertice1.GetX;
 
             return 0;
         }

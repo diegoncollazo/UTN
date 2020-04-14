@@ -20,7 +20,7 @@ namespace Clase_16
             Random random = new Random();
             if (nota1 >= 4 && nota2 >= 4)
             {
-                this.notaFinal = (byte)(random.Next(1, 10));
+                this.notaFinal = (byte)random.Next(1, 10);
             }
         }
 

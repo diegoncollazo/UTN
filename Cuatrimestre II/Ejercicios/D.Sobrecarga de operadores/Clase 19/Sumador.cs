@@ -27,10 +27,7 @@ namespace Clase_19
         //Pipe
         public static bool operator |(Sumador s1, Sumador s2)
         {
-            bool retorno = false;
-            if (s1.cantidadSumas == s2.cantidadSumas)
-                retorno = true;
-            return retorno;
+            return (s1.cantidadSumas == s2.cantidadSumas);
         }
         //Sumador
         public static long operator +(Sumador s1, Sumador s2)

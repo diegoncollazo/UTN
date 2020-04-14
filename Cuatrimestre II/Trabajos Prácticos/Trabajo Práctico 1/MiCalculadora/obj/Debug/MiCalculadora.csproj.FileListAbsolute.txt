@@ -36,3 +36,16 @@ C:\Users\Romeo\GitHub\tp_laboratorio_2\Trabajo Práctico 1\MiCalculadora\obj\Deb
 C:\Users\Romeo\GitHub\tp_laboratorio_2\Trabajo Práctico 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
 C:\Users\Romeo\GitHub\tp_laboratorio_2\Trabajo Práctico 1\MiCalculadora\obj\Debug\MiCalculadora.exe
 C:\Users\Romeo\GitHub\tp_laboratorio_2\Trabajo Práctico 1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 1\MiCalculadora\obj\Debug\MiCalculadora.pdb

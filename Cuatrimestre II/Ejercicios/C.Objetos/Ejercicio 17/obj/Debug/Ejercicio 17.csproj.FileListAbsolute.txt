@@ -9,3 +9,13 @@ F:\C Sharp\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.CoreC
 F:\C Sharp\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.CopyComplete
 F:\C Sharp\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 16.exe
 F:\C Sharp\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 16.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 17.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 16.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\C.Objetos\Ejercicio 17\bin\Debug\Ejercicio 16.exe.config
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\C.Objetos\Ejercicio 17\bin\Debug\Ejercicio 16.exe
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\C.Objetos\Ejercicio 17\bin\Debug\Ejercicio 16.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\C.Objetos\Ejercicio 17\bin\Debug\Clase.Boligrafo.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\C.Objetos\Ejercicio 17\bin\Debug\Clase.Boligrafo.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.CopyComplete
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 16.exe
