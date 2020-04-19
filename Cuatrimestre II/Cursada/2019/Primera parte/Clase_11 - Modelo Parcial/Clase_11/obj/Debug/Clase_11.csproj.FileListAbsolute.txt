@@ -4,3 +4,9 @@ E:\Segundo cuatrimestre - C#\Clase_11 - Modelo Parcial\Clase_11\obj\Debug\Clase_
 E:\Segundo cuatrimestre - C#\Clase_11 - Modelo Parcial\Clase_11\obj\Debug\Clase_11.csproj.CoreCompileInputs.cache
 E:\Segundo cuatrimestre - C#\Clase_11 - Modelo Parcial\Clase_11\obj\Debug\Clase_11.dll
 E:\Segundo cuatrimestre - C#\Clase_11 - Modelo Parcial\Clase_11\obj\Debug\Clase_11.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Cursada\2019\Primera parte\Clase_11 - Modelo Parcial\Clase_11\bin\Debug\Clase_11.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Cursada\2019\Primera parte\Clase_11 - Modelo Parcial\Clase_11\bin\Debug\Clase_11.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Cursada\2019\Primera parte\Clase_11 - Modelo Parcial\Clase_11\obj\Debug\Clase_11.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Cursada\2019\Primera parte\Clase_11 - Modelo Parcial\Clase_11\obj\Debug\Clase_11.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Cursada\2019\Primera parte\Clase_11 - Modelo Parcial\Clase_11\obj\Debug\Clase_11.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Cursada\2019\Primera parte\Clase_11 - Modelo Parcial\Clase_11\obj\Debug\Clase_11.pdb

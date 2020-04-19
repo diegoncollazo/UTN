@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Entidades_2018;
 
 namespace TP_02_2018
 {
@@ -16,57 +15,61 @@ namespace TP_02_2018
             Console.SetWindowSize(Console.LargestWindowWidth / 2, Console.LargestWindowHeight - 2);
 
             // Nombre del alumno
-            //Console.
+            Console.Title = "";
 
-            Changuito changoDeCompras = new Changuito(6);
+            Estacionamiento estacionamiento = new Estacionamiento(6);
 
-            Dulce c1 = new Dulce(Producto.EMarca.Sancor, "ASD012", ConsoleColor.Black);
-            Dulce c2 = new Dulce(Producto.EMarca.Ilolay, "ASD913", ConsoleColor.Red);
-            Leche m1 = new Leche(Producto.EMarca.Pepsico, "HJK789", ConsoleColor.White);
-            Leche m2 = new Leche(Producto.EMarca.Serenisima, "IOP852", ConsoleColor.Blue, Leche.ETipo.Descremada);
-            Snacks a1 = new Snacks(Producto.EMarca.Campagnola, "QWE968", ConsoleColor.Gray);
-            Snacks a2 = new Snacks(Producto.EMarca.Arcor, "TYU426", ConsoleColor.DarkBlue);
-            Snacks a3 = new Snacks(Producto.EMarca.Sancor, "IOP852", ConsoleColor.Green);
-            Snacks a4 = new Snacks(Producto.EMarca.Sancor, "TRE321", ConsoleColor.Green);
+            Moto c1 = new Moto(Vehiculo.EMarca.BMW, "ASD012", ConsoleColor.Black);
+            Moto c2 = new Moto(Vehiculo.EMarca.Honda, "ASD913", ConsoleColor.Red);
+            Automovil m1 = new Automovil(Vehiculo.EMarca.Toyota, "HJK789", ConsoleColor.White);
+            Automovil m2 = new Automovil(Vehiculo.EMarca.Chevrolet, "IOP852", ConsoleColor.Blue, Automovil.ETipo.Sedan);
+            Camioneta a1 = new Camioneta(Vehiculo.EMarca.Ford, "QWE968", ConsoleColor.Gray);
+            Camioneta a2 = new Camioneta(Vehiculo.EMarca.Renault, "TYU426", ConsoleColor.DarkBlue);
+            Camioneta a3 = new Camioneta(Vehiculo.EMarca.BMW, "IOP852", ConsoleColor.Green);
+            Camioneta a4 = new Camioneta(Vehiculo.EMarca.BMW, "TRE321", ConsoleColor.Green);
 
             // Agrego 8 ítems (los últimos 2 no deberían poder agregarse ni el m1 repetido) y muestro
-            changoDeCompras += c1;
-            changoDeCompras += c2;
-            changoDeCompras += m1;
-            changoDeCompras += m1;
-            changoDeCompras += m2;
-            changoDeCompras += a1;
-            changoDeCompras += a2;
-            changoDeCompras += a3;
-            changoDeCompras += a4;
+            estacionamiento += c1;
+            estacionamiento += c2;
+            estacionamiento += m1;
+            estacionamiento += m1;
+            estacionamiento += m2;
+            estacionamiento += a1;
+            estacionamiento += a2;
+            estacionamiento += a3;
+            estacionamiento += a4;
 
-            Console.WriteLine(changoDeCompras.ToString());
+            Console.WriteLine(estacionamiento.ToString());
             Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR----------->");
             Console.ReadKey();
             Console.Clear();
 
-            // Quito un item y muestro
-            changoDeCompras -= c1;
+            // Quito 2 items y muestro
+            estacionamiento -= c1;
+            estacionamiento -= new Moto(Vehiculo.EMarca.Honda, "ASD913", ConsoleColor.Red);
 
-            Console.WriteLine(changoDeCompras.ToString());
+            Console.WriteLine(estacionamiento.ToString());
             Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR----------->");
             Console.ReadKey();
             Console.Clear();
 
-            // Muestro solo Dulces
-            Console.WriteLine(Changuito.Mostrar(changoDeCompras, Changuito.ETipo.Dulce));
+            // Vuelvo a agregar c2
+            estacionamiento += c2;
+
+            // Muestro solo Moto
+            Console.WriteLine(Estacionamiento.Mostrar(estacionamiento, Estacionamiento.ETipo.Moto));
+            Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR----------->       Cons
+            Console.Beep();
+            Console.Clear();
+
+            // Muestro solo Automovil
+            Console.WriteLine(Estacionamiento.Mostrar(estacionamiento, Estacionamiento.ETipo.Automovil));
             Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR----------->");
             Console.ReadKey();
             Console.Clear();
 
-            // Muestro solo Leches
-            Console.WriteLine(Changuito.Mostrar(changoDeCompras, Changuito.ETipo.Leche));
-            Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR----------->");
-            Console.ReadKey();
-            Console.Clear();
-
-            // Muestro solo Snacks
-            Console.WriteLine(Changuito.Mostrar(changoDeCompras, Changuito.ETipo.Snacks));
+            // Muestro solo Camioneta
+            Console.WriteLine(Estacionamiento.Mostrar(estacionamiento, Estacionamiento.ETipo.Camioneta));
             Console.WriteLine("<-------------PRESIONE UNA TECLA PARA SALIR------------->");
             Console.ReadKey();
         }

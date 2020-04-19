@@ -1,0 +1,5 @@
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Cursada\2020\Primera parte\Listas genericas\Entidades\bin\Debug\Entidades.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Cursada\2020\Primera parte\Listas genericas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Cursada\2020\Primera parte\Listas genericas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Cursada\2020\Primera parte\Listas genericas\Entidades\obj\Debug\Entidades.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Cursada\2020\Primera parte\Listas genericas\Entidades\obj\Debug\Entidades.pdb
