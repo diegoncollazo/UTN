@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Entidades;
 
 namespace TP_02_2018
 {
@@ -15,7 +16,7 @@ namespace TP_02_2018
             Console.SetWindowSize(Console.LargestWindowWidth / 2, Console.LargestWindowHeight - 2);
 
             // Nombre del alumno
-            Console.Title = "";
+            Console.Title = "Diego Collazo 2A";
 
             Estacionamiento estacionamiento = new Estacionamiento(6);
 
@@ -58,7 +59,7 @@ namespace TP_02_2018
 
             // Muestro solo Moto
             Console.WriteLine(Estacionamiento.Mostrar(estacionamiento, Estacionamiento.ETipo.Moto));
-            Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR----------->       Cons
+            Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR----------->");
             Console.Beep();
             Console.Clear();
 

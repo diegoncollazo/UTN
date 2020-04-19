@@ -9,65 +9,100 @@ namespace Entidades
     /// <summary>
     /// La clase Vehiculo no deberá permitir que se instancien elementos de este tipo.
     /// </summary>
-    public sealed class Vehiculo
+    public abstract class Vehiculo
     {
-        enum EMarca
+        #region Enumerados
+        /// <summary>
+        /// Enumerados de Marca
+        /// </summary>
+        public enum EMarca
         {
             Chevrolet, Ford, Renault, Toyota, BMW, Honda
         }
-        enum ETamanio
+        /// <summary>
+        /// 
+        /// </summary>
+        public enum ETamanio
         {
             Chico, Mediano, Grande
         }
-        EMarca marca;
-        string chasis;
-        ConsoleColor color;
+        #endregion
 
+        #region Atributos
         /// <summary>
-        /// ReadOnly: Retornará el tamaño
+        /// Atributos de instancia privados
         /// </summary>
-        abstract ETamanio Tamanio { get; set; }
+        private string chasis;
+        private ConsoleColor color;
+        private EMarca marca;
+        #endregion
 
+        #region Propiedades
         /// <summary>
-        /// Publica todos los datos del Vehiculo.
+        /// Propiedad de solo lectura :Retornará el tamaño
         /// </summary>
-        /// <returns></returns>
-        sealed string Mostrar()
+        public abstract ETamanio Tamanio { get; }
+        #endregion
+
+        #region Constructores
+        /// <summary>
+        /// Único constructor de instancia.
+        /// </summary>
+        /// <param name="chasis">Chasis del vehículo</param>
+        /// <param name="marca">Marca del vehículo</param>
+        /// <param name="color">Color del vehículo</param>
+        public Vehiculo(string chasis, EMarca marca, ConsoleColor color)
         {
-            return this;
+            this.chasis = chasis;
+            this.marca = marca;
+            this.color = color;
         }
+        #endregion
 
-        private static explicit operator string(Vehiculo p)
+        #region Metodos
+        /// <summary>
+        /// Publica todos los datos del vehículo.
+        /// </summary>
+        /// <returns>Retorna informacion completa del vehículo.</returns>
+        public virtual string Mostrar()
+        {
+            return (string)this;
+        }
+        /// <summary>
+        /// Publica todos los datos del vehículo con conversión explicita.
+        /// </summary>
+        /// <param name="p">Vehículo a informar.</param>
+        public static explicit operator string(Vehiculo p)
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine("CHASIS: {0}\r\n", p.chasis);
-            sb.AppendLine("MARCA : {0}\r\n", p.marca.ToString());
-            sb.AppendLine("COLOR : {0}\r\n", p.color.ToString());
+            sb.AppendFormat("CHASIS: {0}\r\n", p.chasis);
+            sb.AppendFormat("MARCA : {0}\r\n", p.marca.ToString());
+            sb.AppendFormat("COLOR : {0}\r\n", p.color.ToString());
             sb.AppendLine("---------------------");
 
-            return sb;
+            return sb.ToString();
         }
-
         /// <summary>
-        /// Dos vehiculos son iguales si comparten el mismo chasis
+        /// Dos vehiculos son iguales si comparten el mismo chasis.
         /// </summary>
-        /// <param name="v1"></param>
-        /// <param name="v2"></param>
+        /// <param name="v1">Primer vehículo a comparar.</param>
+        /// <param name="v2">Segundo vehículo a comparar.</param>
         /// <returns></returns>
         public static bool operator ==(Vehiculo v1, Vehiculo v2)
         {
             return (v1.chasis == v2.chasis);
         }
         /// <summary>
-        /// Dos vehiculos son distintos si su chasis es distinto
+        /// Dos vehiculos son distintos si su chasis es distinto.
         /// </summary>
-        /// <param name="v1"></param>
-        /// <param name="v2"></param>
+        /// <param name="v1">Primer vehículo a comparar.</param>
+        /// <param name="v2">Segundo vehículo a comparar.</param>
         /// <returns></returns>
         public static bool operator !=(Vehiculo v1, Vehiculo v2)
         {
-            return (v1.chasis == v2.chasis);
+            return !(v1 == v2);
         }
+        #endregion
     }
 }

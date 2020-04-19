@@ -8,46 +8,79 @@ using System.Drawing;
 
 namespace Entidades
 {
-    class Automovil
+    public class Automovil : Vehiculo
     {
-        public enum ETipo { Monovolumen, Sedan }
-        ETipo tipo;
-
+        #region Enumerados
         /// <summary>
-        /// Por defecto, TIPO será Monovolumen
+        /// Enumerados de tipo de auto.
         /// </summary>
-        /// <param name="marca"></param>
-        /// <param name="chasis"></param>
-        /// <param name="color"></param>
-        public Automovil(ETipo marca, string chasis, ConsoleColor color)
-            : base(chasis, marca, color)
-        {
-            tipo = ETipo.Monovolumen;
+        public enum ETipo { 
+            Monovolumen, Sedan
         }
+        #endregion
 
+        #region Atributos
         /// <summary>
-        /// Los automoviles son medianos
+        /// Atributos
         /// </summary>
-        protected override short Tamanio
+        private ETipo tipo;
+        #endregion
+
+        #region Propiedades
+        /// <summary>
+        /// Los automoviles son medianos.
+        /// </summary>
+        public override ETamanio Tamanio
         {
             get
             {
-                return this.Tamanio;
+                return ETamanio.Mediano;
             }
         }
+        #endregion
 
-        public override sealed string Mostrar()
+        #region Constructores
+        /// <summary>
+        /// Constructor de instancia. Atributo tipo por defecto será Monovolumen.
+        /// </summary>
+        /// <param name="marca">Marca del auto.</param>
+        /// <param name="chasis">Chasis del auto.</param>
+        /// <param name="color">Color del auto.</param>
+        public Automovil(EMarca marca, string chasis, ConsoleColor color) : this(marca, chasis, color, ETipo.Monovolumen)    
+        {
+
+        }
+        /// <summary>
+        /// Constructor de instancia. Atributo tipo a elección.
+        /// </summary>
+        /// <param name="marca">Marca del auto.</param>
+        /// <param name="chasis">Chasis del auto.</param>
+        /// <param name="color">Color del auto.</param>
+        /// <param name="tipo">Tipo de auto.</param>
+        public Automovil(EMarca marca, string chasis, ConsoleColor color, ETipo tipo) : base(chasis, marca, color)
+        {
+            this.tipo = tipo;
+        }
+        #endregion
+
+        #region Metodos
+        /// <summary>
+        /// Publica todos los datos del automovil.
+        /// </summary>
+        /// <returns>Retorna informacion completa del automovil.</returns>
+        public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine("AUTOMOVIL");
-            sb.AppendLine(this);
-            sb.AppendLine("TAMAÑO : {0}", this.Tamanio);
-            sb.AppendLine("TIPO : " + this.tipo);
+            sb.AppendLine(base.Mostrar());
+            sb.AppendLine("TAMAÑO: " + this.Tamanio.ToString());
+            sb.AppendLine("TIPO:   " + this.tipo.ToString());
             sb.AppendLine("");
             sb.AppendLine("---------------------");
 
-            return sb;
+            return sb.ToString();
         }
+        #endregion
     }
 }

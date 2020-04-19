@@ -6,34 +6,51 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public class Camioneta
+    public class Camioneta : Vehiculo
     {
-        public Camioneta(EMarca marca, string chasis, ConsoleColor color)
-            : base(chasis, marca, color)
-        {
-        }
+        #region Propiedades
         /// <summary>
-        /// Las camionetas son grandes
+        /// Las camionetas son grandes.
         /// </summary>
-        protected override short Tamanio
+        public override ETamanio Tamanio
         {
             get
             {
-                return 0;
+                return ETamanio.Grande;
             }
         }
+        #endregion
 
-        public override sealed string Mostrar()
+        #region Constructores
+        /// <summary>
+        /// Único constructor de instancia.
+        /// </summary>
+        /// <param name="marca">Marca de la camioneta.</param>
+        /// <param name="codigo">Chasis de la camioneta.</param>
+        /// <param name="color">Color de la camioneta.</param>
+        public Camioneta(EMarca marca, string codigo, ConsoleColor color) : base(codigo, marca, color)
+        {
+
+        }
+        #endregion
+
+        #region Metodos
+        /// <summary>
+        /// Publica todos los datos de la camioneta.
+        /// </summary>
+        /// <returns>Retorna informacion completa de la camioneta.</returns>
+        public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine("CAMIONETA");
-            sb.AppendLine(base);
-            sb.AppendLine("TAMAÑO : {0}", this.Tamanio);
+            sb.AppendLine(base.Mostrar());
+            sb.AppendLine("TAMAÑO: " + this.Tamanio.ToString());
             sb.AppendLine("");
             sb.AppendLine("---------------------");
 
-            return sb;
+            return sb.ToString();
         }
+        #endregion
     }
 }
