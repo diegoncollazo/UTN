@@ -30,14 +30,12 @@ namespace Entidades
         {
             Random random = new Random();
             this._aliasParaIncognito = random.Next(1000, 9999).ToString() + _tipoDeCliente.ToString();
-
         }
         public string GetAlias()
         {
-            string retorno = this._aliasParaIncognito;
             if (this._aliasParaIncognito == "Sin Alias")
                 CrearAlias();
-            return retorno;
+            return this._aliasParaIncognito;
         }
         private string RetornarDatos()
         {

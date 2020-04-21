@@ -20,7 +20,7 @@ namespace Entidades
             fechaInicioActividades = DateTime.Now;
         }
 
-        public ParaisoFiscal()
+        private ParaisoFiscal()
         {
             this._listadoCuentas = new List<CuentaOffShore>();
         }
@@ -80,13 +80,14 @@ namespace Entidades
             else
             {
                 foreach (CuentaOffShore item in pf._listadoCuentas)
-                    if (item == cos)
+                {
+                    if (cos == item)
                     {
-                        item.Saldo += cos.Saldo;
+                        item.Saldo += item.Saldo;
                         Console.WriteLine("Se actualizó el saldo de la cuenta...");
                     }
+                }
             }
-                
             return pf;
         }
         public static ParaisoFiscal operator -(ParaisoFiscal pf, CuentaOffShore cos)

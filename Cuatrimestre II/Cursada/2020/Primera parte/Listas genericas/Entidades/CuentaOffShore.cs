@@ -48,7 +48,7 @@ namespace Entidades
         }
         public static bool operator ==(CuentaOffShore cos1, CuentaOffShore cos2)
         {
-            return (cos1._numeroDeCuenta == cos2._numeroDeCuenta && cos1.Dueño == cos2.Dueño);
+            return (int)cos1 == (int)cos2 && cos1._dueño.GetAlias() == cos2.Dueño.GetAlias();
         }
         public static bool operator !=(CuentaOffShore cos1, CuentaOffShore cos2)
         {
