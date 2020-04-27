@@ -19,26 +19,6 @@ namespace Ejercicio_07
             date2.ToUniversalTime(); 
             Console.WriteLine(date2.DayOfWeek);
             Console.WriteLine(date2.ToString("dd/MM/yyyy"));
-
-
-            /*
-            double a = 3.25;
-            double b = Math.Floor(a);
-            double c = a - b;
-            Console.WriteLine(b);
-            Console.ReadLine();
-            */
-
-            //int year;
-            //Console.Write("Ingrese su fecha de nacimiento: ");
-            //year = int.Parse(Console.ReadLine());
-
-
-
-            //if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0))
-            //    Console.WriteLine("Es bisiesto.");
-            //else
-            //    Console.WriteLine("No es bisiesto.");
             Console.ReadKey();
                 
         }

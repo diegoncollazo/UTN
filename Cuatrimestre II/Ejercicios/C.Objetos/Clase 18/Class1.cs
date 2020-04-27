@@ -63,8 +63,3 @@ namespace Geometria
         
     }
 }
-
-namespace PruebGeometria
-{
-
-}

@@ -41,7 +41,7 @@ namespace Entidades
         {
             StringBuilder retorno = new StringBuilder();
             retorno.AppendFormat("Nombre: {0}\n", this._nombre);
-            retorno.AppendFormat("Alias: {0}\n", this._aliasParaIncognito);
+            retorno.AppendFormat("Alias: {0}\n", this.GetAlias());
             retorno.AppendFormat("Tipo de cliente: {0}\n", this._tipoDeCliente.ToString());
             return retorno.ToString();
         }

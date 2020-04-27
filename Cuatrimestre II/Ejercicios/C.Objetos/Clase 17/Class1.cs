@@ -44,17 +44,17 @@ public class Boligrafo
     private void SetTinta(short tinta)
     {
         if (tinta >= 0 && tinta <= 100)
-        {
+        
             this.tinta = tinta;
-        }
+        
         else if (tinta < 0)
-        {   
+        
             this.tinta -= tinta; // Resto tinta
-        }
+        
     }
     //Listo
     public void Recargar()
     {
-        SetTinta(100);
+        SetTinta(cantidadTintaMaxima);
     }
 }

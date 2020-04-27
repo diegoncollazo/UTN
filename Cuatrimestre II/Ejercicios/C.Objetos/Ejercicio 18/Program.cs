@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ejercicio_18
+namespace PruebaGeometria
 {
     class Program
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

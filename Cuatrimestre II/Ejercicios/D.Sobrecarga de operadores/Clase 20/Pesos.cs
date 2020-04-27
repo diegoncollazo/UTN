@@ -26,18 +26,16 @@ namespace Billetes
             Pesos.cotizRespectoDolar = cotizacion;
         }
         //Getter Cantidad
-        public double GetCantidad
+        public double GetCantidad()
         {
-            get
-            {
-                return this.cantidad;
-            }
+            return this.cantidad;
         }
         //Getter Estatico Cotizacion
         public static float GetCotizacion()
         {
             return cotizRespectoDolar;
         }
+
         public static implicit operator Pesos(double d)
         {
             return GetCotizacion();

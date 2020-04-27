@@ -1,0 +1,6 @@
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\F.Arrays y Colecciones\Clase 30\bin\Debug\Clase 30.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\F.Arrays y Colecciones\Clase 30\bin\Debug\Clase 30.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\F.Arrays y Colecciones\Clase 30\obj\Debug\Clase 30.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\F.Arrays y Colecciones\Clase 30\obj\Debug\Clase 30.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\F.Arrays y Colecciones\Clase 30\obj\Debug\Clase 30.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\F.Arrays y Colecciones\Clase 30\obj\Debug\Clase 30.csprojAssemblyReference.cache

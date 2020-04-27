@@ -26,12 +26,23 @@ namespace Entidades
                 foreach (Vehiculo item in this.Vehiculos)
                 {
                     if (item is Auto)
+                    {
                         retorno.AppendLine(((Auto)(item)).MostrarAuto());
+                        retorno.AppendFormat("Precio lavado: $ {0}\n\n", this.precioAuto);
+                    }
                     else if (item is Camion)
+                    {
                         retorno.AppendLine(((Camion)(item)).MostrarCamion());
+                        retorno.AppendFormat("Precio lavado: $ {0}\n\n", this.precioCamion);
+                    }
                     else
+                    {
                         retorno.AppendLine(((Moto)(item)).MostrarMoto());
+                        retorno.AppendFormat("Precio lavado: $ {0}\n\n", this.precioMoto);
+                    }
                 }
+                retorno.AppendLine("*******Facturacion del mes*******");
+                retorno.AppendFormat("\nTotal facturado: $ {0}\n", this.MostrarTotalFacturado());
                 return retorno.ToString();
             }
         }
@@ -47,37 +58,39 @@ namespace Entidades
         {
             this.vehiculos = new List<Vehiculo>();
         }
-        public Lavadero(float precioAuto, float precioMoto, float precioCamion)
+        public Lavadero(float precioAuto, float precioMoto, float precioCamion) : this()
         {
             this.precioAuto = precioAuto;
             this.precioCamion = precioCamion;
             this.precioMoto = precioMoto;
         }
 
-        public double MostrarTotalFacturado()
+        private double MostrarTotalFacturado()
         {
-            double retorno = 0;
-            retorno = MostrarTotalFacturado(EVehiculos.Auto) + MostrarTotalFacturado(EVehiculos.Camion) + MostrarTotalFacturado(EVehiculos.Moto);
-            return retorno;
+            return MostrarTotalFacturado(EVehiculos.Auto) + MostrarTotalFacturado(EVehiculos.Camion) + MostrarTotalFacturado(EVehiculos.Moto);
         }
-        public double MostrarTotalFacturado(EVehiculos vehiculo)
+        private double MostrarTotalFacturado(EVehiculos vehiculo)
         {
             double retorno = 0;
-            foreach (Vehiculo item in this.Vehiculos)
-            {
-                switch (vehiculo)
+            if (this.Vehiculos.Count > 0)
+                foreach (Vehiculo item in this.Vehiculos)
                 {
-                    case EVehiculos.Auto:
-                        retorno += this.precioAuto;
-                        break;
-                    case EVehiculos.Camion:
-                        retorno += this.precioCamion;
-                        break;
-                    case EVehiculos.Moto:
-                        retorno += this.precioMoto;
-                        break;
+                    switch (vehiculo)
+                    {
+                        case EVehiculos.Auto:
+                            if (item is Auto)
+                                retorno += this.precioAuto;
+                            break;
+                        case EVehiculos.Camion:
+                            if (item is Camion)
+                                retorno += this.precioCamion;
+                            break;
+                        case EVehiculos.Moto:
+                            if (item is Moto)
+                                retorno += this.precioMoto;
+                            break;
+                    }
                 }
-            }
             return retorno;
         }
 
@@ -98,6 +111,25 @@ namespace Entidades
         {
             return !(lavadero == vehiculo);
         }
-
+        public static Lavadero operator +(Lavadero lavadero, Vehiculo vehiculo)
+        {
+            if (lavadero != vehiculo)
+                lavadero.Vehiculos.Add(vehiculo);
+            return lavadero;
+        }        
+        public static Lavadero operator -(Lavadero lavadero, Vehiculo vehiculo)
+        {
+            if (lavadero == vehiculo)
+                lavadero.Vehiculos.Remove(vehiculo);
+            return lavadero;
+        }
+        public static int OrdenarVehiculosPorPatente(Vehiculo v1, Vehiculo v2)
+        {
+            return String.Compare(v1.Patente, v2.Patente);
+        }
+        public static int OrdenarVehiculosPorMarca(Vehiculo v1, Vehiculo v2)
+        {
+            return String.Compare(v1.Marca.ToString(), v2.Marca.ToString());
+        }
     }
 }
