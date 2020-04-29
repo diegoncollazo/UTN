@@ -40,9 +40,12 @@ namespace Clase_35
         {
             this.Nombre = nombre;
         }
-        public string MostrarDatos()
+        public virtual string MostrarDatos()
         {
-            return "";
+            StringBuilder retorno = new StringBuilder();
+            retorno.AppendFormat("Nombre completo:     {0}", this.Nombre);
+            retorno.AppendFormat("DNI:                 {0}", this.DNI);
+            return retorno.ToString();
         }
     }
 }

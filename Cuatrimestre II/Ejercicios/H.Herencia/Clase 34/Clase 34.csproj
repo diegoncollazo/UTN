@@ -41,9 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Moto.cs" />
-    <Compile Include="Camion.cs" />
-    <Compile Include="Auto.cs" />
+    <Compile Include="Moto.Finalizar.cs" />
+    <Compile Include="Camion.Finalizar.cs" />
+    <Compile Include="Auto.Finalizar.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

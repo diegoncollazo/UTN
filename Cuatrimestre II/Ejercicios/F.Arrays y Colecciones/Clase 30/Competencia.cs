@@ -3,62 +3,66 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Clase_36;
 
 namespace Clase_30
 {
     public class Competencia
     {
+        public enum ETipoCompetencia
+        {
+            F1, MotoCross
+        }
         private short cantidadCompetidores;
         private short cantidadVueltas;
-        private List<AutoF1> competidores;
-
+        private List<VehichuloDeCarrera> competidores;
+        private ETipoCompetencia tipo;
         private Competencia()
         {
-            this.competidores = new List<AutoF1>();
+            this.competidores = new List<VehichuloDeCarrera>();
         }
-        public Competencia(short cantidadVueltas, short cantidadCompetidores) : this()
+        public Competencia(short cantidadVueltas, short cantidadCompetidores, ETipoCompetencia tipo) : this()
         {
             this.cantidadVueltas = cantidadVueltas;
             this.cantidadCompetidores = cantidadCompetidores;
+            this.tipo = tipo;
         }
 
         public string MostrarDatos()
         {
-            return "";
+            return ""; 
         }
-
-        public static bool operator ==(Competencia c, AutoF1 a)
+        public static bool operator ==(Competencia carrera, VehichuloDeCarrera vehiculo)
         {
             bool retorno = false;
-            foreach (AutoF1 item in c.competidores)
+            foreach (VehichuloDeCarrera item in carrera.competidores)
             {
-                if (item == a)
+                if (item == vehiculo)
                 {
                     retorno = true;
                     break;
                 }
             }
-
             return retorno;
         }
-        public static bool operator !=(Competencia c, AutoF1 a)
+        public static bool operator !=(Competencia carrera, VehichuloDeCarrera vehiculo)
         {
-            return !(c == a);
+            return !(carrera == vehiculo);
         }
-        public static bool operator +(Competencia c, AutoF1 a)
+        public static bool operator +(Competencia carrera, VehichuloDeCarrera vehiculo)
         {
             bool retorno = false;
-            foreach (AutoF1 item in c.competidores)
+            foreach (AutoF1 item in carrera.competidores)
             {
-                if (item != a)
+                if (item != vehiculo)
                 {
-                    if (c.competidores.Count >= c.cantidadCompetidores)
+                    if (carrera.competidores.Count >= carrera.cantidadCompetidores)
                     {
-                        c.competidores.Add(a);
-                        a.EnCompetencia = true;
-                        a.VueltasRestantes = c.cantidadVueltas;
+                        carrera.competidores.Add(vehiculo);
+                        vehiculo.EnCompetencia = true;
+                        vehiculo.VueltasRestantes = carrera.cantidadVueltas;
                         Random random = new Random();
-                        a.CantidadCumbustible = (short)(random.Next(15, 100));
+                        vehiculo.CantidadCumbustible = (short)(random.Next(15, 100));
                         retorno = true;
                         break;
                     }
@@ -66,17 +70,17 @@ namespace Clase_30
             }
             return retorno;
         }
-        public static bool operator -(Competencia c, AutoF1 a)
+        public static bool operator -(Competencia carrera, VehichuloDeCarrera vehiculo)
         {
             bool retorno = false;
-            foreach (AutoF1 item in c.competidores)
+            foreach (AutoF1 item in carrera.competidores)
             {
-                if (item == a)
+                if (item == vehiculo)
                 {
-                    c.competidores.Remove(a);
-                    a.EnCompetencia = false;
-                    a.VueltasRestantes = 0;
-                    a.CantidadCumbustible = 0;
+                    carrera.competidores.Remove(vehiculo);
+                    vehiculo.EnCompetencia = false;
+                    vehiculo.VueltasRestantes = 0;
+                    vehiculo.CantidadCumbustible = 0;
                     retorno = true;
                     break;
                 }

@@ -72,9 +72,14 @@ namespace Clase_29
             this.partidosJugados = partidosJugados;
         }
 
-        public string MostrarDatos()
+        public override string MostrarDatos()
         {
-            return "Nombre: "+Nombre+" DNI: "+ DNI + " Jugados: "+partidosJugados+" Goles: "+totalGoles+" Promedio: "+ PromedioGoles;
+            StringBuilder retorno = new StringBuilder();
+            retorno.Append(base.MostrarDatos());
+            retorno.AppendFormat("Partidos jugados:    {0}", this.PartidosJugados);
+            retorno.AppendFormat("Goles:               {0}", this.TotalGoles);
+            retorno.AppendFormat("Promedio de gol:     {0}", this.PromedioGoles);
+            return retorno.ToString();
         }
 
         public static bool operator ==(Jugador j1, Jugador j2)

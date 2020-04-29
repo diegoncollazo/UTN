@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Clase_41;
+//using Clase_41;
 
 namespace Clase_37
 {
@@ -116,17 +116,17 @@ namespace Clase_37
         //Sumar
         public static Centralita operator +(Centralita centralita, Llamada llamada)
         {
-            try
-            {
+            //try
+            //{
                 if (centralita != llamada)
                     centralita.listaDeLlamadas.Add(llamada);
-                else
-                    throw new CentralitaException("¡No se pudo agregar la llamada!\n", "Clase", "Metodo");
-            }
-            catch(CentralitaException e)
-            {
-                Console.WriteLine(e.Message);
-            }
+            //    else
+            //        throw new CentralitaException("¡No se pudo agregar la llamada!\n", "Clase", "Metodo");
+            //}
+            //catch(CentralitaException e)
+            //{
+            //    Console.WriteLine(e.Message);
+            //}
             return centralita;
         }
         //ToString
