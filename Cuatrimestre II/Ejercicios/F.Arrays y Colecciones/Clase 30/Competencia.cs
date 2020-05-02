@@ -15,7 +15,7 @@ namespace Clase_30
         }
         private short cantidadCompetidores;
         private short cantidadVueltas;
-        private List<VehichuloDeCarrera> competidores;
+        public List<VehichuloDeCarrera> competidores;
         private ETipoCompetencia tipo;
         private Competencia()
         {
@@ -52,11 +52,11 @@ namespace Clase_30
         public static bool operator +(Competencia carrera, VehichuloDeCarrera vehiculo)
         {
             bool retorno = false;
-            foreach (AutoF1 item in carrera.competidores)
+            if (carrera.competidores.Count > carrera.cantidadCompetidores)
             {
-                if (item != vehiculo)
+                foreach (VehichuloDeCarrera item in carrera.competidores)
                 {
-                    if (carrera.competidores.Count >= carrera.cantidadCompetidores)
+                    if ((vehiculo is AutoF1 && (AutoF1)item != (AutoF1)vehiculo && carrera.tipo == ETipoCompetencia.F1) || (vehiculo is MotoCross && (MotoCross)item != (MotoCross)vehiculo && carrera.tipo == ETipoCompetencia.MotoCross))
                     {
                         carrera.competidores.Add(vehiculo);
                         vehiculo.EnCompetencia = true;
@@ -73,7 +73,7 @@ namespace Clase_30
         public static bool operator -(Competencia carrera, VehichuloDeCarrera vehiculo)
         {
             bool retorno = false;
-            foreach (AutoF1 item in carrera.competidores)
+            foreach (VehichuloDeCarrera item in carrera.competidores)
             {
                 if (item == vehiculo)
                 {

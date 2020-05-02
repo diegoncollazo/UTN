@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Clase_36
+namespace Automovilismo
 {
     public class VehichuloDeCarrera
     {
@@ -79,7 +79,7 @@ namespace Clase_36
 
             retorno.AppendFormat("Numero: {0}\n", this.Numero);
             retorno.AppendFormat("Escuderia: {0}\n", this.Escuderia);
-            retorno.AppendFormat("En competencia: {0}\n", this.EnCompetencia);
+            retorno.AppendFormat("En competencia: {0}\n", this.EnCompetencia.ToString());
             retorno.AppendFormat("Vueltas restantes: {0}\n", this.VueltasRestantes);
             retorno.AppendFormat("Cantidad de combustible: {0}\n", this.CantidadCumbustible);
 

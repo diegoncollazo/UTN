@@ -1,5 +1,6 @@
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\H.Herencia\Clase 34\bin\Debug\Clase 34.dll
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\H.Herencia\Clase 34\bin\Debug\Clase 34.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\H.Herencia\Clase 34\obj\Debug\Clase 34.csprojAssemblyReference.cache
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\H.Herencia\Clase 34\obj\Debug\Clase 34.csproj.CoreCompileInputs.cache
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\H.Herencia\Clase 34\obj\Debug\Clase 34.dll
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\H.Herencia\Clase 34\obj\Debug\Clase 34.pdb

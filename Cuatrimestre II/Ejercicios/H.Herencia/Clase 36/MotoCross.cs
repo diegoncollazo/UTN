@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Clase_36
+namespace Automovilismo
 {   
     public class MotoCross : VehichuloDeCarrera
     {
@@ -31,15 +31,15 @@ namespace Clase_36
         public override string MostrarDatos()
         {
             StringBuilder retorno = new StringBuilder();
-
-            retorno.AppendFormat("{0}\n", base.MostrarDatos());
+            retorno.Append("*****MotoCross*****\n");
+            retorno.AppendFormat("{0}", base.MostrarDatos());
             retorno.AppendFormat("Cilindrada: {0}\n", this.Cilindrada);
 
             return retorno.ToString();
         }
         public static bool operator ==(MotoCross m1, MotoCross m2)
         {
-            return m1 == m2 && m1.Cilindrada == m2.Cilindrada;
+            return (VehichuloDeCarrera)m1 == (VehichuloDeCarrera)m2 && m1.Cilindrada == m2.Cilindrada;
         }
         public static bool operator !=(MotoCross m1, MotoCross m2)
         {

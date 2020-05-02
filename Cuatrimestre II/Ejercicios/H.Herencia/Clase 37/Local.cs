@@ -40,8 +40,8 @@ namespace Clase_37
             StringBuilder retorno = new StringBuilder();
             retorno.Append("*** Llamada local ***\n");
             retorno.Append(base.Mostrar());
-            retorno.AppendFormat("Costo: {0}\n", this.Costo);
-            retorno.AppendFormat("Costo de la llamada: {0}\n", this.CostoLlamada);
+            retorno.AppendFormat("Costo:                        {0}\n", this.Costo);
+            retorno.AppendFormat("Costo de la llamada:          {0}\n", this.CostoLlamada);
             return retorno.ToString();
         }
         public override string ToString()

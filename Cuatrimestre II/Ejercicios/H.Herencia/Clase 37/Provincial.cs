@@ -58,7 +58,7 @@ namespace Clase_37
             StringBuilder retorno = new StringBuilder();
             retorno.Append("*** Llamada provincial ***\n");
             retorno.Append(base.Mostrar());
-            retorno.AppendFormat("Costo de la llamada: {0}\n", this.CostoLlamada);
+            retorno.AppendFormat("Costo de la llamada:          {0}\n", this.CostoLlamada);
             retorno.AppendFormat("Franja horaria de la llamada: {0}\n", this.franja.ToString());
             return retorno.ToString();
         }

@@ -53,9 +53,9 @@ namespace Clase_37
         protected virtual string Mostrar()
         {
             StringBuilder retorno = new StringBuilder();
-            retorno.AppendFormat("Duración de la llamada: {0}\n", this.Duracion);
-            retorno.AppendFormat("Origen de la llamada: {0}\n", this.NroOrigen);
-            retorno.AppendFormat("Destino de la llamada: {0}\n", this.NroDestino);
+            retorno.AppendFormat("Duración de la llamada:       {0}\n", this.Duracion);
+            retorno.AppendFormat("Origen de la llamada:         {0}\n", this.NroOrigen);
+            retorno.AppendFormat("Destino de la llamada:        {0}\n", this.NroDestino);
             return retorno.ToString();
         }
         public static int OrdenarPorDuracion(Llamada llamada1, Llamada llamada2)
