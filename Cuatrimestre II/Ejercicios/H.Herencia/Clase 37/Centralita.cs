@@ -64,13 +64,13 @@ namespace Clase_37
                         break;
                     case TipoLlamada.Provincial:
                         if (item is Provincial)
-                            retorno += ((Provincial)(item)).CostoLlamada;
+                            retorno += ((Provincial)item).CostoLlamada;
                         break;
                     case TipoLlamada.Todas:
                         if (item is Local)
                             retorno += ((Local)(item)).CostoLlamada;
                         else if (item is Provincial)
-                            retorno += ((Provincial)(item)).CostoLlamada;
+                            retorno += ((Provincial)item).CostoLlamada;
                         break;
                 }
             }

@@ -1,0 +1,5 @@
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\I.Sobrecarga de métodos\Clase 40\bin\Debug\Clase 40.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\I.Sobrecarga de métodos\Clase 40\bin\Debug\Clase 40.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\I.Sobrecarga de métodos\Clase 40\obj\Debug\Clase 40.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\I.Sobrecarga de métodos\Clase 40\obj\Debug\Clase 40.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\I.Sobrecarga de métodos\Clase 40\obj\Debug\Clase 40.pdb
