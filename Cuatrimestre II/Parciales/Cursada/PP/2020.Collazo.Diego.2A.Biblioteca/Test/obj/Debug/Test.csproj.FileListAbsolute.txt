@@ -18,3 +18,13 @@ C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Parciales\Cursada\PP\Test\obj\Debug\Te
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Parciales\Cursada\PP\Test\obj\Debug\Test.csproj.CopyComplete
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Parciales\Cursada\PP\Test\obj\Debug\Test.exe
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Parciales\Cursada\PP\Test\obj\Debug\Test.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Parciales\Cursada\PP\2020.Collazo.Diego.2A.Biblioteca\Test\bin\Debug\Test.exe.config
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Parciales\Cursada\PP\2020.Collazo.Diego.2A.Biblioteca\Test\bin\Debug\Test.exe
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Parciales\Cursada\PP\2020.Collazo.Diego.2A.Biblioteca\Test\bin\Debug\Test.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Parciales\Cursada\PP\2020.Collazo.Diego.2A.Biblioteca\Test\bin\Debug\Entidades.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Parciales\Cursada\PP\2020.Collazo.Diego.2A.Biblioteca\Test\bin\Debug\Entidades.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Parciales\Cursada\PP\2020.Collazo.Diego.2A.Biblioteca\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Parciales\Cursada\PP\2020.Collazo.Diego.2A.Biblioteca\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Parciales\Cursada\PP\2020.Collazo.Diego.2A.Biblioteca\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Parciales\Cursada\PP\2020.Collazo.Diego.2A.Biblioteca\Test\obj\Debug\Test.exe
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Parciales\Cursada\PP\2020.Collazo.Diego.2A.Biblioteca\Test\obj\Debug\Test.pdb

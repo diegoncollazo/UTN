@@ -18,37 +18,21 @@ namespace Entidades
         {
             get
             {
-                double retorno = 0;
-                foreach (Libro libro in this.libros)
-                {
-                    if (libro is Manual)
-                    {
-                        retorno += (Single)(Manual)libro;
-                    }
-                }
-                return retorno;
+                return ObtenerPrecio(ELibro.PrecioDeManuales);
             }
         }
         public double PrecioDeNovelas
         {
             get
             {
-                double retorno = 0;
-                foreach (Libro libro in this.libros)
-                {
-                    if (libro is Novela)
-                    {
-                        retorno += (Novela)libro;
-                    }
-                }
-                return retorno;
+                return ObtenerPrecio(ELibro.PrecioDeNovelas);
             }
         }
         public double PrecioTotal
         {
             get
             {
-                return PrecioDeManuales + PrecioDeNovelas;
+                return ObtenerPrecio(ELibro.PrecioTotal);
             }
         }
         #endregion
@@ -71,14 +55,13 @@ namespace Entidades
             Biblioteca biblioteca = new Biblioteca(capacidad);
             return biblioteca;
         }
-
         public static string Mostrar(Biblioteca b)
         {
             StringBuilder retorno = new StringBuilder();
             retorno.AppendFormat("\nCapacidad: {0}\n", b.capacidad);
-            retorno.AppendFormat("Total por manuales: {0}\n", b.ObtenerPrecio(ELibro.PrecioDeManuales));
-            retorno.AppendFormat("Total por novelas: {0}\n", b.ObtenerPrecio(ELibro.PrecioDeNovelas));
-            retorno.AppendFormat("Total: {0}\n", b.ObtenerPrecio(ELibro.PrecioTotal));
+            retorno.AppendFormat("Total por manuales: {0}\n", b.PrecioDeManuales);
+            retorno.AppendFormat("Total por novelas: {0}\n", b.PrecioDeNovelas);
+            retorno.AppendFormat("Total: {0}\n", b.PrecioTotal);
             retorno.AppendLine("**********************************************");
             retorno.AppendLine("Listado de libros");
             retorno.AppendLine("**********************************************");
@@ -93,7 +76,6 @@ namespace Entidades
             }
             return retorno.ToString();
         }
-
         public static bool operator ==(Biblioteca b, Libro l)
         {
             bool retorno = false;
@@ -115,12 +97,10 @@ namespace Entidades
             }
             return retorno;
         }
-
         public static bool operator !=(Biblioteca b, Libro l)
         {
             return !(b == l);
         }
-
         public static Biblioteca operator +(Biblioteca b, Libro l)
         {
             if (b == l)
@@ -137,22 +117,19 @@ namespace Entidades
             }
             return b;
         }
-
         private double ObtenerPrecio(ELibro tipoLibro)
         {
             double retorno = 0;
-            if (tipoLibro == ELibro.PrecioDeManuales)
-            {
-                retorno += PrecioDeManuales;
-            }
-            else if (tipoLibro == ELibro.PrecioDeNovelas)
-            {
-                retorno += PrecioDeNovelas;
-            }
-            else if (tipoLibro == ELibro.PrecioTotal)
-            {
-            retorno += PrecioTotal;
-            }
+            foreach (Libro libro in this.libros)
+                if (libro is Manual && tipoLibro == ELibro.PrecioDeManuales)
+                     retorno += (Single)(Manual)libro;
+                else if (libro is Novela && tipoLibro == ELibro.PrecioDeNovelas)
+                    retorno += (Novela)libro;
+                else if (tipoLibro == ELibro.PrecioTotal)
+                    if (libro is Manual)
+                        retorno += (Single)(Manual)libro;
+                    else if (libro is Novela)
+                        retorno += (Novela)libro;
             return retorno;
         }
         #endregion
