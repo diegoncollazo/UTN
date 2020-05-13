@@ -31,3 +31,13 @@ C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 2\TP-02\obj\Debug\TP-02.csproj.CopyComplete
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 2\TP-02\obj\Debug\TP-02.pdb
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 2\TP-02\obj\Debug\TP-02.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\tp_laboratorio_2\Trabajo Práctico 2\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\Romeo\GitHub\tp_laboratorio_2\Trabajo Práctico 2\TP-02\bin\Debug\TP-02.exe
+C:\Users\Romeo\GitHub\tp_laboratorio_2\Trabajo Práctico 2\TP-02\bin\Debug\TP-02.pdb
+C:\Users\Romeo\GitHub\tp_laboratorio_2\Trabajo Práctico 2\TP-02\bin\Debug\Entidades.dll
+C:\Users\Romeo\GitHub\tp_laboratorio_2\Trabajo Práctico 2\TP-02\bin\Debug\Entidades.pdb
+C:\Users\Romeo\GitHub\tp_laboratorio_2\Trabajo Práctico 2\TP-02\obj\Debug\TP-02.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\tp_laboratorio_2\Trabajo Práctico 2\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\tp_laboratorio_2\Trabajo Práctico 2\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+C:\Users\Romeo\GitHub\tp_laboratorio_2\Trabajo Práctico 2\TP-02\obj\Debug\TP-02.exe
+C:\Users\Romeo\GitHub\tp_laboratorio_2\Trabajo Práctico 2\TP-02\obj\Debug\TP-02.pdb
