@@ -1,0 +1,10 @@
+C:\Users\Maxi\source\repos\Generics.2020\TestGenerics\bin\Debug\TestGenerics.exe.config
+C:\Users\Maxi\source\repos\Generics.2020\TestGenerics\bin\Debug\TestGenerics.exe
+C:\Users\Maxi\source\repos\Generics.2020\TestGenerics\bin\Debug\TestGenerics.pdb
+C:\Users\Maxi\source\repos\Generics.2020\TestGenerics\bin\Debug\Generics.2020.dll
+C:\Users\Maxi\source\repos\Generics.2020\TestGenerics\bin\Debug\Generics.2020.pdb
+C:\Users\Maxi\source\repos\Generics.2020\TestGenerics\obj\Debug\TestGenerics.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Generics.2020\TestGenerics\obj\Debug\TestGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Generics.2020\TestGenerics\obj\Debug\TestGenerics.csproj.CopyComplete
+C:\Users\Maxi\source\repos\Generics.2020\TestGenerics\obj\Debug\TestGenerics.exe
+C:\Users\Maxi\source\repos\Generics.2020\TestGenerics\obj\Debug\TestGenerics.pdb

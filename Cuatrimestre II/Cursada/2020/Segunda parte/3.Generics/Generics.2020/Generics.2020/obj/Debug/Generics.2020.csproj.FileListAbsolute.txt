@@ -1,0 +1,6 @@
+C:\Users\Maxi\source\repos\Generics.2020\Generics.2020\bin\Debug\Generics.2020.dll
+C:\Users\Maxi\source\repos\Generics.2020\Generics.2020\bin\Debug\Generics.2020.pdb
+C:\Users\Maxi\source\repos\Generics.2020\Generics.2020\obj\Debug\Generics.2020.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Generics.2020\Generics.2020\obj\Debug\Generics.2020.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Generics.2020\Generics.2020\obj\Debug\Generics.2020.dll
+C:\Users\Maxi\source\repos\Generics.2020\Generics.2020\obj\Debug\Generics.2020.pdb
