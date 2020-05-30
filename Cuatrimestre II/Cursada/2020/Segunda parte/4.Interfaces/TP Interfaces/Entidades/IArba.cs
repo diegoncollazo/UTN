@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    interface IArba
+    public interface IArba
     {
         double CalcularImpuesto();
     }

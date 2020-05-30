@@ -17,7 +17,7 @@ namespace Entidades
 
         public void MostrarPatente()
         {
-
+            Console.WriteLine("Patente: {0}", this._patente);
         }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public class Avion : Vehiculo, IAfip, IArba
+    public abstract class Avion : Vehiculo, IAfip, IArba
     {
         protected double _velocidadMaxima;
 
@@ -14,15 +14,15 @@ namespace Entidades
         {
             this._velocidadMaxima = velMax;
         }
-
+        //Lo dejo publico para utilizar el casteo en el Main
         public double CalcularImpuesto()
         {
-            return this._precio * 1.33;
+            return this._precio * .33;
         }
 
         double IArba.CalcularImpuesto()
         {
-            return this._precio * 1.33;
+            return this._precio * .27;
         }
     }
 }

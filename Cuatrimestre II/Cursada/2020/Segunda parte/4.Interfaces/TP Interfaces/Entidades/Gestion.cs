@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    static class Gestion
+    public static class Gestion
     {
         public static double MostrarImpuestoNacional(IAfip bienPunible)
         {
