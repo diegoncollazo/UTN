@@ -33,8 +33,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Entidades">
-      <HintPath>..\Entidades\bin\Debug\Entidades.dll</HintPath>
+    <Reference Include="Clases Abstractas">
+      <HintPath>..\Clases\Clases Abstractas\bin\Debug\Clases Abstractas.dll</HintPath>
+    </Reference>
+    <Reference Include="Clases Instanciables">
+      <HintPath>..\Clases\Clases Instanciables\bin\Debug\Clases Instanciables.dll</HintPath>
+    </Reference>
+    <Reference Include="Excepciones">
+      <HintPath>..\Clases\Excepciones\bin\Debug\Excepciones.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

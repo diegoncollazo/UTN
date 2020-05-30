@@ -13,7 +13,8 @@ namespace Entidades
         #endregion
 
         #region Constructores
-        public Manual(string titulo, string apellido, string nombre, float precio, ETipo tipo) : base(titulo, nombre, apellido, precio)
+        public Manual(string titulo, string apellido, string nombre, float precio, ETipo tipo) 
+            : base(titulo, nombre, apellido, precio)
         {
             this.tipo = tipo;
         }

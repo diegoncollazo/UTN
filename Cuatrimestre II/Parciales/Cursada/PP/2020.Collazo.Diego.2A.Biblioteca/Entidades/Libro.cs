@@ -22,7 +22,7 @@ namespace Entidades
             get
             {
                 if (cantidadDePaginas == 0)
-                    this.cantidadDePaginas = generadorDePaginas.Next(10, 570);
+                    this.cantidadDePaginas = generadorDePaginas.Next(10, 571);
                 return this.cantidadDePaginas;
             }
         }
@@ -63,7 +63,7 @@ namespace Entidades
 
         public static bool operator ==(Libro a, Libro b)
         {
-            return a.titulo == b.titulo && (Autor)a.autor == (Autor)b.autor;
+            return a.titulo == b.titulo && a.autor == b.autor;
         }
         public static bool operator !=(Libro a, Libro b)
         {

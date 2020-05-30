@@ -66,14 +66,7 @@ namespace Entidades
             retorno.AppendLine("Listado de libros");
             retorno.AppendLine("**********************************************");
             foreach (Libro libro in b.libros)
-            {
-                if (libro is Manual)
-                    retorno.Append(((Manual)libro).ToString());
-                if (libro is Novela)
-                    retorno.Append(((Novela)libro).ToString());
-                retorno.Append("\n");
-
-            }
+                retorno.AppendLine(libro.ToString());
             return retorno.ToString();
         }
         public static bool operator ==(Biblioteca b, Libro l)
@@ -81,18 +74,10 @@ namespace Entidades
             bool retorno = false;
             foreach (Libro item in b.libros)
             {
-                if (item == l)
-                {
-                    if (l is Manual && (Manual)l == (Manual)item)
-                    {
-                        retorno = true;
-                        break;
-                    }  
-                    if (l is Novela && (Novela)l == (Novela)item)
-                    {
-                        retorno = true;
-                        break;
-                    }
+                if (l.Equals(item))
+                { 
+                    retorno = true;
+                    break;
                 }
             }
             return retorno;
@@ -104,17 +89,11 @@ namespace Entidades
         public static Biblioteca operator +(Biblioteca b, Libro l)
         {
             if (b == l)
-            {
                 Console.WriteLine("El libro ya esta en la biblioteca!!!\n");
-            }
-            else if (b.libros.Count < b.capacidad)
-            {
-                b.libros.Add(l);
-            }
+            else if (b.libros.Count < b.capacidad)           
+                b.libros.Add(l);       
             else if (b.libros.Count == b.capacidad)
-            {
                 Console.WriteLine("No hay mas lugar en la biblioteca!!!\n");
-            }
             return b;
         }
         private double ObtenerPrecio(ELibro tipoLibro)

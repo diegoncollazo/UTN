@@ -1,0 +1,16 @@
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\TP 3\obj\Debug\TP 3.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\TP 3\obj\Debug\TP 3.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\TP 3\bin\Debug\TP 3.exe.config
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\TP 3\bin\Debug\TP 3.exe
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\TP 3\bin\Debug\TP 3.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\TP 3\obj\Debug\TP 3.exe
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\TP 3\obj\Debug\TP 3.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\TP 3\bin\Debug\Clases Abstractas.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\TP 3\bin\Debug\Clases Instanciables.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\TP 3\bin\Debug\Excepciones.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\TP 3\bin\Debug\Archivos.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\TP 3\bin\Debug\Clases Abstractas.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\TP 3\bin\Debug\Clases Instanciables.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\TP 3\bin\Debug\Excepciones.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\TP 3\bin\Debug\Archivos.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\TP 3\obj\Debug\TP 3.csproj.CopyComplete

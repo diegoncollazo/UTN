@@ -1,0 +1,36 @@
+C:\Users\matty\source\repos\MainCorreo\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\matty\source\repos\MainCorreo\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\matty\source\repos\MainCorreo\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\matty\source\repos\MainCorreo\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\matty\source\repos\MainCorreo\MainCorreo\obj\Debug\MainCorreo.Form1.resources
+C:\Users\matty\source\repos\MainCorreo\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\matty\source\repos\MainCorreo\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\matty\source\repos\MainCorreo\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\matty\source\repos\MainCorreo\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\matty\source\repos\MainCorreo\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\Haedo Jonathan\Desktop\MainCorreo\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\Haedo Jonathan\Desktop\MainCorreo\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\Haedo Jonathan\Desktop\MainCorreo\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\Haedo Jonathan\Desktop\MainCorreo\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\Haedo Jonathan\Desktop\MainCorreo\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\Haedo Jonathan\Desktop\MainCorreo\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\Haedo Jonathan\Desktop\MainCorreo\MainCorreo\obj\Debug\MainCorreo.Form1.resources
+C:\Users\Haedo Jonathan\Desktop\MainCorreo\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\Haedo Jonathan\Desktop\MainCorreo\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\Haedo Jonathan\Desktop\MainCorreo\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\Haedo Jonathan\Desktop\MainCorreo\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\Haedo Jonathan\Desktop\MainCorreo\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Haedo Jonathan\Desktop\MainCorreo\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\Romeo\Downloads\Diego\MainCorreo\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\Romeo\Downloads\Diego\MainCorreo\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\Romeo\Downloads\Diego\MainCorreo\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\Romeo\Downloads\Diego\MainCorreo\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\Romeo\Downloads\Diego\MainCorreo\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\Romeo\Downloads\Diego\MainCorreo\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\Romeo\Downloads\Diego\MainCorreo\MainCorreo\obj\Debug\MainCorreo.Form1.resources
+C:\Users\Romeo\Downloads\Diego\MainCorreo\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\Romeo\Downloads\Diego\MainCorreo\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\Romeo\Downloads\Diego\MainCorreo\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\Downloads\Diego\MainCorreo\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\Romeo\Downloads\Diego\MainCorreo\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Romeo\Downloads\Diego\MainCorreo\MainCorreo\obj\Debug\MainCorreo.pdb

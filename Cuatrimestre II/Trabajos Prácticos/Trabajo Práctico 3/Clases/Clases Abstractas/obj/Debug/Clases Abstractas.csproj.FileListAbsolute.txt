@@ -1,0 +1,9 @@
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\Clases\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\Clases\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\Clases\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\Clases\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\Clases\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\Clases\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\Clases\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\Clases\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 3\Clases\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

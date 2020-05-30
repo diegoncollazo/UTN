@@ -24,7 +24,8 @@ namespace TP_Interfaces
             Console.WriteLine("Avión comercial:");
             comercial.MostrarPrecio();
             Console.WriteLine("Impuesto AFIP: {0}", Gestion.MostrarImpuestoNacional(comercial));
-            Console.WriteLine("Impuesto ARBA: {0}", Gestion.MostrarImpuestoProvincial(comercial));
+            //Console.WriteLine("Impuesto ARBA: {0}", Gestion.MostrarImpuestoProvincial(comercial));
+            Console.WriteLine($"Impuesto ARBA: {Gestion.MostrarImpuestoProvincial(comercial)}");
 
             Console.WriteLine("");
 

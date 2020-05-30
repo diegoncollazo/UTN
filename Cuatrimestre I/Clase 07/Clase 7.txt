@@ -1,0 +1,19 @@
+Clase 7
+
+fgets (variable cadena,cantidad caracteres,stdin);
+
+char cadena [15];
+int cantidad;
+
+fgets(cadena,15,stdin);
+cantidad=strlen(cadena);
+cadena[cantidad-1]='\0';
+
+
+sizeof(char); // devuelve 1(byte);
+
+sizeof(int); // devuelve 4(bytes);
+
+sizeof(cadena); // devuelve 15(bytes);
+
+fgets(cadena,sizeof(cadena)-2,stdin);
