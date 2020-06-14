@@ -1,0 +1,10 @@
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 43\bin\Debug\Ejercicio 43.exe.config
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 43\bin\Debug\Ejercicio 43.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 43\bin\Debug\Ejercicio 43.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 43\obj\Debug\Ejercicio 43.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 43\obj\Debug\Ejercicio 43.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 43\obj\Debug\Ejercicio 43.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 43\obj\Debug\Ejercicio 43.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 43\bin\Debug\Automovilismo.dll
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 43\bin\Debug\Automovilismo.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 43\obj\Debug\Ejercicio 43.csproj.CopyComplete

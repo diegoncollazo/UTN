@@ -46,6 +46,7 @@ namespace Automovilismo
         public static bool operator ==(Competencia carrera, VehichuloDeCarrera vehiculo)
         {
             bool retorno = false;
+            // Verifico que el vehiculo se encuentre en la competencia.
             foreach (VehichuloDeCarrera item in carrera.competidores)
             {
                 if (item is AutoF1 && vehiculo is AutoF1)
@@ -64,8 +65,7 @@ namespace Automovilismo
                         break;
                     }
                 }
-            }
-            return retorno;
+            }           
         }
         public static bool operator !=(Competencia carrera, VehichuloDeCarrera vehiculo)
         {

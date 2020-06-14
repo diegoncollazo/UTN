@@ -8,3 +8,13 @@ C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\J.Excepciones\Ejercicio 41\
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\J.Excepciones\Ejercicio 41\obj\Debug\Ejercicio 41.csproj.CopyComplete
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\J.Excepciones\Ejercicio 41\obj\Debug\Ejercicio 41.exe
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\J.Excepciones\Ejercicio 41\obj\Debug\Ejercicio 41.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 41\bin\Debug\Ejercicio 41.exe.config
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 41\bin\Debug\Ejercicio 41.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 41\bin\Debug\Ejercicio 41.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 41\bin\Debug\CentralitaException.dll
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 41\bin\Debug\CentralitaException.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 41\obj\Debug\Ejercicio 41.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 41\obj\Debug\Ejercicio 41.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 41\obj\Debug\Ejercicio 41.csproj.CopyComplete
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 41\obj\Debug\Ejercicio 41.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 41\obj\Debug\Ejercicio 41.pdb

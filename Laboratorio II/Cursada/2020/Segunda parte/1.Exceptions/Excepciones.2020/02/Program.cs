@@ -22,7 +22,7 @@ namespace _02
                 Console.WriteLine(e.StackTrace);
                 Console.ReadLine();
             }
-
+            Console.ReadKey();
         }
 
         private static void Funcion1()

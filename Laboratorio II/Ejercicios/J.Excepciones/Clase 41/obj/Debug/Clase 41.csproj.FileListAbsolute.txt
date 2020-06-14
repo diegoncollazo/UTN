@@ -4,3 +4,9 @@ C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\J.Excepciones\Clase 41\obj\
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\J.Excepciones\Clase 41\obj\Debug\Clase 41.csproj.CoreCompileInputs.cache
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\J.Excepciones\Clase 41\obj\Debug\CentralitaException.dll
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\J.Excepciones\Clase 41\obj\Debug\CentralitaException.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Clase 41\bin\Debug\CentralitaException.dll
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Clase 41\bin\Debug\CentralitaException.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Clase 41\obj\Debug\Clase 41.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Clase 41\obj\Debug\Clase 41.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Clase 41\obj\Debug\CentralitaException.dll
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Clase 41\obj\Debug\CentralitaException.pdb

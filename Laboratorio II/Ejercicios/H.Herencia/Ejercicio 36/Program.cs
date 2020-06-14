@@ -29,9 +29,6 @@ namespace Ejercicio_36
             Console.WriteLine(competencia.MostrarDatos());
             
             Console.ReadKey();
-
-
-
         }
     }
 }

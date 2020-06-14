@@ -1,0 +1,6 @@
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Clase 43\bin\Debug\Automovilismo.dll
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Clase 43\bin\Debug\Automovilismo.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Clase 43\obj\Debug\Clase 43.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Clase 43\obj\Debug\Clase 43.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Clase 43\obj\Debug\Automovilismo.dll
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Clase 43\obj\Debug\Automovilismo.pdb
