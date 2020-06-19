@@ -10,7 +10,7 @@ namespace Ejercicio_02
     {
         static void Main(string[] args)
         {
-            double numero = 0;
+            double numero;
             do
             {
                 Console.Write("Ingrese un numero: ");

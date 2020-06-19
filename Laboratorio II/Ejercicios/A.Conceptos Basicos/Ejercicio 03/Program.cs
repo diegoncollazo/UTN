@@ -21,21 +21,15 @@ namespace Ejercicio_03
             {
                 bandera = false;
                 for (int i=2; i < j; i++)
-                {
                     if (j % i == 0)
                     {
                         bandera = true;
                         break;
                     }
-                }
                 if (bandera)
-                {
                     Console.WriteLine("Es numero {0} no es primo.", j);
-                }
                 else
-                {
                     Console.WriteLine("Es numero {0} es primo.", j);
-                }
             }
             Console.ReadKey();
         }

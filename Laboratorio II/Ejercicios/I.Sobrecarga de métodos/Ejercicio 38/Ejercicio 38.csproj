@@ -33,9 +33,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Clase 39">
-      <HintPath>..\Clase 39\bin\Debug\Clase 39.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -48,6 +45,8 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sobreescrito.cs" />
+    <Compile Include="SobreSobreEscrito.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Clase_33;
 
 namespace Ejercicio_33
 {
@@ -13,7 +12,7 @@ namespace Ejercicio_33
         {
             Libro libro = new Libro();
 
-            Console.WriteLine(libro[2]);
+            Console.WriteLine("{0}", libro[2]);
             Console.ReadKey();
         }
     }

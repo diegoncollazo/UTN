@@ -11,7 +11,8 @@ namespace Ejercicio_42
     {
         static void Main(string[] args)
         {
-            MiClase miClase = new MiClase();
+
+            MiClase miClase = new MiClase("Prueba");
 
             Console.ReadKey();
         }

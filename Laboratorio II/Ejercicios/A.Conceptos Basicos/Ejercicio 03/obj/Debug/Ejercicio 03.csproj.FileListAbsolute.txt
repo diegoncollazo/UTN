@@ -12,3 +12,9 @@ D:\dcollazo\Downloads\Development\github\C-Sharp\Ejercicios\A.Conceptos Basicos\
 D:\dcollazo\Downloads\Development\github\C-Sharp\Ejercicios\A.Conceptos Basicos\Ejercicio 03\obj\Debug\Ejercicio 03.csproj.CoreCompileInputs.cache
 D:\dcollazo\Downloads\Development\github\C-Sharp\Ejercicios\A.Conceptos Basicos\Ejercicio 03\obj\Debug\Ejercicio 02.exe
 D:\dcollazo\Downloads\Development\github\C-Sharp\Ejercicios\A.Conceptos Basicos\Ejercicio 03\obj\Debug\Ejercicio 02.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\A.Conceptos Basicos\Ejercicio 03\bin\Debug\Ejercicio 02.exe.config
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\A.Conceptos Basicos\Ejercicio 03\bin\Debug\Ejercicio 02.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\A.Conceptos Basicos\Ejercicio 03\bin\Debug\Ejercicio 02.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\A.Conceptos Basicos\Ejercicio 03\obj\Debug\Ejercicio 03.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\A.Conceptos Basicos\Ejercicio 03\obj\Debug\Ejercicio 02.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\A.Conceptos Basicos\Ejercicio 03\obj\Debug\Ejercicio 02.pdb

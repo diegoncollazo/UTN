@@ -1,6 +1,0 @@
-C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Clase 42\bin\Debug\Clase 42.dll
-C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Clase 42\bin\Debug\Clase 42.pdb
-C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Clase 42\obj\Debug\Clase 42.csprojAssemblyReference.cache
-C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Clase 42\obj\Debug\Clase 42.csproj.CoreCompileInputs.cache
-C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Clase 42\obj\Debug\Clase 42.dll
-C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Clase 42\obj\Debug\Clase 42.pdb

@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Clase_39;
 
 namespace Ejercicio_38
 {
@@ -11,7 +10,6 @@ namespace Ejercicio_38
     {
         static void Main(string[] args)
         {
-            Console.Title = "Ejercicio Nº38 Guía 2017"; 
             SobreSobreEscrito sobrecarga = new SobreSobreEscrito();
             Console.WriteLine(sobrecarga.ToString());
             string objeto = "¡Este es mi método ToString sobreescrito!";

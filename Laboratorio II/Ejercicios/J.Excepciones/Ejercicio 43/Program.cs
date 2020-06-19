@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Automovilismo;
 
 namespace Ejercicio_43
 {
@@ -36,6 +35,8 @@ namespace Ejercicio_43
             {
                Console.WriteLine(e.ToString());
             }
+
+            Console.ReadKey();
 
             Console.WriteLine(competencia.MostrarDatos());
 

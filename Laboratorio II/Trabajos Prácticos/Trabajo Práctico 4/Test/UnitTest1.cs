@@ -1,6 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Entidades;
+
 namespace Test
 {
     [TestClass]
@@ -17,11 +18,10 @@ namespace Test
         public void PaqueteRepetido()
         {
             Correo correo = new Correo();
-            Paquete paqueteUno = new Paquete("Marco Avellaneda", "1532-254-240");
-            Paquete paqueteDos = new Paquete("Jose Leon Suarez", "1532-254-240");
+            Paquete paqueteUno = new Paquete("Juan Alberdi", "1551-111-555");
+            Paquete paqueteDos = new Paquete("Jose Alberdi", "1551-111-555");
             correo += paqueteUno;
             correo += paqueteDos;
         }
-
     }
 }

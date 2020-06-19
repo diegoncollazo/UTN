@@ -17,7 +17,7 @@ namespace Ejercicio_05
                 int.TryParse(Console.ReadLine(), out numeroUno);
                 Console.Write("Ingrese el segundo numero: ");
                 int.TryParse(Console.ReadLine(), out numeroDos);
-            }while (numeroUno >= numeroDos);
+            } while (numeroUno >= numeroDos);
             if (numeroDos > numeroUno)
             {
                 for (int i = 1; i < numeroUno; i++)

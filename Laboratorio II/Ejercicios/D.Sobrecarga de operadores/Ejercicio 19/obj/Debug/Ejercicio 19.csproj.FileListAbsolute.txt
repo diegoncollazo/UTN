@@ -36,3 +36,10 @@ C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\D.Sobrecarga de operadores\
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\D.Sobrecarga de operadores\Ejercicio 19\obj\Debug\Ejercicio 19.csproj.CopyComplete
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\D.Sobrecarga de operadores\Ejercicio 19\obj\Debug\Ejercicio 19.exe
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\D.Sobrecarga de operadores\Ejercicio 19\obj\Debug\Ejercicio 19.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\D.Sobrecarga de operadores\Ejercicio 19\bin\Debug\Ejercicio 19.exe.config
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\D.Sobrecarga de operadores\Ejercicio 19\bin\Debug\Ejercicio 19.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\D.Sobrecarga de operadores\Ejercicio 19\bin\Debug\Ejercicio 19.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\D.Sobrecarga de operadores\Ejercicio 19\obj\Debug\Ejercicio 19.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\D.Sobrecarga de operadores\Ejercicio 19\obj\Debug\Ejercicio 19.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\D.Sobrecarga de operadores\Ejercicio 19\obj\Debug\Ejercicio 19.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\D.Sobrecarga de operadores\Ejercicio 19\obj\Debug\Ejercicio 19.pdb

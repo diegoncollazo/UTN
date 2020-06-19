@@ -1,5 +1,0 @@
-C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\G.Encapsulamiento\Clase 33\bin\Debug\Clase 33.dll
-C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\G.Encapsulamiento\Clase 33\bin\Debug\Clase 33.pdb
-C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\G.Encapsulamiento\Clase 33\obj\Debug\Clase 33.csproj.CoreCompileInputs.cache
-C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\G.Encapsulamiento\Clase 33\obj\Debug\Clase 33.dll
-C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\G.Encapsulamiento\Clase 33\obj\Debug\Clase 33.pdb

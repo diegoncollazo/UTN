@@ -1,6 +1,0 @@
-D:\C Sharp\Cursada\Primera parte\Clases\Clase.Boligrafo\bin\Debug\Clase.Boligrafo.dll
-D:\C Sharp\Cursada\Primera parte\Clases\Clase.Boligrafo\bin\Debug\Clase.Boligrafo.pdb
-D:\C Sharp\Cursada\Primera parte\Clases\Clase.Boligrafo\obj\Debug\Clase.Boligrafo.csprojAssemblyReference.cache
-D:\C Sharp\Cursada\Primera parte\Clases\Clase.Boligrafo\obj\Debug\Clase.Boligrafo.csproj.CoreCompileInputs.cache
-D:\C Sharp\Cursada\Primera parte\Clases\Clase.Boligrafo\obj\Debug\Clase.Boligrafo.dll
-D:\C Sharp\Cursada\Primera parte\Clases\Clase.Boligrafo\obj\Debug\Clase.Boligrafo.pdb

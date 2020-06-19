@@ -1,0 +1,20 @@
+C:\Users\Maxi\source\repos\Generics.2020\TestGenerics\bin\Debug\TestGenerics.exe.config
+C:\Users\Maxi\source\repos\Generics.2020\TestGenerics\bin\Debug\TestGenerics.exe
+C:\Users\Maxi\source\repos\Generics.2020\TestGenerics\bin\Debug\TestGenerics.pdb
+C:\Users\Maxi\source\repos\Generics.2020\TestGenerics\bin\Debug\Generics.2020.dll
+C:\Users\Maxi\source\repos\Generics.2020\TestGenerics\bin\Debug\Generics.2020.pdb
+C:\Users\Maxi\source\repos\Generics.2020\TestGenerics\obj\Debug\TestGenerics.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Generics.2020\TestGenerics\obj\Debug\TestGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Generics.2020\TestGenerics\obj\Debug\TestGenerics.csproj.CopyComplete
+C:\Users\Maxi\source\repos\Generics.2020\TestGenerics\obj\Debug\TestGenerics.exe
+C:\Users\Maxi\source\repos\Generics.2020\TestGenerics\obj\Debug\TestGenerics.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Cursada\2020\Segunda parte\3.Generics\Generics\TestGenerics\bin\Debug\TestGenerics.exe.config
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Cursada\2020\Segunda parte\3.Generics\Generics\TestGenerics\bin\Debug\TestGenerics.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Cursada\2020\Segunda parte\3.Generics\Generics\TestGenerics\bin\Debug\TestGenerics.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Cursada\2020\Segunda parte\3.Generics\Generics\TestGenerics\bin\Debug\Generics.2020.dll
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Cursada\2020\Segunda parte\3.Generics\Generics\TestGenerics\bin\Debug\Generics.2020.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Cursada\2020\Segunda parte\3.Generics\Generics\TestGenerics\obj\Debug\TestGenerics.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Cursada\2020\Segunda parte\3.Generics\Generics\TestGenerics\obj\Debug\TestGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Cursada\2020\Segunda parte\3.Generics\Generics\TestGenerics\obj\Debug\TestGenerics.csproj.CopyComplete
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Cursada\2020\Segunda parte\3.Generics\Generics\TestGenerics\obj\Debug\TestGenerics.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Cursada\2020\Segunda parte\3.Generics\Generics\TestGenerics\obj\Debug\TestGenerics.pdb

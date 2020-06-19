@@ -15,3 +15,10 @@ C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\B.Metodos estaticos (de cla
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 15\obj\Debug\Ejercicio 15.csproj.CopyComplete
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 15\obj\Debug\Ejercicio 15.exe
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 15\obj\Debug\Ejercicio 15.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 15\bin\Debug\Ejercicio 15.exe.config
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 15\bin\Debug\Ejercicio 15.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 15\bin\Debug\Ejercicio 15.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 15\obj\Debug\Ejercicio 15.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 15\obj\Debug\Ejercicio 15.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 15\obj\Debug\Ejercicio 15.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 15\obj\Debug\Ejercicio 15.pdb
