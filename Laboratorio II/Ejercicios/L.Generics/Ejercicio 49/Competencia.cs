@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ejercicio_49
 {
-    public class Competencia
+    public class Competencia<T> where T : VehiculoDeCarrera
     {
         public enum ETipoCompetencia
         {
@@ -14,11 +14,11 @@ namespace Ejercicio_49
         }
         private short cantidadCompetidores;
         private short cantidadVueltas;
-        public List<VehiculoDeCarrera> competidores;
+        public List<T> competidores;
         private ETipoCompetencia tipo;
         private Competencia()
         {
-            this.competidores = new List<VehiculoDeCarrera>();
+            this.competidores = new List<T>();
         }
         public Competencia(short cantidadVueltas, short cantidadCompetidores, ETipoCompetencia tipo) : this()
         {
@@ -43,7 +43,7 @@ namespace Ejercicio_49
 
             return retorno.ToString();
         }
-        public static bool operator ==(Competencia carrera, VehiculoDeCarrera vehiculo)
+        public static bool operator ==(Competencia<T> carrera, VehiculoDeCarrera vehiculo)
         {
             bool retorno = false;
             // Verifico que el vehiculo se encuentre en la competencia.
@@ -66,11 +66,11 @@ namespace Ejercicio_49
             //    throw new CompetenciaNoDisponibleException("Vehículo no en competencia", typeof(Competencia).ToString(), "Metodo ==", new Exception());
             return retorno;
         }
-        public static bool operator !=(Competencia carrera, VehiculoDeCarrera vehiculo)
+        public static bool operator !=(Competencia<T> carrera, VehiculoDeCarrera vehiculo)
         {
             return !(carrera == vehiculo);
         }
-        public static bool operator +(Competencia carrera, VehiculoDeCarrera vehiculo)
+        public static bool operator +(Competencia<T> carrera, VehiculoDeCarrera vehiculo)
         {
             bool retorno = false;
             try
@@ -81,12 +81,12 @@ namespace Ejercicio_49
                     {
                         if (carrera.tipo == ETipoCompetencia.F1 && vehiculo is AutoF1)
                         {
-                            Competencia.AgregarCompetidor(carrera, vehiculo);
+                            Competencia<T>.AgregarCompetidor(carrera, vehiculo);
                             retorno = true;
                         }
                         else if (carrera.tipo == ETipoCompetencia.MotoCross && vehiculo is MotoCross)
                         {
-                            Competencia.AgregarCompetidor(carrera, vehiculo);
+                            Competencia<T>.AgregarCompetidor(carrera, vehiculo);
                             retorno = true;
                         }
                     }
@@ -96,13 +96,13 @@ namespace Ejercicio_49
                         {
                             if (carrera.tipo == ETipoCompetencia.F1 && vehiculo is AutoF1)
                             {
-                                Competencia.AgregarCompetidor(carrera, vehiculo);
+                                Competencia<T>.AgregarCompetidor(carrera, vehiculo);
                                 retorno = true;
                                 break;
                             }
                             else if (carrera.tipo == ETipoCompetencia.MotoCross && vehiculo is MotoCross)
                             {
-                                Competencia.AgregarCompetidor(carrera, vehiculo);
+                                Competencia<T>.AgregarCompetidor(carrera, vehiculo);
                                 retorno = true;
                                 break;
                             }
@@ -120,22 +120,22 @@ namespace Ejercicio_49
             }
             return retorno;
         }
-        private static void AgregarCompetidor(Competencia carrera, VehiculoDeCarrera vehiculo)
+        private static void AgregarCompetidor(Competencia<T> carrera, VehiculoDeCarrera vehiculo)
         {
-            carrera.competidores.Add(vehiculo);
+            carrera.competidores.Add((T)vehiculo);
             vehiculo.EnCompetencia = true;
             vehiculo.VueltasRestantes = carrera.cantidadVueltas;
             Random random = new Random();
             vehiculo.CantidadCumbustible = (short)(random.Next(15, 100));
         }
-        public static bool operator -(Competencia carrera, VehiculoDeCarrera vehiculo)
+        public static bool operator -(Competencia<T> carrera, VehiculoDeCarrera vehiculo)
         {
             bool retorno = false;
             foreach (VehiculoDeCarrera item in carrera.competidores)
             {
                 if (item == vehiculo)
                 {
-                    carrera.competidores.Remove(vehiculo);
+                    carrera.competidores.Remove((T)vehiculo);
                     vehiculo.EnCompetencia = false;
                     vehiculo.VueltasRestantes = 0;
                     vehiculo.CantidadCumbustible = 0;

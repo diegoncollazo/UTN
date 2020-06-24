@@ -12,5 +12,13 @@ namespace Ejercicio_42
         {
 
         }
+        public MiExcepcion(string message) : base(message)
+        {
+
+        }
+        public MiExcepcion(string message, Exception innerException) : base(message, innerException)
+        {
+
+        }
     }
 }

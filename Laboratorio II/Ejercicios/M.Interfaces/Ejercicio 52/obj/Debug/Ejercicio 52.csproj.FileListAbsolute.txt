@@ -1,0 +1,6 @@
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 52\bin\Debug\Ejercicio 52.exe.config
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 52\bin\Debug\Ejercicio 52.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 52\bin\Debug\Ejercicio 52.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 52\obj\Debug\Ejercicio 52.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 52\obj\Debug\Ejercicio 52.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 52\obj\Debug\Ejercicio 52.pdb

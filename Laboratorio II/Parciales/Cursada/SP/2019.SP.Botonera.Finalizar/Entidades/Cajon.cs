@@ -42,7 +42,7 @@ namespace ENTIDADES.SP
                 aux += this._precioUnitario * (this._elementos.Count);
                 if(aux > 55)
                 {
-                    //this.EventoPrecio();
+                    //EventoPrecio();
                 }
                 return aux;
             }

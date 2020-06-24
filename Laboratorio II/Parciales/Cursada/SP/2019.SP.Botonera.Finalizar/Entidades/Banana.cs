@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ENTIDADES.SP
 {
-    public class Banana:Fruta
+    public class Banana : Fruta
     {
         protected string _paisOrigen;
 
@@ -31,9 +31,9 @@ namespace ENTIDADES.SP
             }
         }
 
-        protected override string FrutraToString()
+        protected override string FrutaToString()
         {
-            return base.FrutraToString() + " " + this.Nombre + " " + this.TieneCarozo;
+            return base.FrutaToString() + " " + this.Nombre + " " + this.TieneCarozo;
         }
     }
 }

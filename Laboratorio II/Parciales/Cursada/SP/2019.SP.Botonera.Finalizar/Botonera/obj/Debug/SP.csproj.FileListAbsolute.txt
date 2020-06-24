@@ -21,3 +21,15 @@ D:\Veronica Bustos 2A\Bustos.Veronica\WindowsFormsApp1\obj\Debug\SP.csproj.CoreC
 D:\Veronica Bustos 2A\Bustos.Veronica\WindowsFormsApp1\obj\Debug\SP.csproj.CopyComplete
 D:\Veronica Bustos 2A\Bustos.Veronica\WindowsFormsApp1\obj\Debug\SP.exe
 D:\Veronica Bustos 2A\Bustos.Veronica\WindowsFormsApp1\obj\Debug\SP.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2019.SP.Botonera.Finalizar\Botonera\bin\Debug\SP.exe.config
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2019.SP.Botonera.Finalizar\Botonera\bin\Debug\SP.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2019.SP.Botonera.Finalizar\Botonera\bin\Debug\SP.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2019.SP.Botonera.Finalizar\Botonera\bin\Debug\ENTIDADES.SP.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2019.SP.Botonera.Finalizar\Botonera\obj\Debug\SP.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2019.SP.Botonera.Finalizar\Botonera\obj\Debug\SP.Botonera.resources
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2019.SP.Botonera.Finalizar\Botonera\obj\Debug\SP.Properties.Resources.resources
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2019.SP.Botonera.Finalizar\Botonera\obj\Debug\SP.csproj.GenerateResource.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2019.SP.Botonera.Finalizar\Botonera\obj\Debug\SP.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2019.SP.Botonera.Finalizar\Botonera\obj\Debug\SP.csproj.CopyComplete
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2019.SP.Botonera.Finalizar\Botonera\obj\Debug\SP.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2019.SP.Botonera.Finalizar\Botonera\obj\Debug\SP.pdb

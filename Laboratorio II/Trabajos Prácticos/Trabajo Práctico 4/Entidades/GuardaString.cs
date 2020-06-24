@@ -21,13 +21,13 @@ namespace Entidades
             try
             {
                 if (File.Exists(path))
-                {
+                
                     streamWriter = new StreamWriter(path, true);
-                }
+                
                 else
-                {
+                
                     streamWriter = new StreamWriter(path);
-                }
+                
                 streamWriter.WriteLine(texto+"\n");
                 retorno = true;
             }

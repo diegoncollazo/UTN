@@ -31,9 +31,9 @@ namespace ENTIDADES.SP
             }
         }
 
-        protected override string FrutraToString()
+        protected override string FrutaToString()
         {
-            return base.FrutraToString() + " " + this.Nombre + " " + this.TieneCarozo;
+            return base.FrutaToString() + " " + this.Nombre + " " + this.TieneCarozo;
         }
     }
 }

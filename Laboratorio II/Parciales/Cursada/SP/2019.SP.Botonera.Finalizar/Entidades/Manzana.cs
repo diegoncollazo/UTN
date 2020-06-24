@@ -9,7 +9,7 @@ using System.Xml.Serialization;
 
 namespace ENTIDADES.SP
 {
-    public  class Manzana:Fruta, ISerializar, IDeserializar
+    public  class Manzana : Fruta, ISerializar, IDeserializar
     {
         //Manzana-> _provinciaOrigen:string (protegido); Nombre:string (prop.s/l, retornará 'Manzana'); 
         //Reutilizar FrutaToString en ToString() (mostrar todos los valores). TieneCarozo->true
@@ -100,9 +100,9 @@ namespace ENTIDADES.SP
             return false;
         }
 
-        protected override string FrutraToString()
+        protected override string FrutaToString()
         {
-            return base.FrutraToString() + " " +this.Nombre + " " + this.TieneCarozo;
+            return base.FrutaToString() + " " +this.Nombre + " " + this.TieneCarozo;
         }
 
        

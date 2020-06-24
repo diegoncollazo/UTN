@@ -23,10 +23,9 @@ namespace ENTIDADES.SP
         {
             this._color = color;
             this._peso = peso;
-
         }
 
-        protected virtual string FrutraToString()
+        protected virtual string FrutaToString()
         {
 
             StringBuilder sb = new StringBuilder();

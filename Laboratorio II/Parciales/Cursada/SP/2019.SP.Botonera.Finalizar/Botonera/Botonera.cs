@@ -52,7 +52,6 @@ namespace SP
             MessageBox.Show(this._manzana.ToString());
             MessageBox.Show(this._banana.ToString());
             MessageBox.Show(this._durazno.ToString());
-
         }
 
         //Crear la clase Cajon<T>

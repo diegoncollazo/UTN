@@ -29,6 +29,9 @@ namespace Entidades
         #endregion
 
         #region Constructores
+        /// <summary>
+        /// 
+        /// </summary>
         public Correo()
         {
             this.mockPaquetes = new List<Thread>();
@@ -71,10 +74,9 @@ namespace Entidades
         public static Correo operator +(Correo correo, Paquete paquete)
         {
             Thread hiloMock = new Thread(paquete.MockCicloVida);
-
             foreach (Paquete item in correo.Paquetes)//recorro la lista
                 if (item == paquete)
-                    throw new TrackingiDRepetidoException("El paquete " + item.TrackingID + " ya se encuentra en la lista");
+                    throw new TrackingiDRepetidoException("El paquete " + item.TrackingID + " ya se encuentra en la lista.");
             correo.Paquetes.Add(paquete);
             //Agrego el hilo al mock de paquetes
             correo.mockPaquetes.Add(hiloMock);

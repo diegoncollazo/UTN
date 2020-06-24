@@ -16,14 +16,14 @@ namespace MainCorreo
         private void buttonAgregar_Click(object sender, EventArgs e)
         {
             Paquete paquete = new Paquete(textBoxDireccion.Text, maskedTextBox.Text);
-            paquete.informarEstado += paq_InformarEstado;
+            paquete.InformarEstado += paq_InformarEstado;
             try
             {
                 correo += paquete;
             }
             catch (Exception exception)
             {
-                MessageBox.Show("no se puedo guardar el paquete" + exception.Message);
+                MessageBox.Show("No se puede guardar el paquete. " + exception.Message);
             }
             finally
             {
@@ -41,7 +41,6 @@ namespace MainCorreo
                     case Paquete.EEstado.Entregado:
                         listBoxEntregado.Items.Add(auxPaquete.ToString());
                         break;
-
                     case Paquete.EEstado.EnViaje:
                         listBoxEnViaje.Items.Add(auxPaquete.ToString());
                         break;
@@ -76,7 +75,7 @@ namespace MainCorreo
             if (!(elemento is null))
             {
                 this.richTextBox.Text = elemento.MostrarDatos(elemento);
-                this.richTextBox.Text.Guardar("salida.txt");
+                this.richTextBox.Text.Guardar("Salida.txt");
             }
         }
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)

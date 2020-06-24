@@ -20,7 +20,7 @@ namespace Entidades
         private string direccionEntrega;
         private EEstado estado;
         private string trackingID;
-        public event DelegadoEstado informarEstado;
+        public event DelegadoEstado InformarEstado;
         #endregion
 
         #region Propiedades
@@ -102,7 +102,7 @@ namespace Entidades
                 {
                     this.estado = EEstado.Entregado;
                 }
-                this.informarEstado.Invoke(null,null);
+                this.InformarEstado.Invoke(null,null);
 
                 if (this.estado == EEstado.Entregado)
                 {

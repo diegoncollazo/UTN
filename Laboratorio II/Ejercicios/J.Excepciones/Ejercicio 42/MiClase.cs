@@ -8,35 +8,31 @@ namespace Ejercicio_42
 {
     public class MiClase
     {
-        private string nombre;
+        private readonly string objeto;
 
         public MiClase()
-        {
-            throw new UnaExcepcion();
-        }
-        // Primer constructor, lanzo la Excepcion
-        public MiClase(string nombre)
         {
             try
             {
                 MiClase.Estatico();
             }
-            catch(DivideByZeroException e)
+            catch (DivideByZeroException e)
             {
                 Console.WriteLine("Excepcion 1");
-                new MiClase(e);
+                throw e;
             }
         }
-        //Segundo constructor
-        public MiClase(Exception e)
+        // Primer constructor, lanzo la Excepcion
+        public MiClase(string objeto)
         {
             try
             {
-                MiClase objeto2 = new MiClase();
+                new MiClase();
             }
-            catch(Exception a)
+            catch(DivideByZeroException)
             {
                 Console.WriteLine("Excepcion 2");
+                throw new UnaExcepcion("Excepcion 2 enviada a UnaExcepcion");
             }
         }
         public static void Estatico()
