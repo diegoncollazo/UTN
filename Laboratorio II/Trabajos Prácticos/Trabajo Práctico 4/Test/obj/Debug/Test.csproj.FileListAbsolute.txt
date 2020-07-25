@@ -17,3 +17,4 @@ C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\Test\obj\Debug\Test.csproj.CopyComplete
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\Test\obj\Debug\Test.dll
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\Test\obj\Debug\Test.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\Test\bin\Debug\Entidades.dll.config

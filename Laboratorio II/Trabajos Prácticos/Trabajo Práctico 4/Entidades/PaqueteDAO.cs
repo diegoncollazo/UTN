@@ -10,12 +10,24 @@ namespace Entidades
         private static SqlConnection conexion;
         #endregion
 
+        #region Constructores
+        /// <summary>
+        /// Constructor estático por defecto.
+        /// </summary>
+        static PaqueteDAO()
+        {
+            // Cadena de conexion tomada de las propiedades del proyecto.
+            PaqueteDAO.conexion = new SqlConnection(Properties.Settings.Default.Conexion);
+            PaqueteDAO.comando = new SqlCommand();
+        }
+        #endregion
+
         #region Metodos
         /// <summary>
-        /// inserta un paquete a la base de datos 
+        /// Agrega un nuevo registro a la base de datos.
         /// </summary>
-        /// <param name="paquete">dato a ser guardado</param>
-        /// <returns>true si pudo guardarlo, false si no pudo</returns>
+        /// <param name="paquete">Paquete de correo a ser agregado.</param>
+        /// <returns>Retorna TRUE si pudo agregarlo, FALSE en caso contrario.</returns>
         public static bool Insertar(Paquete paquete)
         {
             bool retorno = false;
@@ -23,7 +35,7 @@ namespace Entidades
             {
                 conexion.Open();
                 comando = new SqlCommand(string.Format
-                    ("INSERT INTO Paquetes (direccionEntrega,trackingID,alumno) VALUES ('{0}','{1}','{2}')",
+                    ("INSERT INTO Paquetes (direccionEntrega, trackingID, alumno) VALUES ('{0}','{1}','{2}')",
                     paquete.DireccionEntrega,
                     paquete.TrackingID, "Diego Collazo"),
                     conexion
@@ -43,17 +55,6 @@ namespace Entidades
             }
             return retorno;
         }
-        /// <summary>
-        /// inicializa la conexion con la base de datos
-        /// </summary>
-        ///        
-        static PaqueteDAO()
-        {
-            string conexionStr = @"Data Source=Multitask;Initial Catalog=correo-sp-2017; Integrated Security=True";
-            conexion = new SqlConnection();
-            conexion.ConnectionString = conexionStr;
-        }
-
         #endregion
     }
 }

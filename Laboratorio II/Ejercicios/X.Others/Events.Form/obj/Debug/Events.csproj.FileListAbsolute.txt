@@ -1,0 +1,10 @@
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events\bin\Debug\Events.exe.config
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events\bin\Debug\Events.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events\bin\Debug\Events.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events\obj\Debug\Events.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events\obj\Debug\Events.Form1.resources
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events\obj\Debug\Events.Properties.Resources.resources
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events\obj\Debug\Events.csproj.GenerateResource.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events\obj\Debug\Events.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events\obj\Debug\Events.pdb

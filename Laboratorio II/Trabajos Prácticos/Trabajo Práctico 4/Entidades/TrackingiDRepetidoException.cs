@@ -8,7 +8,7 @@ namespace Entidades
         {
 
         }
-        public TrackingiDRepetidoException(string mensaje, Exception innerException) : base(mensaje,innerException)
+        public TrackingiDRepetidoException(string mensaje, Exception innerException) : base(mensaje, innerException)
         {
 
         }

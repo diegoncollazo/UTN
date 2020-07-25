@@ -12,11 +12,11 @@ namespace MainCorreo
         {
             InitializeComponent();
         }
-
         private void buttonAgregar_Click(object sender, EventArgs e)
         {
             Paquete paquete = new Paquete(textBoxDireccion.Text, maskedTextBox.Text);
-            paquete.InformarEstado += paq_InformarEstado;
+            paquete.InformarEstado += this.paq_InformarEstado;
+            paquete.DataBase += this.paq_InformarError;
             try
             {
                 correo += paquete;
@@ -61,14 +61,24 @@ namespace MainCorreo
                 this.ActualizarEstados();
             }
         }
+        private void paq_InformarError()
+        {
+            MessageBox.Show("No pudo guardarse la información en la base de datos", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+        }
         private void Form1_Load(object sender, EventArgs e)
         {
             this.correo = new Correo();
-
         }
         private void buttonMostrarTodos_Click(object sender, EventArgs e)
         {
-            this.MostrarInformacion<List<Paquete>>((IMostrar<List<Paquete>>)correo);
+            try
+            {
+                this.MostrarInformacion<List<Paquete>>((IMostrar<List<Paquete>>)correo);
+            }
+            catch(Exception e)
+            {
+                MessageBox.Show("No se pueden mostrar los datos", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
         private void MostrarInformacion<T>(IMostrar<T> elemento)
         {
@@ -82,17 +92,9 @@ namespace MainCorreo
         {
             correo.FinEntregas();
         }
-
         private void toolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            try
-            {
-                richTextBox.Text = listBoxEntregado.SelectedItem.ToString();
-            }
-            catch (Exception)
-            {
-
-            }
+            this.MostrarInformacion<Paquete>((IMostrar<Paquete>)listBoxEntregado.SelectedItem);
         }
     }
 }

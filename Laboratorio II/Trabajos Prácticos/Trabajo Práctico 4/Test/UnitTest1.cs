@@ -13,6 +13,7 @@ namespace Test
             Correo correo = new Correo();
             Assert.IsNotNull(correo);
         }
+
         [TestMethod]
         [ExpectedException(typeof(TrackingiDRepetidoException))]
         public void PaqueteRepetido()
@@ -20,6 +21,7 @@ namespace Test
             Correo correo = new Correo();
             Paquete paqueteUno = new Paquete("Juan Alberdi", "1551-111-555");
             Paquete paqueteDos = new Paquete("Jose Alberdi", "1551-111-555");
+
             correo += paqueteUno;
             correo += paqueteDos;
         }

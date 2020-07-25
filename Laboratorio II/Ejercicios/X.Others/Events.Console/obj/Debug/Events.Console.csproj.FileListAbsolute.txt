@@ -1,0 +1,9 @@
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Console\obj\Debug\Events.Console.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Console\obj\Debug\Events.Console.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Console\bin\Debug\LoremNET.dll
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Console\obj\Debug\Events.Console.csproj.CopyComplete
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Console\bin\Debug\Events.exe.config
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Console\bin\Debug\Events.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Console\bin\Debug\Events.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Console\obj\Debug\Events.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Console\obj\Debug\Events.pdb

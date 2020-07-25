@@ -25,10 +25,11 @@ namespace Entidades
         public AccesoDatos()
         {
             //Para acceder al SQL
-            this._conexion = new SqlConnection(Properties.Settings.Default.Conexion_bn);
+            //this._conexion = new SqlConnection(Properties.Settings.Default.Conexion_bn);
+            this._conexion = new SqlConnection("Data Source = localhost; Database = Padron; Trusted_Connection = True;");
         }
         #endregion
-
+         
         #region "Metodos"
         public List<Persona> TraerTodo()
         {

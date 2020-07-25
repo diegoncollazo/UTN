@@ -1,0 +1,6 @@
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2020.SP.Botonera\Entidades\bin\Debug\Entidades.dll
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2020.SP.Botonera\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2020.SP.Botonera\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2020.SP.Botonera\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2020.SP.Botonera\Entidades\obj\Debug\Entidades.dll
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2020.SP.Botonera\Entidades\obj\Debug\Entidades.pdb

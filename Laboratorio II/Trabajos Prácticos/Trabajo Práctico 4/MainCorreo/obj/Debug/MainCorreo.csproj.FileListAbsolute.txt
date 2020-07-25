@@ -34,3 +34,17 @@ C:\Users\Romeo\Downloads\Diego\MainCorreo\MainCorreo\obj\Debug\MainCorreo.csproj
 C:\Users\Romeo\Downloads\Diego\MainCorreo\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
 C:\Users\Romeo\Downloads\Diego\MainCorreo\MainCorreo\obj\Debug\MainCorreo.exe
 C:\Users\Romeo\Downloads\Diego\MainCorreo\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\MainCorreo\bin\Debug\Entidades.dll.config
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\MainCorreo\obj\Debug\MainCorreo.Form1.resources
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\MainCorreo\obj\Debug\MainCorreo.pdb

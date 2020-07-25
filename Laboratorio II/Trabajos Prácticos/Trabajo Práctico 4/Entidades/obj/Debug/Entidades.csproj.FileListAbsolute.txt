@@ -10,3 +10,10 @@ C:\Users\Romeo\Downloads\Diego\MainCorreo\Entidades\obj\Debug\Entidades.csprojAs
 C:\Users\Romeo\Downloads\Diego\MainCorreo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Romeo\Downloads\Diego\MainCorreo\Entidades\obj\Debug\Entidades.dll
 C:\Users\Romeo\Downloads\Diego\MainCorreo\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 4\Entidades\obj\Debug\Entidades.pdb

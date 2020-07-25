@@ -7,6 +7,7 @@ namespace Entidades
     {
         #region Delegados
         public delegate void DelegadoEstado(object sender, EventArgs e);
+        public delegate void DelegadoDB();
         #endregion
 
         #region Enumerados
@@ -14,13 +15,14 @@ namespace Entidades
         {
             Ingresado, EnViaje, Entregado
         }
-        #endregion 
+        #endregion
 
         #region Atributos
         private string direccionEntrega;
         private EEstado estado;
         private string trackingID;
         public event DelegadoEstado InformarEstado;
+        public event DelegadoDB DataBase;
         #endregion
 
         #region Propiedades
@@ -92,31 +94,11 @@ namespace Entidades
             while (this.Estado != EEstado.Entregado)
             {
                 Thread.Sleep(4000);
-
-                if (this.Estado != EEstado.Entregado && this.Estado != EEstado.EnViaje)
-                {
-                    this.Estado = EEstado.EnViaje;
-
-                }
-                else if (this.Estado != EEstado.Entregado && this.Estado == EEstado.EnViaje)
-                {
-                    this.estado = EEstado.Entregado;
-                }
+                this.Estado++;
                 this.InformarEstado.Invoke(null,null);
-
-                if (this.estado == EEstado.Entregado)
-                {
-                    try
-                    {
-                        PaqueteDAO.Insertar(this);
-                    }
-                    catch
-                    {
-
-                    }
-                }
             }
-
+            if (!PaqueteDAO.Insertar(this))
+                this.DataBase();
         }
         /// <summary>
         /// Muestras los datos del elemento
@@ -127,7 +109,6 @@ namespace Entidades
         {
             Paquete paquete = (Paquete)elemento;
             return string.Format("{0} para {1}\n", paquete.TrackingID, paquete.DireccionEntrega);
-
         }
         /// <summary>
         /// muestra los datos del elemento usando metodo MostrarDatos

@@ -9,3 +9,14 @@ E:\Segundo cuatrimestre - C#\Clase_20 - Datos\TestDatos\obj\Debug\TestDatos.cspr
 E:\Segundo cuatrimestre - C#\Clase_20 - Datos\TestDatos\obj\Debug\TestDatos.exe
 E:\Segundo cuatrimestre - C#\Clase_20 - Datos\TestDatos\obj\Debug\TestDatos.pdb
 E:\Segundo cuatrimestre - C#\Clase_20 - Datos\TestDatos\bin\Debug\Entidades.dll
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Cursada\2019\Segunda parte\Clase_20 - SQLDatos\Clase_20 - Datos\TestDatos\bin\Debug\TestDatos.exe.config
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Cursada\2019\Segunda parte\Clase_20 - SQLDatos\Clase_20 - Datos\TestDatos\bin\Debug\TestDatos.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Cursada\2019\Segunda parte\Clase_20 - SQLDatos\Clase_20 - Datos\TestDatos\bin\Debug\TestDatos.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Cursada\2019\Segunda parte\Clase_20 - SQLDatos\Clase_20 - Datos\TestDatos\bin\Debug\Entidades.dll
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Cursada\2019\Segunda parte\Clase_20 - SQLDatos\Clase_20 - Datos\TestDatos\bin\Debug\Entidades.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Cursada\2019\Segunda parte\Clase_20 - SQLDatos\Clase_20 - Datos\TestDatos\bin\Debug\Entidades.dll.config
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Cursada\2019\Segunda parte\Clase_20 - SQLDatos\Clase_20 - Datos\TestDatos\obj\Debug\TestDatos.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Cursada\2019\Segunda parte\Clase_20 - SQLDatos\Clase_20 - Datos\TestDatos\obj\Debug\TestDatos.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Cursada\2019\Segunda parte\Clase_20 - SQLDatos\Clase_20 - Datos\TestDatos\obj\Debug\TestDatos.csproj.CopyComplete
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Cursada\2019\Segunda parte\Clase_20 - SQLDatos\Clase_20 - Datos\TestDatos\obj\Debug\TestDatos.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Cursada\2019\Segunda parte\Clase_20 - SQLDatos\Clase_20 - Datos\TestDatos\obj\Debug\TestDatos.pdb
