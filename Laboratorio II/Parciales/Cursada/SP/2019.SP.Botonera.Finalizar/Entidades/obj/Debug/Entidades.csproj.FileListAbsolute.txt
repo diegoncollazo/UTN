@@ -1,6 +1,0 @@
-C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2019.SP.Botonera.Finalizar\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
-C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2019.SP.Botonera.Finalizar\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2019.SP.Botonera.Finalizar\Entidades\obj\Debug\ENTIDADES.SP.dll
-C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2019.SP.Botonera.Finalizar\Entidades\obj\Debug\ENTIDADES.SP.pdb
-C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2019.SP.Botonera.Finalizar\Entidades\bin\Debug\ENTIDADES.SP.dll
-C:\Users\Romeo\GitHub\UTN\Laboratorio II\Parciales\Cursada\SP\2019.SP.Botonera.Finalizar\Entidades\bin\Debug\ENTIDADES.SP.pdb

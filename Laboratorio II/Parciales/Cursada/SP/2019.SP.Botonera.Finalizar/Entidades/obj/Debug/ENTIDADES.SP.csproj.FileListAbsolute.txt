@@ -1,6 +1,0 @@
-D:\Veronica Bustos 2A\Bustos.Veronica\ENTIDADES.SP\bin\Debug\ENTIDADES.SP.dll
-D:\Veronica Bustos 2A\Bustos.Veronica\ENTIDADES.SP\bin\Debug\ENTIDADES.SP.pdb
-D:\Veronica Bustos 2A\Bustos.Veronica\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.csproj.CoreCompileInputs.cache
-D:\Veronica Bustos 2A\Bustos.Veronica\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.dll
-D:\Veronica Bustos 2A\Bustos.Veronica\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.pdb
-D:\Veronica Bustos 2A\Bustos.Veronica\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.csprojAssemblyReference.cache
