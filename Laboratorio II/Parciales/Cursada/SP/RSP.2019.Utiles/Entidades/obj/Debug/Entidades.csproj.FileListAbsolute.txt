@@ -1,0 +1,24 @@
+D:\###Passucci\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A\Entidades\bin\Debug\Entidades.dll
+D:\###Passucci\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A\Entidades\bin\Debug\Entidades.pdb
+D:\###Passucci\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\###Passucci\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\###Passucci\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A\Entidades\obj\Debug\Entidades.dll
+D:\###Passucci\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A\Entidades\obj\Debug\Entidades.pdb
+C:\Users\alan_\Desktop\2doParcialLabo2\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A - Terminado\Entidades\bin\Debug\Entidades.dll
+C:\Users\alan_\Desktop\2doParcialLabo2\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A - Terminado\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alan_\Desktop\2doParcialLabo2\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A - Terminado\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\alan_\Desktop\2doParcialLabo2\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A - Terminado\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alan_\Desktop\2doParcialLabo2\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A - Terminado\Entidades\obj\Debug\Entidades.dll
+C:\Users\alan_\Desktop\2doParcialLabo2\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A - Terminado\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\Entidades\bin\Debug\Entidades.dll
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\Entidades\obj\Debug\Entidades.dll
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Romeo\Desktop\SP.2020\Entidades\bin\Debug\Entidades.dll
+C:\Users\Romeo\Desktop\SP.2020\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Romeo\Desktop\SP.2020\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Romeo\Desktop\SP.2020\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\Desktop\SP.2020\Entidades\obj\Debug\Entidades.dll
+C:\Users\Romeo\Desktop\SP.2020\Entidades\obj\Debug\Entidades.pdb

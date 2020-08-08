@@ -1,0 +1,27 @@
+D:\#Passucci\Segundo.Parcial_2019\Entidades.SP\bin\Debug\Entidades.SP.dll
+D:\#Passucci\Segundo.Parcial_2019\Entidades.SP\bin\Debug\Entidades.SP.pdb
+D:\#Passucci\Segundo.Parcial_2019\Entidades.SP\obj\Debug\Entidades.SP.csprojAssemblyReference.cache
+D:\#Passucci\Segundo.Parcial_2019\Entidades.SP\obj\Debug\Entidades.SP.csproj.CoreCompileInputs.cache
+D:\#Passucci\Segundo.Parcial_2019\Entidades.SP\obj\Debug\Entidades.SP.dll
+D:\#Passucci\Segundo.Parcial_2019\Entidades.SP\obj\Debug\Entidades.SP.pdb
+C:\Users\alan_\Desktop\2doParcialLabo2\SP_2019.Passucci.Alan.2A-Terminado\Entidades.SP\bin\Debug\Entidades.SP.dll
+C:\Users\alan_\Desktop\2doParcialLabo2\SP_2019.Passucci.Alan.2A-Terminado\Entidades.SP\bin\Debug\Entidades.SP.pdb
+C:\Users\alan_\Desktop\2doParcialLabo2\SP_2019.Passucci.Alan.2A-Terminado\Entidades.SP\obj\Debug\Entidades.SP.csprojAssemblyReference.cache
+C:\Users\alan_\Desktop\2doParcialLabo2\SP_2019.Passucci.Alan.2A-Terminado\Entidades.SP\obj\Debug\Entidades.SP.csproj.CoreCompileInputs.cache
+C:\Users\alan_\Desktop\2doParcialLabo2\SP_2019.Passucci.Alan.2A-Terminado\Entidades.SP\obj\Debug\Entidades.SP.dll
+C:\Users\alan_\Desktop\2doParcialLabo2\SP_2019.Passucci.Alan.2A-Terminado\Entidades.SP\obj\Debug\Entidades.SP.pdb
+C:\Users\alan_\Desktop\2doParcialLabo2\SP_2019.Passucci.Alan.2A-Terminado\Entidades.SP\bin\Debug\Entidades.SP.dll.config
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\Segundo Parcial\SP_2019.Passucci.Alan.2A-Terminado\Entidades.SP\bin\Debug\Entidades.SP.dll.config
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\Segundo Parcial\SP_2019.Passucci.Alan.2A-Terminado\Entidades.SP\bin\Debug\Entidades.SP.dll
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\Segundo Parcial\SP_2019.Passucci.Alan.2A-Terminado\Entidades.SP\bin\Debug\Entidades.SP.pdb
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\Segundo Parcial\SP_2019.Passucci.Alan.2A-Terminado\Entidades.SP\obj\Debug\Entidades.SP.csprojAssemblyReference.cache
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\Segundo Parcial\SP_2019.Passucci.Alan.2A-Terminado\Entidades.SP\obj\Debug\Entidades.SP.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\Segundo Parcial\SP_2019.Passucci.Alan.2A-Terminado\Entidades.SP\obj\Debug\Entidades.SP.dll
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\Segundo Parcial\SP_2019.Passucci.Alan.2A-Terminado\Entidades.SP\obj\Debug\Entidades.SP.pdb
+C:\Users\Romeo\Desktop\SP.2019\Entidades.SP\bin\Debug\Entidades.SP.dll.config
+C:\Users\Romeo\Desktop\SP.2019\Entidades.SP\bin\Debug\Entidades.SP.dll
+C:\Users\Romeo\Desktop\SP.2019\Entidades.SP\bin\Debug\Entidades.SP.pdb
+C:\Users\Romeo\Desktop\SP.2019\Entidades.SP\obj\Debug\Entidades.SP.csprojAssemblyReference.cache
+C:\Users\Romeo\Desktop\SP.2019\Entidades.SP\obj\Debug\Entidades.SP.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\Desktop\SP.2019\Entidades.SP\obj\Debug\Entidades.SP.dll
+C:\Users\Romeo\Desktop\SP.2019\Entidades.SP\obj\Debug\Entidades.SP.pdb

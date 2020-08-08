@@ -1,0 +1,84 @@
+c:\users\administrador\documents\visual studio 2010\Projects\SP.LabII\WindowsForms.SP\bin\Debug\WindowsForms.SP.exe
+c:\users\administrador\documents\visual studio 2010\Projects\SP.LabII\WindowsForms.SP\bin\Debug\WindowsForms.SP.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\SP.LabII\WindowsForms.SP\bin\Debug\Entidades.SP.dll
+c:\users\administrador\documents\visual studio 2010\Projects\SP.LabII\WindowsForms.SP\bin\Debug\Entidades.SP.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\SP.LabII\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2010\Projects\SP.LabII\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.SegundoParcial.resources
+c:\users\administrador\documents\visual studio 2010\Projects\SP.LabII\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\SP.LabII\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2010\Projects\SP.LabII\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.exe
+c:\users\administrador\documents\visual studio 2010\Projects\SP.LabII\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\SP.LabII - Alumnos\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\SP.LabII - Alumnos\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.pdb
+D:\###Passucci\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csprojAssemblyReference.cache
+D:\###Passucci\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.SegundoParcial.resources
+D:\###Passucci\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.Properties.Resources.resources
+D:\###Passucci\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.GenerateResource.cache
+D:\###Passucci\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.CoreCompileInputs.cache
+D:\###Passucci\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.exe
+D:\###Passucci\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.pdb
+C:\Users\alan_\Desktop\2doParcialLabo2\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csprojAssemblyReference.cache
+C:\Users\alan_\Desktop\2doParcialLabo2\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.SegundoParcial.resources
+C:\Users\alan_\Desktop\2doParcialLabo2\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.Properties.Resources.resources
+C:\Users\alan_\Desktop\2doParcialLabo2\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.GenerateResource.cache
+C:\Users\alan_\Desktop\2doParcialLabo2\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.CoreCompileInputs.cache
+C:\Users\alan_\Desktop\2doParcialLabo2\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.exe
+C:\Users\alan_\Desktop\2doParcialLabo2\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.pdb
+C:\Users\alan_\Desktop\2doParcialLabo2\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\bin\Debug\WindowsForms.SP.exe.config
+C:\Users\alan_\Desktop\2doParcialLabo2\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\bin\Debug\WindowsForms.SP.exe
+C:\Users\alan_\Desktop\2doParcialLabo2\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\bin\Debug\WindowsForms.SP.pdb
+C:\Users\alan_\Desktop\2doParcialLabo2\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\bin\Debug\Entidades.dll
+C:\Users\alan_\Desktop\2doParcialLabo2\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\bin\Debug\Entidades.pdb
+C:\Users\alan_\Desktop\2doParcialLabo2\Recu2doParcialLabo2\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.CopyComplete
+C:\Users\alan_\Desktop\2doParcialLabo2\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\bin\Debug\WindowsForms.SP.exe.config
+C:\Users\alan_\Desktop\2doParcialLabo2\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\bin\Debug\WindowsForms.SP.exe
+C:\Users\alan_\Desktop\2doParcialLabo2\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\bin\Debug\WindowsForms.SP.pdb
+C:\Users\alan_\Desktop\2doParcialLabo2\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\bin\Debug\Entidades.dll
+C:\Users\alan_\Desktop\2doParcialLabo2\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\bin\Debug\Entidades.pdb
+C:\Users\alan_\Desktop\2doParcialLabo2\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csprojAssemblyReference.cache
+C:\Users\alan_\Desktop\2doParcialLabo2\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.SegundoParcial.resources
+C:\Users\alan_\Desktop\2doParcialLabo2\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.Properties.Resources.resources
+C:\Users\alan_\Desktop\2doParcialLabo2\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.GenerateResource.cache
+C:\Users\alan_\Desktop\2doParcialLabo2\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.CoreCompileInputs.cache
+C:\Users\alan_\Desktop\2doParcialLabo2\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.CopyComplete
+C:\Users\alan_\Desktop\2doParcialLabo2\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.exe
+C:\Users\alan_\Desktop\2doParcialLabo2\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.pdb
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\bin\Debug\WindowsForms.SP.exe.config
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\bin\Debug\WindowsForms.SP.exe
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\bin\Debug\WindowsForms.SP.pdb
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\bin\Debug\Entidades.dll
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\bin\Debug\Entidades.pdb
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csprojAssemblyReference.cache
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.SegundoParcial.resources
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.Properties.Resources.resources
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.GenerateResource.cache
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.CopyComplete
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.exe
+C:\Users\Romeo\Downloads\ASD\2doParcialLabo2-master\RecuSP\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.pdb
+C:\Users\Romeo\Desktop\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\bin\Debug\WindowsForms.SP.exe.config
+C:\Users\Romeo\Desktop\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\bin\Debug\WindowsForms.SP.exe
+C:\Users\Romeo\Desktop\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\bin\Debug\WindowsForms.SP.pdb
+C:\Users\Romeo\Desktop\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\bin\Debug\Entidades.dll
+C:\Users\Romeo\Desktop\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\bin\Debug\Entidades.pdb
+C:\Users\Romeo\Desktop\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csprojAssemblyReference.cache
+C:\Users\Romeo\Desktop\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.SegundoParcial.resources
+C:\Users\Romeo\Desktop\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.Properties.Resources.resources
+C:\Users\Romeo\Desktop\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.GenerateResource.cache
+C:\Users\Romeo\Desktop\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\Desktop\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.CopyComplete
+C:\Users\Romeo\Desktop\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.exe
+C:\Users\Romeo\Desktop\SP.LabII - Passucci.Alan.2A - Terminado\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.pdb
+C:\Users\Romeo\Desktop\SP.2020\WindowsForms.SP\bin\Debug\WindowsForms.SP.exe.config
+C:\Users\Romeo\Desktop\SP.2020\WindowsForms.SP\bin\Debug\WindowsForms.SP.exe
+C:\Users\Romeo\Desktop\SP.2020\WindowsForms.SP\bin\Debug\WindowsForms.SP.pdb
+C:\Users\Romeo\Desktop\SP.2020\WindowsForms.SP\bin\Debug\Entidades.dll
+C:\Users\Romeo\Desktop\SP.2020\WindowsForms.SP\bin\Debug\Entidades.pdb
+C:\Users\Romeo\Desktop\SP.2020\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csprojAssemblyReference.cache
+C:\Users\Romeo\Desktop\SP.2020\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.SegundoParcial.resources
+C:\Users\Romeo\Desktop\SP.2020\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.Properties.Resources.resources
+C:\Users\Romeo\Desktop\SP.2020\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.GenerateResource.cache
+C:\Users\Romeo\Desktop\SP.2020\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\Desktop\SP.2020\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.CopyComplete
+C:\Users\Romeo\Desktop\SP.2020\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.exe
+C:\Users\Romeo\Desktop\SP.2020\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.pdb

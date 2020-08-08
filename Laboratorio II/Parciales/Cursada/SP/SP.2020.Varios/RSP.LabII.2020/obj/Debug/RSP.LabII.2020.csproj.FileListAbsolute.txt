@@ -1,0 +1,13 @@
+C:\Users\Romeo\Desktop\Collazo.Diego.2A\RSP.LabII.2020\RSP.LabII.2020\obj\Debug\RSP.LabII.2020.csprojAssemblyReference.cache
+C:\Users\Romeo\Desktop\Collazo.Diego.2A\RSP.LabII.2020\RSP.LabII.2020\obj\Debug\RSP.LabII._2020.RSP.resources
+C:\Users\Romeo\Desktop\Collazo.Diego.2A\RSP.LabII.2020\RSP.LabII.2020\obj\Debug\RSP.LabII._2020.Properties.Resources.resources
+C:\Users\Romeo\Desktop\Collazo.Diego.2A\RSP.LabII.2020\RSP.LabII.2020\obj\Debug\RSP.LabII.2020.csproj.GenerateResource.cache
+C:\Users\Romeo\Desktop\Collazo.Diego.2A\RSP.LabII.2020\RSP.LabII.2020\obj\Debug\RSP.LabII.2020.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\Desktop\Collazo.Diego.2A\RSP.LabII.2020\RSP.LabII.2020\bin\Debug\RSP.LabII.2020.exe.config
+C:\Users\Romeo\Desktop\Collazo.Diego.2A\RSP.LabII.2020\RSP.LabII.2020\bin\Debug\RSP.LabII.2020.exe
+C:\Users\Romeo\Desktop\Collazo.Diego.2A\RSP.LabII.2020\RSP.LabII.2020\bin\Debug\RSP.LabII.2020.pdb
+C:\Users\Romeo\Desktop\Collazo.Diego.2A\RSP.LabII.2020\RSP.LabII.2020\bin\Debug\Entidades.dll
+C:\Users\Romeo\Desktop\Collazo.Diego.2A\RSP.LabII.2020\RSP.LabII.2020\bin\Debug\Entidades.pdb
+C:\Users\Romeo\Desktop\Collazo.Diego.2A\RSP.LabII.2020\RSP.LabII.2020\obj\Debug\RSP.LabII.2020.csproj.CopyComplete
+C:\Users\Romeo\Desktop\Collazo.Diego.2A\RSP.LabII.2020\RSP.LabII.2020\obj\Debug\RSP.LabII.2020.exe
+C:\Users\Romeo\Desktop\Collazo.Diego.2A\RSP.LabII.2020\RSP.LabII.2020\obj\Debug\RSP.LabII.2020.pdb
