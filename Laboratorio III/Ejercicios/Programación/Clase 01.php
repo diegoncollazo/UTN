@@ -36,11 +36,13 @@ echo 'Cantidad de enteros: '.$contador.'<br/>';
 echo '<br/>Ejercio 05.<br/>';
 $a = 6; $b = 9; $c = 8;
 
-if ($a < $b && $b < $c)
+if ($a > $b && $b < $c)
     echo 'Es B';
-else if ($b < $c && $c < $a)
+else if ($b > $c && $c < $a)
     echo 'Es C';
-else if ($b < $a && $a < $c)
+else if ($b > $a && $a < $c)
     echo 'Es A';
+
+
 
 ?>
