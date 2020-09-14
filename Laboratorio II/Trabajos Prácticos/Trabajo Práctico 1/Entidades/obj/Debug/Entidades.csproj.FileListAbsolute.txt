@@ -21,3 +21,9 @@ C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 1\Entidades\obj\Debug\Entidades.dll
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Trabajos Prácticos\Trabajo Práctico 1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Trabajos Prácticos\Trabajo Práctico 1\Entidades\obj\Debug\Entidades.pdb

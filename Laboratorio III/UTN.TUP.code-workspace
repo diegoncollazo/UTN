@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "..\\..\\Master_en_PHP"
 		}
 	],
 	"settings": {}
