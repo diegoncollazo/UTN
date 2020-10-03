@@ -1,0 +1,17 @@
+Clase 01: Intro TypeScript / Funciones en TypeScript
+https://drive.google.com/file/d/1EmduK9KelHy5CimBgyAIcrhFA6BCUMq-/view?usp=sharing
+https://drive.google.com/file/d/1UlhOoq7nobZkUL_Ws5qKYnxr8gnfRURq/view?usp=sharing
+
+Clase 02: Intro HTML / HTML & TypeScript / POO en TypeScript
+https://drive.google.com/file/d/1josJ7t9RU_caeET5f5TR83hWsES1UwBm/view?usp=sharing
+https://drive.google.com/file/d/18nPtLs75dvbxle3KjaZPIOWslX_JpuOG/view?usp=sharing
+https://drive.google.com/file/d/1fcskYnWGsDtnYs2FMPFuHiu1Jh0yy3l0/view?usp=sharing
+
+Clase 03: AJAX
+https://drive.google.com/file/d/1vN9pyl4D_BsTCwEJc8Kgk91TNoV0adCt/view?usp=sharing
+
+Clase 04: JSON
+https://drive.google.com/file/d/1GNb59z8nKowjGBe-HBEBo0CYrjxPvLlV/view?usp=sharing
+
+Clase 05: jQuery / ABM Productos
+https://drive.google.com/file/d/1USnTiI5iSfYOK13eSHFdCmXio7W_1uma/view?usp=sharing
