@@ -5,7 +5,7 @@
         private $_nombre;
         private $_sexo;
         // Constructor
-        public function __constructor($nombre, $apellido, $dni, $sexo){
+        public function __construct($nombre, $apellido, $dni, $sexo){
             $this->_nombre = $nombre;
             $this->_apellido = $apellido;
             $this->_dni = $dni;

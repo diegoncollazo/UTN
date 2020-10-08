@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>HTML 5 - Formulario alta empleado</title>
+    </head>
+    <body>
+        <h2>Alta de empleados</h2>
+        <form
+            action=""
+            method="POST"
+            onsubmit="return AdministrarValidacionesLogin()"
+        >
+            <table align="center">
+                <tr>
+                    <td><h4>Datos personales</h4></td>
+                </tr>
+                <tr>
+                    <td colspan="2"><hr /></td>
+                </tr>
+                <tr>
+                    <td><label>DNI: </label></td>
+                    <td>
+                        <input
+                            size="12"
+                            type="number"
+                            id="txtDni"
+                            name="txtDni"
+                            placeholder="1000000"
+                            min="1000000"
+                            max="55000000"
+                        />
+                        <!-- <span style="display: none">*</span> -->
+                    </td>
+                </tr>
+                <tr>
+                    <td><label>Apellido: </label></td>
+                    <td>
+                        <input
+                            type="text"
+                            id="txtApellido"
+                            name="txtApellido"
+                        />
+                        <!-- <span style="display: none">*</span> -->
+                    </td>
+                </tr>
+                <tr>
+                    <td><label>Nombre: </label></td>
+                    <td>
+                        <input type="text" id="txtNombre" name="txtNombre" />
+                        <!-- <span style="display: none">*</span> -->
+                    </td>
+                </tr>
+                <tr>
+                    <td><label>Sexo: </label></td>
+                    <td>
+                        <select name="cboSexo" id="cboSexo">
+                            <option value="---">Seleccione</option>
+                            <option value="F">Femenimo</option>
+                            <option value="M">Masculino</option>
+                        </select>
+                        <!-- <span style="display: none">*</span> -->
+                    </td>
+                </tr>
+
+                <tr>
+                    <td><h4>Datos laborales</h4></td>
+                </tr>
+                <tr>
+                    <td colspan="2"><hr /></td>
+                </tr>
+                <tr>
+                    <td><label>Legajo: </label></td>
+                    <td>
+                        <input
+                            size="8"
+                            type="number"
+                            id="txtLegajo"
+                            name="txtLegajo"
+                            placeholder="100"
+                            min="100"
+                            max="550"
+                        />
+                        <!-- <span style="display: none">*</span> -->
+                    </td>
+                </tr>
+                <tr>
+                    <td><label>Sueldo: </label></td>
+                    <td>
+                        <input
+                            type="number"
+                            id="txtSueldo"
+                            name="txtSueldo"
+                            placeholder="8000"
+                            min="8000"
+                            step="500"
+                        />
+                        <!-- <span style="display: none">*</span> -->
+                    </td>
+                </tr>
+                <tr>
+                    <td><label>Turno: </label></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <!-- Turno mañana -->
+                        <input
+                            type="radio"
+                            name="rdoTurno"
+                            id="mañana"
+                            value="mañana"
+                            checked="checked"
+                        />
+                        <label for="mañana">Mañana</label><br />
+                        <!-- Turno tarde -->
+                        <input
+                            type="radio"
+                            name="rdoTurno"
+                            id="tarde"
+                            value="tarde"
+                        />
+                        <label for="tarde">Tarde</label><br />
+                        <!-- Turno noche -->
+                        <input
+                            type="radio"
+                            name="rdoTurno"
+                            id="noche"
+                            value="noche"
+                        />
+                        <label for="noche">Noche</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2"><hr /></td>
+                </tr>
+                <!-- Botones Enviar & Limpiar -->
+                <tr>
+                    <td colspan="2" align="right">
+                        <input type="submit" value="Enviar"  />
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" align="right">
+                        <input type="reset" value="Limpiar" />
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>

@@ -1,3 +1,4 @@
+///<reference path="ropa.ts"/>
 namespace Entidades
 {
     export class Campera extends Ropa
