@@ -5,3 +5,10 @@ C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 43\o
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 43\obj\Debug\Ejercicio 43.csproj.CoreCompileInputs.cache
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 43\obj\Debug\Ejercicio 43.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 43\obj\Debug\Ejercicio 43.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 43\bin\Debug\Ejercicio 43.exe.config
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 43\bin\Debug\Ejercicio 43.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 43\bin\Debug\Ejercicio 43.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 43\obj\Debug\Ejercicio 43.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 43\obj\Debug\Ejercicio 43.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 43\obj\Debug\Ejercicio 43.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 43\obj\Debug\Ejercicio 43.pdb

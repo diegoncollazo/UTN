@@ -7,3 +7,13 @@ C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\obj\
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\obj\Debug\Ejercicio 47.csproj.CopyComplete
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\obj\Debug\Ejercicio 47.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\obj\Debug\Ejercicio 47.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\bin\Debug\Ejercicio 47.exe.config
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\bin\Debug\Ejercicio 47.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\bin\Debug\Ejercicio 47.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\bin\Debug\Clase 47.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\obj\Debug\Ejercicio 47.csproj.AssemblyReference.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\obj\Debug\Ejercicio 47.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\obj\Debug\Ejercicio 47.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\obj\Debug\Ejercicio 47.csproj.CopyComplete
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\obj\Debug\Ejercicio 47.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\obj\Debug\Ejercicio 47.pdb

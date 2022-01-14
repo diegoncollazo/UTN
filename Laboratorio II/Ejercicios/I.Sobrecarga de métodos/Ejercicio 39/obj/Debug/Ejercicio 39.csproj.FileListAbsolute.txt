@@ -5,3 +5,10 @@ C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Eje
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 39\obj\Debug\Ejercicio 39.csproj.CoreCompileInputs.cache
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 39\obj\Debug\Ejercicio 39.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 39\obj\Debug\Ejercicio 39.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 39\bin\Debug\Ejercicio 39.exe.config
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 39\bin\Debug\Ejercicio 39.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 39\bin\Debug\Ejercicio 39.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 39\obj\Debug\Ejercicio 39.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 39\obj\Debug\Ejercicio 39.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 39\obj\Debug\Ejercicio 39.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 39\obj\Debug\Ejercicio 39.pdb

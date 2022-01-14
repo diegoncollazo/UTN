@@ -16,3 +16,13 @@ C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Eje
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Formulario\obj\Debug\Ejercicio 40.Formulario.csproj.CoreCompileInputs.cache
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Formulario\obj\Debug\Ejercicio 40.Formulario.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Formulario\obj\Debug\Ejercicio 40.Formulario.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Formulario\bin\Debug\Ejercicio 40.Formulario.exe.config
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Formulario\bin\Debug\Ejercicio 40.Formulario.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Formulario\bin\Debug\Ejercicio 40.Formulario.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Formulario\obj\Debug\Ejercicio 40.Formulario.csproj.AssemblyReference.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Formulario\obj\Debug\Ejercicio 40.Formulario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Formulario\obj\Debug\Ejercicio_40.Formulario.Properties.Resources.resources
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Formulario\obj\Debug\Ejercicio 40.Formulario.csproj.GenerateResource.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Formulario\obj\Debug\Ejercicio 40.Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Formulario\obj\Debug\Ejercicio 40.Formulario.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Formulario\obj\Debug\Ejercicio 40.Formulario.pdb

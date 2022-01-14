@@ -15,3 +15,11 @@ C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\B.Metodos estaticos (de clas
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 13\obj\Debug\Ejercicio 13.csproj.CoreCompileInputs.cache
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 13\obj\Debug\Ejercicio 13.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 13\obj\Debug\Ejercicio 13.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 13\bin\Debug\Ejercicio 13.exe.config
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 13\bin\Debug\Ejercicio 13.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 13\bin\Debug\Ejercicio 13.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 13\obj\Debug\Ejercicio 13.csproj.AssemblyReference.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 13\obj\Debug\Ejercicio 13.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 13\obj\Debug\Ejercicio 13.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 13\obj\Debug\Ejercicio 13.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\B.Metodos estaticos (de clase)\Ejercicio 13\obj\Debug\Ejercicio 13.pdb

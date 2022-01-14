@@ -16,3 +16,13 @@ C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Eje
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Consola\obj\Debug\Ejercicio 40.Consola.csproj.CopyComplete
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Consola\obj\Debug\Ejercicio 40.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Consola\obj\Debug\Ejercicio 40.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Consola\bin\Debug\Ejercicio 40.exe.config
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Consola\bin\Debug\Ejercicio 40.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Consola\bin\Debug\Ejercicio 40.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Consola\bin\Debug\Clase 40.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Consola\obj\Debug\Ejercicio 40.Consola.csproj.AssemblyReference.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Consola\obj\Debug\Ejercicio 40.Consola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Consola\obj\Debug\Ejercicio 40.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Consola\obj\Debug\Ejercicio 40.Consola.csproj.CopyComplete
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Consola\obj\Debug\Ejercicio 40.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 40.Consola\obj\Debug\Ejercicio 40.pdb

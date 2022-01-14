@@ -1,0 +1,10 @@
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\bin\Debug\Events.exe.config
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\bin\Debug\Events.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\bin\Debug\Events.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\obj\Debug\Events.Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\obj\Debug\Events.Form1.resources
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\obj\Debug\Events.Properties.Resources.resources
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\obj\Debug\Events.Form.csproj.GenerateResource.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\obj\Debug\Events.Form.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\obj\Debug\Events.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\obj\Debug\Events.pdb

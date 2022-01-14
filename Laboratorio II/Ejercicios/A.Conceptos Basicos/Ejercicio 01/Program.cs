@@ -26,13 +26,10 @@ namespace Ejercicio_01
                     mayor = numeros[0];
                     bandera = false;
                 }
-                if (numeros[i] < menor)
-                {
+                if (numeros[i] < menor)  
                     menor = numeros[i];
-                }else if (numeros[i] > mayor)
-                {
+                else if (numeros[i] > mayor)
                     mayor = numeros[i];
-                }
             }
             Console.WriteLine("La suma es: {0:#,###.00}", suma);
             Console.WriteLine("El promedio es: {0:#,###.00}", suma/5);

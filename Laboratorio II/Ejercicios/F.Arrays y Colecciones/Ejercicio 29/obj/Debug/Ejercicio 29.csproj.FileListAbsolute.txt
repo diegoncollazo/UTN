@@ -19,3 +19,15 @@ C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\F.Arrays y Colecciones\Ejerc
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\F.Arrays y Colecciones\Ejercicio 29\obj\Debug\Ejercicio 29.csproj.CopyComplete
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\F.Arrays y Colecciones\Ejercicio 29\obj\Debug\Ejercicio 29.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\F.Arrays y Colecciones\Ejercicio 29\obj\Debug\Ejercicio 29.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\F.Arrays y Colecciones\Ejercicio 29\bin\Debug\Ejercicio 29.exe.config
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\F.Arrays y Colecciones\Ejercicio 29\bin\Debug\Ejercicio 29.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\F.Arrays y Colecciones\Ejercicio 29\bin\Debug\Ejercicio 29.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\F.Arrays y Colecciones\Ejercicio 29\bin\Debug\Clase 35.dll
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\F.Arrays y Colecciones\Ejercicio 29\bin\Debug\Clase 29.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\F.Arrays y Colecciones\Ejercicio 29\bin\Debug\Clase 35.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\F.Arrays y Colecciones\Ejercicio 29\obj\Debug\Ejercicio 29.csproj.AssemblyReference.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\F.Arrays y Colecciones\Ejercicio 29\obj\Debug\Ejercicio 29.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\F.Arrays y Colecciones\Ejercicio 29\obj\Debug\Ejercicio 29.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\F.Arrays y Colecciones\Ejercicio 29\obj\Debug\Ejercicio 29.csproj.CopyComplete
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\F.Arrays y Colecciones\Ejercicio 29\obj\Debug\Ejercicio 29.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\F.Arrays y Colecciones\Ejercicio 29\obj\Debug\Ejercicio 29.pdb

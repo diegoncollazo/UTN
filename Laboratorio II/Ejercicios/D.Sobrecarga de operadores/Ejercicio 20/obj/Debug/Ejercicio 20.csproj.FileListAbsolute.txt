@@ -28,3 +28,11 @@ C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\D.Sobrecarga de operadores\E
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\obj\Debug\Ejercicio 20.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\obj\Debug\Ejercicio 20.pdb
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\obj\Debug\Ejercicio 20.csprojAssemblyReference.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\bin\Debug\Ejercicio 20.exe.config
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\bin\Debug\Ejercicio 20.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\bin\Debug\Ejercicio 20.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\obj\Debug\Ejercicio 20.csproj.AssemblyReference.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\obj\Debug\Ejercicio 20.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\obj\Debug\Ejercicio 20.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\obj\Debug\Ejercicio 20.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\D.Sobrecarga de operadores\Ejercicio 20\obj\Debug\Ejercicio 20.pdb

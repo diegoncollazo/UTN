@@ -8,3 +8,14 @@ C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\P.Threads\Ejercicio 63\obj\D
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\P.Threads\Ejercicio 63\obj\Debug\Ejercicio 63.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\P.Threads\Ejercicio 63\obj\Debug\Ejercicio 63.pdb
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\P.Threads\Ejercicio 63\obj\Debug\Ejercicio_63_Thread.Form1.resources
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\P.Threads\Ejercicio 63\bin\Debug\Ejercicio 63.exe.config
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\P.Threads\Ejercicio 63\bin\Debug\Ejercicio 63.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\P.Threads\Ejercicio 63\bin\Debug\Ejercicio 63.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\P.Threads\Ejercicio 63\obj\Debug\Ejercicio 63.csproj.AssemblyReference.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\P.Threads\Ejercicio 63\obj\Debug\Ejercicio 63.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\P.Threads\Ejercicio 63\obj\Debug\Ejercicio_63_Thread.Form1.resources
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\P.Threads\Ejercicio 63\obj\Debug\Ejercicio_63.Properties.Resources.resources
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\P.Threads\Ejercicio 63\obj\Debug\Ejercicio 63.csproj.GenerateResource.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\P.Threads\Ejercicio 63\obj\Debug\Ejercicio 63.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\P.Threads\Ejercicio 63\obj\Debug\Ejercicio 63.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\P.Threads\Ejercicio 63\obj\Debug\Ejercicio 63.pdb

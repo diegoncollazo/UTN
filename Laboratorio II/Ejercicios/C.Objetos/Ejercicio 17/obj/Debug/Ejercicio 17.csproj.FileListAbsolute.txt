@@ -28,3 +28,13 @@ C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\obj\D
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.CopyComplete
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 16.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 16.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\bin\Debug\Ejercicio 16.exe.config
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\bin\Debug\Ejercicio 16.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\bin\Debug\Ejercicio 16.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\bin\Debug\Clase.Boligrafo.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.AssemblyReference.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.CopyComplete
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 16.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 16.pdb

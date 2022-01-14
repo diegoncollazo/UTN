@@ -5,3 +5,10 @@ C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 50\ob
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 50\obj\Debug\Ejercicio 50.csproj.CoreCompileInputs.cache
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 50\obj\Debug\Ejercicio 50.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 50\obj\Debug\Ejercicio 50.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 50\bin\Debug\Ejercicio 50.exe.config
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 50\bin\Debug\Ejercicio 50.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 50\bin\Debug\Ejercicio 50.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 50\obj\Debug\Ejercicio 50.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 50\obj\Debug\Ejercicio 50.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 50\obj\Debug\Ejercicio 50.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 50\obj\Debug\Ejercicio 50.pdb

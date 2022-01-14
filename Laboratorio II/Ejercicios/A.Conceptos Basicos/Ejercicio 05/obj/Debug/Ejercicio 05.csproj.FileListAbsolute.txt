@@ -18,3 +18,10 @@ C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\A.Conceptos Basicos\Ejercici
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\A.Conceptos Basicos\Ejercicio 05\obj\Debug\Ejercicio 05.csproj.CoreCompileInputs.cache
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\A.Conceptos Basicos\Ejercicio 05\obj\Debug\Ejercicio 05.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\A.Conceptos Basicos\Ejercicio 05\obj\Debug\Ejercicio 05.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\A.Conceptos Basicos\Ejercicio 05\bin\Debug\Ejercicio 05.exe.config
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\A.Conceptos Basicos\Ejercicio 05\bin\Debug\Ejercicio 05.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\A.Conceptos Basicos\Ejercicio 05\bin\Debug\Ejercicio 05.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\A.Conceptos Basicos\Ejercicio 05\obj\Debug\Ejercicio 05.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\A.Conceptos Basicos\Ejercicio 05\obj\Debug\Ejercicio 05.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\A.Conceptos Basicos\Ejercicio 05\obj\Debug\Ejercicio 05.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\A.Conceptos Basicos\Ejercicio 05\obj\Debug\Ejercicio 05.pdb

@@ -5,3 +5,10 @@ C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\Ñ.Serialization\Ejercicio 5
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\Ñ.Serialization\Ejercicio 57\obj\Debug\Ejercicio 57.csproj.CoreCompileInputs.cache
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\Ñ.Serialization\Ejercicio 57\obj\Debug\Ejercicio 57.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\Ñ.Serialization\Ejercicio 57\obj\Debug\Ejercicio 57.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\Ñ.Serialization\Ejercicio 57\bin\Debug\Ejercicio 57.exe.config
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\Ñ.Serialization\Ejercicio 57\bin\Debug\Ejercicio 57.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\Ñ.Serialization\Ejercicio 57\bin\Debug\Ejercicio 57.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\Ñ.Serialization\Ejercicio 57\obj\Debug\Ejercicio 57.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\Ñ.Serialization\Ejercicio 57\obj\Debug\Ejercicio 57.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\Ñ.Serialization\Ejercicio 57\obj\Debug\Ejercicio 57.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\Ñ.Serialization\Ejercicio 57\obj\Debug\Ejercicio 57.pdb

@@ -17,3 +17,13 @@ C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 31\obj\Debug\Ejercicio 31.csproj.CopyComplete
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 31\obj\Debug\Ejercicio 31.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 31\obj\Debug\Ejercicio 31.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 31\bin\Debug\Ejercicio 31.exe.config
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 31\bin\Debug\Ejercicio 31.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 31\bin\Debug\Ejercicio 31.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 31\bin\Debug\Clase 31.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 31\obj\Debug\Ejercicio 31.csproj.AssemblyReference.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 31\obj\Debug\Ejercicio 31.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 31\obj\Debug\Ejercicio 31.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 31\obj\Debug\Ejercicio 31.csproj.CopyComplete
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 31\obj\Debug\Ejercicio 31.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 31\obj\Debug\Ejercicio 31.pdb

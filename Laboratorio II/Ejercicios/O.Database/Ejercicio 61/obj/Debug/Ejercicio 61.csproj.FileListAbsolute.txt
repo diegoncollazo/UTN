@@ -1,0 +1,11 @@
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 61\bin\Debug\Ejercicio 61.exe.config
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 61\bin\Debug\Ejercicio 61.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 61\bin\Debug\Ejercicio 61.pdb
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 61\obj\Debug\Ejercicio 61.csproj.AssemblyReference.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 61\obj\Debug\Ejercicio 61.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 61\obj\Debug\Ejercicio_61.Form1.resources
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 61\obj\Debug\Ejercicio_61.Properties.Resources.resources
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 61\obj\Debug\Ejercicio 61.csproj.GenerateResource.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 61\obj\Debug\Ejercicio 61.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 61\obj\Debug\Ejercicio 61.exe
+C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 61\obj\Debug\Ejercicio 61.pdb
