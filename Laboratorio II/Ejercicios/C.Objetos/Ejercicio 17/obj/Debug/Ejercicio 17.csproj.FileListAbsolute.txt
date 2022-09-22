@@ -22,8 +22,6 @@ C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\C.Objetos\Ejercicio 17\obj\
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\bin\Debug\Ejercicio 16.exe.config
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\bin\Debug\Ejercicio 16.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\bin\Debug\Ejercicio 16.pdb
-C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\bin\Debug\Clase.Boligrafo.pdb
-C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 17.csprojAssemblyReference.cache
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.CoreCompileInputs.cache
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.CopyComplete
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 16.exe
@@ -38,3 +36,4 @@ C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\obj
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.CopyComplete
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 16.exe
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 16.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\C.Objetos\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.AssemblyReference.cache

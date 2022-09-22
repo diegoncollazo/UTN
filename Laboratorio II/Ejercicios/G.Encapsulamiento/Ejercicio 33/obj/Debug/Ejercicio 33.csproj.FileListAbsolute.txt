@@ -11,7 +11,6 @@ C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\G.Encapsulamiento\Ejercicio
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 33\bin\Debug\Ejercicio 33.exe.config
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 33\bin\Debug\Ejercicio 33.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 33\bin\Debug\Ejercicio 33.pdb
-C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 33\obj\Debug\Ejercicio 33.csprojAssemblyReference.cache
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 33\obj\Debug\Ejercicio 33.csproj.CoreCompileInputs.cache
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 33\obj\Debug\Ejercicio 33.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 33\obj\Debug\Ejercicio 33.pdb
@@ -23,3 +22,4 @@ C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercici
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 33\obj\Debug\Ejercicio 33.csproj.CoreCompileInputs.cache
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 33\obj\Debug\Ejercicio 33.exe
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 33\obj\Debug\Ejercicio 33.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\G.Encapsulamiento\Ejercicio 33\obj\Debug\Ejercicio 33.csproj.AssemblyReference.cache

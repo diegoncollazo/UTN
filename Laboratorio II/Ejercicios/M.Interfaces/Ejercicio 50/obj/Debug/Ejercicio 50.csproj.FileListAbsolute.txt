@@ -1,7 +1,6 @@
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 50\bin\Debug\Ejercicio 50.exe.config
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 50\bin\Debug\Ejercicio 50.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 50\bin\Debug\Ejercicio 50.pdb
-C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 50\obj\Debug\Ejercicio 50.csprojAssemblyReference.cache
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 50\obj\Debug\Ejercicio 50.csproj.CoreCompileInputs.cache
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 50\obj\Debug\Ejercicio 50.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\M.Interfaces\Ejercicio 50\obj\Debug\Ejercicio 50.pdb

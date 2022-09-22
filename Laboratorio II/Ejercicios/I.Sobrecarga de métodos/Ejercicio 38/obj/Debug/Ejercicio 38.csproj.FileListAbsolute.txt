@@ -11,7 +11,6 @@ C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\I.Sobrecarga de métodos\Ej
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 38\bin\Debug\Ejercicio 38.exe.config
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 38\bin\Debug\Ejercicio 38.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 38\bin\Debug\Ejercicio 38.pdb
-C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 38\obj\Debug\Ejercicio 38.csprojAssemblyReference.cache
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 38\obj\Debug\Ejercicio 38.csproj.CoreCompileInputs.cache
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 38\obj\Debug\Ejercicio 38.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 38\obj\Debug\Ejercicio 38.pdb
@@ -22,3 +21,4 @@ C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\E
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 38\obj\Debug\Ejercicio 38.csproj.CoreCompileInputs.cache
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 38\obj\Debug\Ejercicio 38.exe
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 38\obj\Debug\Ejercicio 38.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\I.Sobrecarga de métodos\Ejercicio 38\obj\Debug\Ejercicio 38.csproj.AssemblyReference.cache

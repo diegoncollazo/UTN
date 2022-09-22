@@ -2,8 +2,6 @@ C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\obj\
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\bin\Debug\Ejercicio 47.exe.config
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\bin\Debug\Ejercicio 47.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\bin\Debug\Ejercicio 47.pdb
-C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\bin\Debug\Clase 47.pdb
-C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\obj\Debug\Ejercicio 47.csprojAssemblyReference.cache
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\obj\Debug\Ejercicio 47.csproj.CopyComplete
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\obj\Debug\Ejercicio 47.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\obj\Debug\Ejercicio 47.pdb
@@ -17,3 +15,4 @@ C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\ob
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\obj\Debug\Ejercicio 47.csproj.CopyComplete
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\obj\Debug\Ejercicio 47.exe
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\obj\Debug\Ejercicio 47.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 47\obj\Debug\Ejercicio 47.csproj.AssemblyReference.cache

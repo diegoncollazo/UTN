@@ -25,3 +25,4 @@ C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\A.Conceptos Basicos\Ejerci
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\A.Conceptos Basicos\Ejercicio 02\obj\Debug\Ejercicio 02.csproj.CoreCompileInputs.cache
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\A.Conceptos Basicos\Ejercicio 02\obj\Debug\Ejercicio 01.exe
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\A.Conceptos Basicos\Ejercicio 02\obj\Debug\Ejercicio 01.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\A.Conceptos Basicos\Ejercicio 02\obj\Debug\Ejercicio 02.csproj.AssemblyReference.cache

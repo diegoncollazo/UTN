@@ -1,8 +1,6 @@
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 42\bin\Debug\Ejercicio 42.exe.config
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 42\bin\Debug\Ejercicio 42.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 42\bin\Debug\Ejercicio 42.pdb
-C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 42\bin\Debug\Clase 42.pdb
-C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 42\obj\Debug\Ejercicio 42.csprojAssemblyReference.cache
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 42\obj\Debug\Ejercicio 42.csproj.CoreCompileInputs.cache
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 42\obj\Debug\Ejercicio 42.csproj.CopyComplete
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 42\obj\Debug\Ejercicio 42.exe
@@ -17,3 +15,4 @@ C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 42
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 42\obj\Debug\Ejercicio 42.csproj.CopyComplete
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 42\obj\Debug\Ejercicio 42.exe
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 42\obj\Debug\Ejercicio 42.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\J.Excepciones\Ejercicio 42\obj\Debug\Ejercicio 42.csproj.AssemblyReference.cache

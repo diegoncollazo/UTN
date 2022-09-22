@@ -8,3 +8,12 @@ C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 60\ob
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 60\obj\Debug\Ejercicio 60.csproj.CoreCompileInputs.cache
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 60\obj\Debug\Ejercicio 60.exe
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 60\obj\Debug\Ejercicio 60.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 60\bin\Debug\Ejercicio 60.exe.config
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 60\bin\Debug\Ejercicio 60.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 60\bin\Debug\Ejercicio 60.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 60\obj\Debug\Ejercicio 60.csproj.AssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 60\obj\Debug\Ejercicio_60.Properties.Resources.resources
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 60\obj\Debug\Ejercicio 60.csproj.GenerateResource.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 60\obj\Debug\Ejercicio 60.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 60\obj\Debug\Ejercicio 60.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\O.Database\Ejercicio 60\obj\Debug\Ejercicio 60.pdb

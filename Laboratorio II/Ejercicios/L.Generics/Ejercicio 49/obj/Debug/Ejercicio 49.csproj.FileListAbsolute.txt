@@ -1,7 +1,6 @@
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 49\bin\Debug\Ejercicio 49.exe.config
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 49\bin\Debug\Ejercicio 49.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 49\bin\Debug\Ejercicio 49.pdb
-C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 49\obj\Debug\Ejercicio 49.csprojAssemblyReference.cache
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 49\obj\Debug\Ejercicio 49.csproj.CoreCompileInputs.cache
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 49\obj\Debug\Ejercicio 49.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\L.Generics\Ejercicio 49\obj\Debug\Ejercicio 49.pdb

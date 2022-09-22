@@ -8,3 +8,13 @@ C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\obj\D
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\obj\Debug\Events.Form.csproj.CoreCompileInputs.cache
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\obj\Debug\Events.exe
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\obj\Debug\Events.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\bin\Debug\Events.exe.config
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\bin\Debug\Events.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\bin\Debug\Events.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\obj\Debug\Events.Form.csproj.AssemblyReference.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\obj\Debug\Events.Form1.resources
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\obj\Debug\Events.Properties.Resources.resources
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\obj\Debug\Events.Form.csproj.GenerateResource.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\obj\Debug\Events.Form.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\obj\Debug\Events.exe
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\X.Others\Events.Form\obj\Debug\Events.pdb

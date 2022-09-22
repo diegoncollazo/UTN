@@ -9,7 +9,6 @@ C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\H.Herencia\Ejercicio 36\obj
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\H.Herencia\Ejercicio 36\obj\Debug\Ejercicio 36.exe
 C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Ejercicios\H.Herencia\Ejercicio 36\obj\Debug\Ejercicio 36.pdb
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\H.Herencia\Ejercicio 36\obj\Debug\Ejercicio 36.csproj.CoreCompileInputs.cache
-C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\H.Herencia\Ejercicio 36\obj\Debug\Ejercicio 36.csprojAssemblyReference.cache
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\H.Herencia\Ejercicio 36\bin\Debug\Ejercicio 36.exe.config
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\H.Herencia\Ejercicio 36\bin\Debug\Ejercicio 36.exe
 C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\H.Herencia\Ejercicio 36\bin\Debug\Ejercicio 36.pdb
@@ -22,3 +21,4 @@ C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\H.Herencia\Ejercicio 36\ob
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\H.Herencia\Ejercicio 36\obj\Debug\Ejercicio 36.csproj.CoreCompileInputs.cache
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\H.Herencia\Ejercicio 36\obj\Debug\Ejercicio 36.exe
 C:\Users\Julieta\GitHub\UTN\Laboratorio II\Ejercicios\H.Herencia\Ejercicio 36\obj\Debug\Ejercicio 36.pdb
+C:\Users\Romeo\GitHub\UTN\Laboratorio II\Ejercicios\H.Herencia\Ejercicio 36\obj\Debug\Ejercicio 36.csproj.AssemblyReference.cache
