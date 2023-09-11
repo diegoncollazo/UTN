@@ -1,6 +1,0 @@
-C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Cursada\2020\Primera parte\Listas genericas\Entidades\bin\Release\Entidades.dll
-C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Cursada\2020\Primera parte\Listas genericas\Entidades\bin\Release\Entidades.pdb
-C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Cursada\2020\Primera parte\Listas genericas\Entidades\obj\Release\Entidades.csprojAssemblyReference.cache
-C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Cursada\2020\Primera parte\Listas genericas\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Cursada\2020\Primera parte\Listas genericas\Entidades\obj\Release\Entidades.dll
-C:\Users\Romeo\GitHub\UTN\Cuatrimestre II\Cursada\2020\Primera parte\Listas genericas\Entidades\obj\Release\Entidades.pdb

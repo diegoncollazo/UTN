@@ -1,6 +1,0 @@
-C:\Users\Romeo\source\repos\Ejercicio 05\Entidades\bin\Debug\Entidades.dll
-C:\Users\Romeo\source\repos\Ejercicio 05\Entidades\bin\Debug\Entidades.pdb
-C:\Users\Romeo\source\repos\Ejercicio 05\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
-C:\Users\Romeo\source\repos\Ejercicio 05\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\Romeo\source\repos\Ejercicio 05\Entidades\obj\Debug\Entidades.dll
-C:\Users\Romeo\source\repos\Ejercicio 05\Entidades\obj\Debug\Entidades.pdb
